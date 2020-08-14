@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+
+<body>
+
+    <script>
+        fetch("http://www.gmoney.or.kr/main/gmoney/searchFranchisee.do?menuNo=040000&subMenuNo=040100", {
+            "headers": {
+                "accept": "text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9",
+                "accept-language": "ko-KR,ko;q=0.9,en-US;q=0.8,en;q=0.7,de;q=0.6",
+                "cache-control": "max-age=0",
+                "content-type": "application/x-www-form-urlencoded",
+                "upgrade-insecure-requests": "1"
+            },
+            "referrer": "http://www.gmoney.or.kr/main/gmoney/searchFranchisee.do?menuNo=040000&subMenuNo=040100",
+            "referrerPolicy": "no-referrer-when-downgrade",
+            "body": "apiKey=E4A59B05-0CF4-3654-BD0C-A169F70CCB34&pageIndex=1&sigoonCode=%EA%B3%A0%EC%96%91%EC%8B%9C&nameCode=",
+            "method": "POST",
+            "credentials": "include"
+        }).then(function (response) {
+            console.log(response)
+            return response.json()
+        });
+    </script>
+</body>
+
+</html>
