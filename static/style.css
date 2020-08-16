@@ -29,12 +29,12 @@
 }
 
 /* 하단 */
-@media screen and (max-width: 540px) {
+@media screen and (max-width: 576px) {
     #categorys_sm {display:block;}
     #categorys {display:none;}
 }
 
-@media screen and (min-width: 540px) {
+@media screen and (min-width: 576px) {
     #categorys_sm {display:none;}
     #categorys {display:block;}
 }
@@ -48,5 +48,5 @@
 }
 
 #categorys_sm{
-    
+
 }
