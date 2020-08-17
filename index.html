@@ -201,7 +201,7 @@
         // 지역 명에 해당하는 json 불러오기
         function getStoreJson(cityName){
             // json 파일 가져오기
-            $.getJSON(`/data/${cityName}.json`, function(data){
+            $.getJSON(`./data/${cityName}.json`, function(data){
                 console.dir(data[0]);
                 
                 // 지도에 해당 지역 마커 표시
@@ -256,7 +256,7 @@
                     map.panTo(moveLatLon);
 
                     // 이동 한 곳의 가맹점 그리기
-                    drawMarkStore();
+                    setTimeout(drawMarkStore(),500);
                 })
             } else {
                 alert('GPS를 지원하지 않습니다');
