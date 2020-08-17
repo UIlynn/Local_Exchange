@@ -122,22 +122,9 @@
         const categorysDropdown = document.querySelectorAll('#categorys_sm .dropdown-item')
         const localSelectModalTitle = document.querySelector('#localSelectModalLabel')
         const localSelectModalBody = document.querySelector('#localSelectModalBody')
+        let currentCityName = "";
         
-
-        // gps 현위치로 이동 함수
-        function getLocation() {
-            if (navigator.geolocation) { // GPS를 지원하면
-                navigator.geolocation.getCurrentPosition(({ coords: { latitude, longitude } }) => {
-                    console.log(latitude, longitude);
-                    // 이동할 위도 경도 위치를 생성합니다 
-                    const moveLatLon = new kakao.maps.LatLng(latitude, longitude);
-                    map.panTo(moveLatLon);
-                })
-            } else {
-                alert('GPS를 지원하지 않습니다');
-            }
-        }
-
+        
 
         // 초기 맵 설정
         mapOption = {
@@ -145,11 +132,67 @@
             level: 3 // 지도의 확대 레벨
         };  
 
-        
         // kakao map 객체를 생성합니다(그리기)
-        let map = new kakao.maps.Map(mapContainer, mapOption); 
+        const map = new kakao.maps.Map(mapContainer, mapOption); 
         // 장소 검색 객체를 생성합니다
-        let ps = new kakao.maps.services.Places();  
+        const ps = new kakao.maps.services.Places();  
+        // 주소-좌표 변환 객체를 생성합니다
+        const geocoder = new kakao.maps.services.Geocoder();
+
+
+
+        // 지역이름 얻기
+        function getCityName(result, status){
+            // console.dir(result);
+
+            // 현재 도시 이름 검색
+            const newCityName = result[0].region_2depth_name;
+            console.log(newCityName);
+
+            // 도시 변경이 있는지 여부에 따라 마커를 다시 생성
+            if (newCityName==currentCityName){
+                console.log("도시 변경 없음")
+            }else{
+                console.log(`도시 변경 ${currentCityName}->${newCityName}`)
+                currentCityName = newCityName;
+
+                // 가맹점 목록 가져오기
+                getStoreJson(newCityName);
+            }
+        }
+
+
+        // 현재 지도 중심의 도시 구하고 지도에 표시하기
+        function drawMarkStore(){
+            // 현 지도 위치부터 구한다.
+            const position = map.getCenter();
+            // console.dir(position);
+
+            // 좌표로 주소 얻기
+            geocoder.coord2RegionCode(position.Ga, position.Ha, getCityName);  
+        }
+
+
+
+        // gps 현위치로 이동 함수
+        function getLocation() {
+            if (navigator.geolocation) { // GPS를 지원하면
+                navigator.geolocation.getCurrentPosition(({ coords: { latitude, longitude } }) => {
+                    // console.log(latitude, longitude);
+                    // 이동할 위도 경도 위치를 생성합니다 
+                    const moveLatLon = new kakao.maps.LatLng(latitude, longitude);
+                    map.panTo(moveLatLon);
+
+                    // 이동 한 곳의 가맹점 그리기
+                    drawMarkStore();
+                })
+            } else {
+                alert('GPS를 지원하지 않습니다');
+            }
+        }
+
+
+        
 
 
         // 카테고리 선택시 수행
@@ -189,7 +232,7 @@
 
         // 지역 검색 완료 시 콜백 함수
         function placesSearchCB (response, status, pagination) {
-            console.dir(response);
+            // console.dir(response);
             if (status === kakao.maps.services.Status.OK) {
                 localSelectModalBody.innerHTML="";
                 
@@ -211,7 +254,7 @@
 
         // 지역 검색 함수
         function searchArea(){
-            console.log(">>> searchArea : ", textSearch.value);
+            // console.log(">>> searchArea : ", textSearch.value);
             let keyword = textSearch.value;
 
             // 유효성 검사
@@ -228,8 +271,6 @@
             
         };
 
-        
-        
 
         // 초기화 함수
         function init(){
@@ -241,7 +282,7 @@
 
             // gps 권한 받기 및 현위치로 이동
             getLocation();
-      
+
         };
 
         init();
