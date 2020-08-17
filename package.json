@@ -1,7 +1,0 @@
-{
-  "script": {
-    "predeploy": "npm run build",
-    "deploy": "gh-pages -d build"
-  },
-  "homepage": "https://uilynn.github.io/Local_Exchange/"
-}
