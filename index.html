@@ -10,9 +10,7 @@
     <script src="https://unpkg.com/axios/dist/axios.min.js"></script>
 
     <!-- bootstrap -->
-    <script src="./static/jquery/jquery-3.4.1.slim.min.js"
-        integrity="sha384-J6qa4849blE2+poT4WnyKhv5vZF5SrPo0iEjwBvKU7imGFAV0wwj1yYfoRSJoZ+n"
-        crossorigin="anonymous"></script>
+    <script src="./static/jquery/jquery.min.js"></script>
     <script src="./static/popper/popper.min.js"
         integrity="sha384-Q6E9RHvbIyZFJoft+2mJbHaEWldlvI9IOYy5n3zV9zzTtmI3UksdQRVvoxMfooAo"
         crossorigin="anonymous"></script>
@@ -112,7 +110,7 @@
     </div>
   </div>
 
-</body>
+
     <script>
         // 주요 요소
         const btnSearch = document.querySelector('#btnSearch');
@@ -140,14 +138,34 @@
         const geocoder = new kakao.maps.services.Geocoder();
 
 
+        // function 마커 표시
+        function drawMarker(){
 
-        // 지역이름 얻기
+        }
+
+
+        // 지역 명에 해당하는 json 불러오기
+        function getStoreJson(cityName){
+            // json 파일 가져오기
+            $.getJSON(`/data/${cityName}.json`, function(data){
+                console.dir(data[0]);
+                const {CMPNM_NM: name, DATA_STD_DE: std, INDUTYPE_NM:indutype, REFINE_LOTNO_ADDR:addr, REFINE_WGS84_LAT:lat, REFINE_WGS84_LOGT:lng, REFINE_ZIPNO:zip} = data[0];
+                console.log(name,std);
+
+                // 마커 표시
+                drawMarker()
+                
+            })
+        }
+
+
+        // 지역 이름 얻기
         function getCityName(result, status){
             // console.dir(result);
 
             // 현재 도시 이름 검색
             const newCityName = result[0].region_2depth_name;
-            console.log(newCityName);
+            // console.log(newCityName);
 
             // 도시 변경이 있는지 여부에 따라 마커를 다시 생성
             if (newCityName==currentCityName){
@@ -171,8 +189,6 @@
             // 좌표로 주소 얻기
             geocoder.coord2RegionCode(position.Ga, position.Ha, getCityName);  
         }
-
-
 
         // gps 현위치로 이동 함수
         function getLocation() {
@@ -289,8 +305,6 @@
 
    
 
-        
-
     </script>
-    
+</body>
 </html>
