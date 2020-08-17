@@ -112,8 +112,6 @@
     </div>
   </div>
 
-
-
 </body>
     <script>
         // 주요 요소
@@ -125,6 +123,22 @@
         const localSelectModalTitle = document.querySelector('#localSelectModalLabel')
         const localSelectModalBody = document.querySelector('#localSelectModalBody')
         
+
+        // gps 현위치로 이동 함수
+        function getLocation() {
+            if (navigator.geolocation) { // GPS를 지원하면
+                navigator.geolocation.getCurrentPosition(({ coords: { latitude, longitude } }) => {
+                    console.log(latitude, longitude);
+                    // 이동할 위도 경도 위치를 생성합니다 
+                    const moveLatLon = new kakao.maps.LatLng(latitude, longitude);
+                    map.panTo(moveLatLon);
+                })
+            } else {
+                alert('GPS를 지원하지 않습니다');
+            }
+        }
+
+
         // 초기 맵 설정
         mapOption = {
             center: new kakao.maps.LatLng(37.566826, 126.9786567), // 지도의 중심좌표
@@ -136,8 +150,6 @@
         let map = new kakao.maps.Map(mapContainer, mapOption); 
         // 장소 검색 객체를 생성합니다
         let ps = new kakao.maps.services.Places();  
-
-
 
 
         // 카테고리 선택시 수행
@@ -162,31 +174,12 @@
         };
 
 
-
-        // 검색어 지역으로 이동
-        function moveArea(response){
-            
-            // 검색된 장소 위치를 기준으로 지도 범위를 재설정하기위해
-            // LatLngBounds 객체에 좌표를 추가합니다
-            let bounds = new kakao.maps.LatLngBounds();
-
-            bounds.extend(new kakao.maps.LatLng(response[0].y, response[0].x)); //
-            // for (var i=0; i<response.length; i++) {
-            //     // displayMarker(response[i]);    
-            //     bounds.extend(new kakao.maps.LatLng(response[i].y, response[i].x));
-            // }       
-
-            // 검색된 장소 위치를 기준으로 지도 범위를 재설정합니다
-            map.setBounds(bounds);
-        }
-
-
         // 지도 이동 함수
         function panTo() {
             const [lng, lat] = [event.target.getAttribute('x'), event.target.getAttribute('y')];
-            console.log(x,y);
+            console.log(lat,lng);
             // 이동할 위도 경도 위치를 생성합니다 
-            var moveLatLon = new kakao.maps.LatLng(lat, lng);
+            const moveLatLon = new kakao.maps.LatLng(lat, lng);
             
             // 지도 중심을 부드럽게 이동시킵니다
             // 만약 이동할 거리가 지도 화면보다 크면 부드러운 효과 없이 이동합니다
@@ -235,6 +228,9 @@
             
         };
 
+        
+        
+
         // 초기화 함수
         function init(){
             // 검색 버튼 이벤트 추가        
@@ -242,6 +238,9 @@
 
             // 카테고리 버튼들에게 이벤트 추가
             addEventCategorys();
+
+            // gps 권한 받기 및 현위치로 이동
+            getLocation();
       
         };
 
