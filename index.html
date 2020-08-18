@@ -115,17 +115,20 @@
         const categorysDropdown = document.querySelectorAll('#categorys_sm .dropdown-item')
         const localSelectModalTitle = document.querySelector('#localSelectModalLabel')
         const localSelectModalBody = document.querySelector('#localSelectModalBody')
-        let currentCityName; // 현재 도시
-        let currentTownName; // 현재 동 읍 면
+        let currentArea = []; // 현재 행정구역 정보
+        // let currentCityName; // 현재 도시
+        // let currentTownName; // 현재 동 읍 면
         let currentOverlay =""; // 현재 오버레이
         let currentCategoryName = ""; // 현재 카테고리 종류
-        
+        const markers = {} // 마커 관리 보관용
+
         
 
         // 초기 맵 설정
         mapOption = {
             center: new kakao.maps.LatLng(37.566826, 126.9786567), // 지도의 중심좌표
-            level: 3 // 지도의 확대 레벨
+            level: 3, // 지도의 확대 레벨
+            maxLevel :3
         };  
 
         // kakao map 객체를 생성합니다(그리기)
@@ -138,6 +141,18 @@
 
         // 여기서부터 함수 구현
 
+        // 마커 삭제 함수
+        function clearAllMarker(cityName,townName){
+            console.log(`>clearAllMarker(${cityName},${townName})`)
+            markers[`${cityName}_${townName}`].forEach(element=>{
+                element.setMap(null);
+            })
+
+            // markers에서 삭제
+            delete markers[`${cityName}_${townName}`]
+        }
+
+
         // 마우스 드래그 이벤트 정의
         // 마우스 드래그로 지도 이동이 완료되었을 때 마지막 파라미터로 넘어온 함수를 호출하도록 이벤트를 등록합니다
         kakao.maps.event.addListener(map, 'dragend', function() {        
@@ -146,7 +161,7 @@
         });
 
         // 지도에 마커 생성 표시
-        function drawMarker({CMPNM_NM: name, DATA_STD_DE: std, INDUTYPE_NM:indutype, REFINE_LOTNO_ADDR:addr, REFINE_WGS84_LAT:lat, REFINE_WGS84_LOGT:lng, REFINE_ZIPNO:zip}){
+        function drawMarker({CMPNM_NM: name, DATA_STD_DE: std, INDUTYPE_NM:indutype, REFINE_ROADNM_ADDR:addr_road, REFINE_LOTNO_ADDR:addr_no, REFINE_WGS84_LAT:lat, REFINE_WGS84_LOGT:lng, REFINE_ZIPNO:zip},cityName,townName){
             // console.log(name);
             
             // 위치 객체 생성
@@ -158,6 +173,12 @@
                 position: pos // 마커의 위치
             });
 
+            // 관리 목록에 추가 - key가 없으면 생성
+            if (!markers[`${cityName}_${townName}`]){
+                markers[`${cityName}_${townName}`] = []
+            }
+            markers[`${cityName}_${townName}`].push(marker);
+
             // 커스텀 오버레이에 표시할 컨텐츠 입니다
             // 커스텀 오버레이는 아래와 같이 사용자가 자유롭게 컨텐츠를 구성하고 이벤트를 제어할 수 있기 때문에
             // 별도의 이벤트 메소드를 제공하지 않습니다 
@@ -165,11 +186,13 @@
             content.classList.add('overlay_div');
             content.innerHTML = `<div class="header"><span>[${indutype}]</span><span>${name}</span></div>
             <div class="content">
-                <span>${addr}</span>
+                <span>지번 : </span><span>${addr_no}</span>
+                <span>도로명 : </span><span>${addr_road}</span>
             </div>
             <div class="footer">    
-                <a target="_blank" href="https://map.kakao.com/link/to/${name},${lat},${lng}"><button class="btn btn-success btn-sm">길찾기</button></a>
-                <a target="_blank" href="https://map.kakao.com/link/map/${name},${lat},${lng}"><button class="btn btn-danger btn-sm">상세정보</button></a>
+                <a target="_blank" href="https://map.kakao.com/link/to/${name},${lat},${lng}"><button class="btn btn-success btn-sm">Kakao 길찾기</button></a>
+                <a target="_blank" href="https://map.kakao.com/link/map/${name},${lat},${lng}"><button class="btn btn-danger btn-sm">KaKao 상세정보</button></a>
+                <a target="_blank" href="http://map.naver.com/?query=${addr_no}"><button class="btn btn-danger btn-sm">Naver 위치보기</button></a>
             </div>
             `;
 
@@ -207,17 +230,18 @@
         function getStoreJson(cityName,townName){
             // json 파일 가져오기
             cityName = `${cityName}`.split(' ')[0];
-            console.log("가져올 json > ", `./data/${cityName}.json`)
+            // console.log("가져올 json > ", `./data/${cityName}.json`)
             // $.getJSON(`./data/${cityName}.json`, function(data){
             // $.getJSON(`./data/성남시/운중동/store.json`, function(data){
             $.getJSON(`./data/${cityName}/${townName}/store.json`, function(data){
-                console.dir(data[0]);
+                // console.dir(data[0]); // json 데이터 예시 확인용
                 
                 // 지도에 해당 지역 마커 표시
                 // drawMarker(data[0])
 
+                // 마커 표시
                 data.forEach(element=>{
-                    drawMarker(element);
+                    drawMarker(element,cityName,townName);
                 })
             })
         }
@@ -228,25 +252,65 @@
             console.dir(result); // 이곳에 행정명이 들어있음
             // console.log('>',result[0].region_2depth_name);
 
-            // 검색된 행정명 최대 3개까지만 반복
-            for (let i = 0; i < result.length; i++){
+            // 행정구역 변화가 있는지 확인
+            if (result == currentArea){
+                console.log("도시 변경 없음")
+                return
+            }else{
+                // 1. 기존 지역에서 새로 감지된 영역 리스트에 없다면 마커를 삭제
+                currentArea.forEach(current =>{
+                    let chk = false;
+                    result.forEach(r => {
+                        // console.log(r.code===current.code) // 지역코드가 달라도 동이 같을 수 있음
+                        // if (r.code == current.code){
+                        if (r.region_1depth_name == current.region_1depth_name && r.region_2depth_name == current.region_2depth_name ){
+                            chk = true;
+                        }
+                    })
+
+                    // 찾았으면 true일 것, 없다면 cityName과 townName을 찾아 삭제
+                    if (!chk){
+                        const cityName = current.region_2depth_name.split(' ')[0];;
+                        const townName = current.region_3depth_name;
+                        clearAllMarker(cityName, townName); // 마커 삭제
+                    }
+                })
+
+                // 2. 새롭게 currentArea를 저장
+                currentArea = result;
+            }
+
+            // 맵에서 새로 갱신된 행정 구역만큼 반복
+            for (let i = 0; i < currentArea.length; i++){
+                // 이미 마커가 있다면 스킵
+                const cityName = result[i].region_2depth_name;
+                const townName = result[i].region_3depth_name;
+
+                if (markers[`${cityName}_${townName}`]){
+                    console.log("이미 마커 표시지역이므로 스킵")
+                    continue;
+                }else{
+                    // 가맹점 목록 가져오기
+                    getStoreJson(cityName, townName);
+                }
+                
                 // 현재 도시 이름 검색
-                console.dir(result[i])
+                // console.dir(result[i])
                 const newCityName = result[i].region_2depth_name;
                 const newTownName = result[i].region_3depth_name;
                 // console.log(newCityName, newTownName);
 
                 // 도시 변경이 있는지 여부에 따라 마커를 다시 생성
-                if (newCityName==currentCityName){
-                    console.log("도시 변경 없음")
-                }else{
-                    console.log(`도시 변경 ${currentCityName}->${newCityName}`)
-                    console.log(`동 변경 ${currentTownName}->${newTownName}`)
-                    currentCityName = newCityName;
+                // if (newCityName==currentCityName){
+                //     console.log("도시 변경 없음")
+                // }else{
+                //     console.log(`도시 변경 ${currentCityName}->${newCityName}`)
+                //     console.log(`동 변경 ${currentTownName}->${newTownName}`)
+                //     currentCityName = newCityName;
 
-                    // 가맹점 목록 가져오기
-                    getStoreJson(newCityName, newTownName);
-                }
+                //     // 가맹점 목록 가져오기
+                //     getStoreJson(newCityName, newTownName);
+                // }
             }
         }
 

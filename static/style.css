@@ -5,6 +5,7 @@
     border:2px solid black;
     padding:10px;
     border-radius: 5px;
+    z-index:999;
 }
 
 .overlay_div .header span{
