@@ -116,6 +116,7 @@
         const localSelectModalTitle = document.querySelector('#localSelectModalLabel')
         const localSelectModalBody = document.querySelector('#localSelectModalBody')
         let currentCityName; // 현재 도시
+        let currentTownName; // 현재 동 읍 면
         let currentOverlay =""; // 현재 오버레이
         let currentCategoryName = ""; // 현재 카테고리 종류
         
@@ -203,20 +204,21 @@
 
 
         // 지역 명에 해당하는 json 불러오기
-        function getStoreJson(cityName){
+        function getStoreJson(cityName,townName){
             // json 파일 가져오기
             cityName = `${cityName}`.split(' ')[0];
             console.log("가져올 json > ", `./data/${cityName}.json`)
-            $.getJSON(`./data/${cityName}.json`, function(data){
+            // $.getJSON(`./data/${cityName}.json`, function(data){
+            // $.getJSON(`./data/성남시/운중동/store.json`, function(data){
+            $.getJSON(`./data/${cityName}/${townName}/store.json`, function(data){
                 console.dir(data[0]);
                 
                 // 지도에 해당 지역 마커 표시
                 // drawMarker(data[0])
 
-                // data.forEach(element=>{
-                //     drawMarker(element);
-                // })
-                
+                data.forEach(element=>{
+                    drawMarker(element);
+                })
             })
         }
 
@@ -224,20 +226,27 @@
         // 지역 이름 얻기
         function getCityName(result, status){
             console.dir(result); // 이곳에 행정명이 들어있음
+            // console.log('>',result[0].region_2depth_name);
 
-            // 현재 도시 이름 검색
-            const newCityName = result[0].region_2depth_name;
-            // console.log(newCityName);
+            // 검색된 행정명 최대 3개까지만 반복
+            for (let i = 0; i < result.length; i++){
+                // 현재 도시 이름 검색
+                console.dir(result[i])
+                const newCityName = result[i].region_2depth_name;
+                const newTownName = result[i].region_3depth_name;
+                // console.log(newCityName, newTownName);
 
-            // 도시 변경이 있는지 여부에 따라 마커를 다시 생성
-            if (newCityName==currentCityName){
-                console.log("도시 변경 없음")
-            }else{
-                console.log(`도시 변경 ${currentCityName}->${newCityName}`)
-                currentCityName = newCityName;
+                // 도시 변경이 있는지 여부에 따라 마커를 다시 생성
+                if (newCityName==currentCityName){
+                    console.log("도시 변경 없음")
+                }else{
+                    console.log(`도시 변경 ${currentCityName}->${newCityName}`)
+                    console.log(`동 변경 ${currentTownName}->${newTownName}`)
+                    currentCityName = newCityName;
 
-                // 가맹점 목록 가져오기
-                getStoreJson(newCityName);
+                    // 가맹점 목록 가져오기
+                    getStoreJson(newCityName, newTownName);
+                }
             }
         }
 
