@@ -73,11 +73,14 @@ def split_local_town_json(cityName):
         
         # json 파일로 저장 
         with open(os.path.join(dir_name,'store.json'), 'w', encoding='UTF-8') as fp:
-            json.dump(results, fp, ensure_ascii=False, indent='\t')
+            json.dump(v, fp, ensure_ascii=False, indent='\t')
 
 if __name__ == "__main__":
     city_list = ['가평군','고양시','과천시','광명시','광주시','광주시','구리시','군포시','김포시','남양주시','동두천시','부천시','성남시','수원시','시흥시','안산시','안양시','양주시','양평군','여주시','연천군','오산시','용인시','의왕시','이천시','파주시','평택시','포천시','하남시','화성시']
 
-    split_local_town_json('광명시')
+    # split_local_town_json('광명시')
     # for city in city_list:
     #     split_local_town_json(city)
+
+    for city in city_list[ city_list.index('양평군') : ]:
+        split_local_town_json(city)
