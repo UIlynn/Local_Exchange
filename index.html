@@ -25,7 +25,7 @@
 
 <body>
     <section id="header" class="container-fluid text-center">
-                <span>지역 화폐 가맹점 검색 사이트</span>  
+                <span>지역 화폐 가맹점 찾기</span>  
     </section>
 
     <section id="top" class="container-fluid">
@@ -135,6 +135,15 @@
         const geocoder = new kakao.maps.services.Geocoder();
 
 
+        // 여기서부터 함수 구현
+
+        // 마우스 드래그 이벤트 정의
+        // 마우스 드래그로 지도 이동이 완료되었을 때 마지막 파라미터로 넘어온 함수를 호출하도록 이벤트를 등록합니다
+        kakao.maps.event.addListener(map, 'dragend', function() {        
+            // 이동 한 곳의 가맹점 그리기
+            setTimeout(drawMarkStore(),500);
+        });
+
         // 지도에 마커 생성 표시
         function drawMarker({CMPNM_NM: name, DATA_STD_DE: std, INDUTYPE_NM:indutype, REFINE_LOTNO_ADDR:addr, REFINE_WGS84_LAT:lat, REFINE_WGS84_LOGT:lng, REFINE_ZIPNO:zip}){
             // console.log(name);
@@ -196,6 +205,8 @@
         // 지역 명에 해당하는 json 불러오기
         function getStoreJson(cityName){
             // json 파일 가져오기
+            cityName = `${cityName}`.split(' ')[0];
+            console.log("가져올 json > ", `./data/${cityName}.json`)
             $.getJSON(`./data/${cityName}.json`, function(data){
                 console.dir(data[0]);
                 
