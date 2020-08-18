@@ -1,0 +1,74 @@
+[
+	{
+		"SIGUN_NM": "광명시",
+		"CMPNM_NM": "광명해다미어린이집[아이행복]",
+		"INDUTYPE_NM": "",
+		"REFINE_ROADNM_ADDR": "경기도 광명시 목감로 58",
+		"REFINE_LOTNO_ADDR": "경기도 광명시 광명6동 785번지 광명해모로이연아파트 116동 104호",
+		"TELNO": "",
+		"REFINE_ZIPNO": "14295",
+		"REFINE_WGS84_LAT": "37.4728672803",
+		"REFINE_WGS84_LOGT": "126.8459248025",
+		"DATA_STD_DE": "2020-08-18"
+	},
+	{
+		"SIGUN_NM": "광명시",
+		"CMPNM_NM": "부라더미싱",
+		"INDUTYPE_NM": "기타-기계공구",
+		"REFINE_ROADNM_ADDR": "",
+		"REFINE_LOTNO_ADDR": "경기도 광명시 광명6동 산87-5번지",
+		"TELNO": "",
+		"REFINE_ZIPNO": "",
+		"REFINE_WGS84_LAT": "",
+		"REFINE_WGS84_LOGT": "",
+		"DATA_STD_DE": "2020-08-18"
+	},
+	{
+		"SIGUN_NM": "광명시",
+		"CMPNM_NM": "영남사",
+		"INDUTYPE_NM": "건축자재-페인트",
+		"REFINE_ROADNM_ADDR": "",
+		"REFINE_LOTNO_ADDR": "경기도 광명시 광명6동 산87-5번지",
+		"TELNO": "",
+		"REFINE_ZIPNO": "",
+		"REFINE_WGS84_LAT": "",
+		"REFINE_WGS84_LOGT": "",
+		"DATA_STD_DE": "2020-08-18"
+	},
+	{
+		"SIGUN_NM": "광명시",
+		"CMPNM_NM": "우리누리어린이집[아이행복]",
+		"INDUTYPE_NM": "학원-유아원",
+		"REFINE_ROADNM_ADDR": "경기도 광명시 목감로 58",
+		"REFINE_LOTNO_ADDR": "경기도 광명시 광명6동 785번지 광명해모로이연아파트 106동 104호",
+		"TELNO": "",
+		"REFINE_ZIPNO": "14295",
+		"REFINE_WGS84_LAT": "37.4717241021",
+		"REFINE_WGS84_LOGT": "126.8478346816",
+		"DATA_STD_DE": "2020-08-18"
+	},
+	{
+		"SIGUN_NM": "광명시",
+		"CMPNM_NM": "청록기업",
+		"INDUTYPE_NM": "",
+		"REFINE_ROADNM_ADDR": "",
+		"REFINE_LOTNO_ADDR": "경기도 광명시 광명6동 348-2번지",
+		"TELNO": "",
+		"REFINE_ZIPNO": "14291",
+		"REFINE_WGS84_LAT": "37.4729080291",
+		"REFINE_WGS84_LOGT": "126.8493526289",
+		"DATA_STD_DE": "2020-08-18"
+	},
+	{
+		"SIGUN_NM": "광명시",
+		"CMPNM_NM": "초콜릿어린이집[아이행복]",
+		"INDUTYPE_NM": "학원-유아원",
+		"REFINE_ROADNM_ADDR": "경기도 광명시 광명로848번길 66",
+		"REFINE_LOTNO_ADDR": "경기도 광명시 광명6동 778번지 영화아이닉스아파트 101동 105호",
+		"TELNO": "",
+		"REFINE_ZIPNO": "14280",
+		"REFINE_WGS84_LAT": "37.4695782604",
+		"REFINE_WGS84_LOGT": "126.8509971464",
+		"DATA_STD_DE": "2020-08-18"
+	}
+]

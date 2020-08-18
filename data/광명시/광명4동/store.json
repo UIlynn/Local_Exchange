@@ -1,0 +1,26 @@
+[
+	{
+		"SIGUN_NM": "광명시",
+		"CMPNM_NM": "올리비아하슬러",
+		"INDUTYPE_NM": "의류-스포츠의류",
+		"REFINE_ROADNM_ADDR": "경기도 광명시 오리로 955",
+		"REFINE_LOTNO_ADDR": "경기도 광명시 광명4동 158-490번지",
+		"TELNO": "",
+		"REFINE_ZIPNO": "14263",
+		"REFINE_WGS84_LAT": "37.4784890287",
+		"REFINE_WGS84_LOGT": "126.8569257279",
+		"DATA_STD_DE": "2020-08-18"
+	},
+	{
+		"SIGUN_NM": "광명시",
+		"CMPNM_NM": "이동호",
+		"INDUTYPE_NM": "용역 서비스-화물운송",
+		"REFINE_ROADNM_ADDR": "경기도 광명시 광명로 877",
+		"REFINE_LOTNO_ADDR": "경기도 광명시 광명4동 200-6번지 24/4 광명한진타운 110동 2104호",
+		"TELNO": "",
+		"REFINE_ZIPNO": "14287",
+		"REFINE_WGS84_LAT": "37.4768432590",
+		"REFINE_WGS84_LOGT": "126.8526534138",
+		"DATA_STD_DE": "2020-08-18"
+	}
+]

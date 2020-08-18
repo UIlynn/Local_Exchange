@@ -1,0 +1,122 @@
+[
+	{
+		"SIGUN_NM": "평택시",
+		"CMPNM_NM": "59피자청북점",
+		"INDUTYPE_NM": "일반휴게음식-서양음식",
+		"REFINE_ROADNM_ADDR": "",
+		"REFINE_LOTNO_ADDR": "경기 평택시 청북면 안청로2길 51층",
+		"TELNO": "",
+		"REFINE_ZIPNO": "",
+		"REFINE_WGS84_LAT": "",
+		"REFINE_WGS84_LOGT": "",
+		"DATA_STD_DE": "2020-08-18"
+	},
+	{
+		"SIGUN_NM": "평택시",
+		"CMPNM_NM": "꾸미락",
+		"INDUTYPE_NM": "일반휴게음식-일반한식",
+		"REFINE_ROADNM_ADDR": "",
+		"REFINE_LOTNO_ADDR": "경기 평택시 청북면 안청로2길 54층",
+		"TELNO": "",
+		"REFINE_ZIPNO": "",
+		"REFINE_WGS84_LAT": "",
+		"REFINE_WGS84_LOGT": "",
+		"DATA_STD_DE": "2020-08-18"
+	},
+	{
+		"SIGUN_NM": "평택시",
+		"CMPNM_NM": "맛드림반찬",
+		"INDUTYPE_NM": "음료식품-기타음료식품",
+		"REFINE_ROADNM_ADDR": "",
+		"REFINE_LOTNO_ADDR": "경기 평택시 청북면 안청로 336101",
+		"TELNO": "",
+		"REFINE_ZIPNO": "",
+		"REFINE_WGS84_LAT": "",
+		"REFINE_WGS84_LOGT": "",
+		"DATA_STD_DE": "2020-08-18"
+	},
+	{
+		"SIGUN_NM": "평택시",
+		"CMPNM_NM": "미술친구미술교습소",
+		"INDUTYPE_NM": "학원-예•체능계학원 ",
+		"REFINE_ROADNM_ADDR": "",
+		"REFINE_LOTNO_ADDR": "경기 평택시 청북면 청북남로 2771-302호 상가 (부영아파트)",
+		"TELNO": "",
+		"REFINE_ZIPNO": "",
+		"REFINE_WGS84_LAT": "",
+		"REFINE_WGS84_LOGT": "",
+		"DATA_STD_DE": "2020-08-18"
+	},
+	{
+		"SIGUN_NM": "평택시",
+		"CMPNM_NM": "바울아저씨 청북점",
+		"INDUTYPE_NM": "일반휴게음식-서양음식",
+		"REFINE_ROADNM_ADDR": "",
+		"REFINE_LOTNO_ADDR": "경기 평택시 청북면 안청로2길 14-131층일부",
+		"TELNO": "",
+		"REFINE_ZIPNO": "17808",
+		"REFINE_WGS84_LAT": "",
+		"REFINE_WGS84_LOGT": "",
+		"DATA_STD_DE": "2020-08-18"
+	},
+	{
+		"SIGUN_NM": "평택시",
+		"CMPNM_NM": "소야(soya)",
+		"INDUTYPE_NM": "농업-농기계",
+		"REFINE_ROADNM_ADDR": "",
+		"REFINE_LOTNO_ADDR": "경기 평택시 청북면 청북중앙로 61층 2호",
+		"TELNO": "",
+		"REFINE_ZIPNO": "",
+		"REFINE_WGS84_LAT": "",
+		"REFINE_WGS84_LOGT": "",
+		"DATA_STD_DE": "2020-08-18"
+	},
+	{
+		"SIGUN_NM": "평택시",
+		"CMPNM_NM": "용인대힘찬태권스쿨",
+		"INDUTYPE_NM": "학원-예•체능계학원 ",
+		"REFINE_ROADNM_ADDR": "",
+		"REFINE_LOTNO_ADDR": "경기 평택시 청북면 청북남로 2781-301(부영아파트3차단지내상가)",
+		"TELNO": "",
+		"REFINE_ZIPNO": "",
+		"REFINE_WGS84_LAT": "",
+		"REFINE_WGS84_LOGT": "",
+		"DATA_STD_DE": "2020-08-18"
+	},
+	{
+		"SIGUN_NM": "평택시",
+		"CMPNM_NM": "조은자동차공업사",
+		"INDUTYPE_NM": "자동차정비 유지-자동차정비",
+		"REFINE_ROADNM_ADDR": "",
+		"REFINE_LOTNO_ADDR": "경기 평택시 청북면 청원로 3782",
+		"TELNO": "",
+		"REFINE_ZIPNO": "",
+		"REFINE_WGS84_LAT": "",
+		"REFINE_WGS84_LOGT": "",
+		"DATA_STD_DE": "2020-08-18"
+	},
+	{
+		"SIGUN_NM": "평택시",
+		"CMPNM_NM": "코히정",
+		"INDUTYPE_NM": "일반휴게음식-일반한식",
+		"REFINE_ROADNM_ADDR": "",
+		"REFINE_LOTNO_ADDR": "경기 평택시 청북면 청원로380",
+		"TELNO": "",
+		"REFINE_ZIPNO": "17793",
+		"REFINE_WGS84_LAT": "",
+		"REFINE_WGS84_LOGT": "",
+		"DATA_STD_DE": "2020-08-18"
+	},
+	{
+		"SIGUN_NM": "평택시",
+		"CMPNM_NM": "현곡밥집",
+		"INDUTYPE_NM": "일반휴게음식-일반한식",
+		"REFINE_ROADNM_ADDR": "",
+		"REFINE_LOTNO_ADDR": "경기 평택시 청북면 청북새싹길 31층",
+		"TELNO": "",
+		"REFINE_ZIPNO": "",
+		"REFINE_WGS84_LAT": "",
+		"REFINE_WGS84_LOGT": "",
+		"DATA_STD_DE": "2020-08-18"
+	}
+]

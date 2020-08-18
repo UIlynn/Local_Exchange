@@ -1,0 +1,98 @@
+[
+	{
+		"SIGUN_NM": "시흥시",
+		"CMPNM_NM": "㈜다수리",
+		"INDUTYPE_NM": "개인서비스업",
+		"REFINE_ROADNM_ADDR": "경기도 시흥시 금화로550번길 17-2",
+		"REFINE_LOTNO_ADDR": "경기도 시흥시 금이동 422-9번지",
+		"TELNO": "",
+		"REFINE_ZIPNO": "14981",
+		"REFINE_WGS84_LAT": "37.3927757568",
+		"REFINE_WGS84_LOGT": "126.8400577225",
+		"DATA_STD_DE": "2020-08-18"
+	},
+	{
+		"SIGUN_NM": "시흥시",
+		"CMPNM_NM": "㈜성조물류장비",
+		"INDUTYPE_NM": "제조업",
+		"REFINE_ROADNM_ADDR": "경기도 시흥시 금화로 641-30",
+		"REFINE_LOTNO_ADDR": "경기도 시흥시 금이동 307-3번지",
+		"TELNO": "",
+		"REFINE_ZIPNO": "14980",
+		"REFINE_WGS84_LAT": "37.3997769494",
+		"REFINE_WGS84_LOGT": "126.8347991579",
+		"DATA_STD_DE": "2020-08-18"
+	},
+	{
+		"SIGUN_NM": "시흥시",
+		"CMPNM_NM": "가마솥한식부페",
+		"INDUTYPE_NM": "음식점업",
+		"REFINE_ROADNM_ADDR": "경기도 시흥시 금화로 632-1",
+		"REFINE_LOTNO_ADDR": "경기도 시흥시 금이동 326-1번지",
+		"TELNO": "",
+		"REFINE_ZIPNO": "14980",
+		"REFINE_WGS84_LAT": "37.3989709685",
+		"REFINE_WGS84_LOGT": "126.8357327247",
+		"DATA_STD_DE": "2020-08-18"
+	},
+	{
+		"SIGUN_NM": "시흥시",
+		"CMPNM_NM": "가을동화",
+		"INDUTYPE_NM": "음식점업",
+		"REFINE_ROADNM_ADDR": "경기도 시흥시 금화로627번길 57-1",
+		"REFINE_LOTNO_ADDR": "경기도 시흥시 금이동 193-3번지",
+		"TELNO": "",
+		"REFINE_ZIPNO": "14980",
+		"REFINE_WGS84_LAT": "37.4002078473",
+		"REFINE_WGS84_LOGT": "126.8296998314",
+		"DATA_STD_DE": "2020-08-18"
+	},
+	{
+		"SIGUN_NM": "시흥시",
+		"CMPNM_NM": "루메다(Roomeda)",
+		"INDUTYPE_NM": "소매업",
+		"REFINE_ROADNM_ADDR": "경기도 시흥시 금화로 642",
+		"REFINE_LOTNO_ADDR": "경기도 시흥시 금이동 316-2번지",
+		"TELNO": "",
+		"REFINE_ZIPNO": "14980",
+		"REFINE_WGS84_LAT": "37.3997828558",
+		"REFINE_WGS84_LOGT": "126.8358498386",
+		"DATA_STD_DE": "2020-08-18"
+	},
+	{
+		"SIGUN_NM": "시흥시",
+		"CMPNM_NM": "아람엔에스케이산업㈜",
+		"INDUTYPE_NM": "제조업",
+		"REFINE_ROADNM_ADDR": "경기도 시흥시 금화로 635-2",
+		"REFINE_LOTNO_ADDR": "경기도 시흥시 금이동 303-1번지",
+		"TELNO": "",
+		"REFINE_ZIPNO": "14980",
+		"REFINE_WGS84_LAT": "37.3995363883",
+		"REFINE_WGS84_LOGT": "126.8352984036",
+		"DATA_STD_DE": "2020-08-18"
+	},
+	{
+		"SIGUN_NM": "시흥시",
+		"CMPNM_NM": "장어의 품격",
+		"INDUTYPE_NM": "음식점업",
+		"REFINE_ROADNM_ADDR": "경기도 시흥시 금오로118번길 160",
+		"REFINE_LOTNO_ADDR": "경기도 시흥시 금이동 56-1번지",
+		"TELNO": "",
+		"REFINE_ZIPNO": "14931",
+		"REFINE_WGS84_LAT": "37.4050154991",
+		"REFINE_WGS84_LOGT": "126.8464021085",
+		"DATA_STD_DE": "2020-08-18"
+	},
+	{
+		"SIGUN_NM": "시흥시",
+		"CMPNM_NM": "행복한밥집",
+		"INDUTYPE_NM": "음식점업",
+		"REFINE_ROADNM_ADDR": "경기도 시흥시 금화로 630-2",
+		"REFINE_LOTNO_ADDR": "경기도 시흥시 금이동 330-1번지 지층 B102",
+		"TELNO": "",
+		"REFINE_ZIPNO": "14980",
+		"REFINE_WGS84_LAT": "37.3984663555",
+		"REFINE_WGS84_LOGT": "126.8357597746",
+		"DATA_STD_DE": "2020-08-18"
+	}
+]

@@ -1,0 +1,14 @@
+[
+	{
+		"SIGUN_NM": "부천시",
+		"CMPNM_NM": "집밥처럼",
+		"INDUTYPE_NM": "일반휴게음식-일반한식",
+		"REFINE_ROADNM_ADDR": "경기도 부천시 장말로 107-2",
+		"REFINE_LOTNO_ADDR": "경기도 부천시 상동 394-1번지 한아름동원상가 지층 101호",
+		"TELNO": "",
+		"REFINE_ZIPNO": "14596",
+		"REFINE_WGS84_LAT": "37.4951983068",
+		"REFINE_WGS84_LOGT": "126.7539061902",
+		"DATA_STD_DE": "2020-08-18"
+	}
+]

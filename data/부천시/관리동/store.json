@@ -1,0 +1,98 @@
+[
+	{
+		"SIGUN_NM": "부천시",
+		"CMPNM_NM": "꿈이자라는어린이집[아이행복]",
+		"INDUTYPE_NM": "학원-유아원",
+		"REFINE_ROADNM_ADDR": "경기도 부천시 조마루로 104",
+		"REFINE_LOTNO_ADDR": "경기도 부천시 상동 570-3번지 하얀마을현대아파트 관리동",
+		"TELNO": "",
+		"REFINE_ZIPNO": "14590",
+		"REFINE_WGS84_LAT": "37.4999269243",
+		"REFINE_WGS84_LOGT": "126.7547868261",
+		"DATA_STD_DE": "2020-08-18"
+	},
+	{
+		"SIGUN_NM": "부천시",
+		"CMPNM_NM": "덕유성심어린이집[아이행복]",
+		"INDUTYPE_NM": "학원-유아원",
+		"REFINE_ROADNM_ADDR": "경기도 부천시 도약로 146",
+		"REFINE_LOTNO_ADDR": "경기도 부천시 중동 1041번지 덕유마을아파트 관리동",
+		"TELNO": "",
+		"REFINE_ZIPNO": "14536",
+		"REFINE_WGS84_LAT": "37.5088721520",
+		"REFINE_WGS84_LOGT": "126.7669289652",
+		"DATA_STD_DE": "2020-08-18"
+	},
+	{
+		"SIGUN_NM": "부천시",
+		"CMPNM_NM": "라일락어린이집[아이행복]",
+		"INDUTYPE_NM": "학원-유아원",
+		"REFINE_ROADNM_ADDR": "경기도 부천시 상동로117번길 64",
+		"REFINE_LOTNO_ADDR": "경기도 부천시 상동 528-1번지 라일락마을대우유림아파트 관리동",
+		"TELNO": "",
+		"REFINE_ZIPNO": "14540",
+		"REFINE_WGS84_LAT": "37.5096714183",
+		"REFINE_WGS84_LOGT": "126.7506619248",
+		"DATA_STD_DE": "2020-08-18"
+	},
+	{
+		"SIGUN_NM": "부천시",
+		"CMPNM_NM": "아이베스트어린이집[아이행복]",
+		"INDUTYPE_NM": "학원-유아원",
+		"REFINE_ROADNM_ADDR": "경기도 부천시 신흥로276번길 15",
+		"REFINE_LOTNO_ADDR": "경기도 부천시 중동 1293-1번지 래미안부천중동 1층 관리동",
+		"TELNO": "",
+		"REFINE_ZIPNO": "14533",
+		"REFINE_WGS84_LAT": "37.5084787891",
+		"REFINE_WGS84_LOGT": "126.7762220399",
+		"DATA_STD_DE": "2020-08-18"
+	},
+	{
+		"SIGUN_NM": "부천시",
+		"CMPNM_NM": "아이원어린이집[아이행복]",
+		"INDUTYPE_NM": "학원-유아원",
+		"REFINE_ROADNM_ADDR": "",
+		"REFINE_LOTNO_ADDR": "경기도 부천시 상동 백송마을 풍림아파트 관리동",
+		"TELNO": "",
+		"REFINE_ZIPNO": "",
+		"REFINE_WGS84_LAT": "",
+		"REFINE_WGS84_LOGT": "",
+		"DATA_STD_DE": "2020-08-18"
+	},
+	{
+		"SIGUN_NM": "부천시",
+		"CMPNM_NM": "엘드림어린이집[아이행복]",
+		"INDUTYPE_NM": "학원-유아원",
+		"REFINE_ROADNM_ADDR": "경기도 부천시 도약로 82",
+		"REFINE_LOTNO_ADDR": "경기도 부천시 상동 526-4번지 진달래마을대림e-편한세상 1층 관리동",
+		"TELNO": "",
+		"REFINE_ZIPNO": "14507",
+		"REFINE_WGS84_LAT": "37.5109298348",
+		"REFINE_WGS84_LOGT": "126.7586829137",
+		"DATA_STD_DE": "2020-08-18"
+	},
+	{
+		"SIGUN_NM": "부천시",
+		"CMPNM_NM": "중동사랑어린이집[아이행복]",
+		"INDUTYPE_NM": "학원-유아원",
+		"REFINE_ROADNM_ADDR": "경기도 부천시 중동로 107",
+		"REFINE_LOTNO_ADDR": "경기도 부천시 중동 1288번지 중동팰리스카운티아파트 관리동내",
+		"TELNO": "",
+		"REFINE_ZIPNO": "14619",
+		"REFINE_WGS84_LAT": "37.4911893734",
+		"REFINE_WGS84_LOGT": "126.7657443932",
+		"DATA_STD_DE": "2020-08-18"
+	},
+	{
+		"SIGUN_NM": "부천시",
+		"CMPNM_NM": "중앙 상동 어린이집[아이행복]",
+		"INDUTYPE_NM": "학원-유아원",
+		"REFINE_ROADNM_ADDR": "경기도 부천시 계남로 72-1",
+		"REFINE_LOTNO_ADDR": "경기도 부천시 상동 527-3번지 관리동",
+		"TELNO": "",
+		"REFINE_ZIPNO": "14541",
+		"REFINE_WGS84_LAT": "37.5084458652",
+		"REFINE_WGS84_LOGT": "126.7564106336",
+		"DATA_STD_DE": "2020-08-18"
+	}
+]

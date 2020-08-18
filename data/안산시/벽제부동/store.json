@@ -1,0 +1,14 @@
+[
+	{
+		"SIGUN_NM": "안산시",
+		"CMPNM_NM": "돈앤우(2호점)",
+		"INDUTYPE_NM": "일반휴게음식-일반한식",
+		"REFINE_ROADNM_ADDR": "경기도 안산시 단원구 화정천동로4길 20",
+		"REFINE_LOTNO_ADDR": "경기도 안산시 단원구 와동 802-4번지 벽제부동산 101호",
+		"TELNO": "",
+		"REFINE_ZIPNO": "15249",
+		"REFINE_WGS84_LAT": "37.3445787618",
+		"REFINE_WGS84_LOGT": "126.8208240098",
+		"DATA_STD_DE": "2020-08-18"
+	}
+]

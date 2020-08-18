@@ -1,0 +1,50 @@
+[
+	{
+		"SIGUN_NM": "안산시",
+		"CMPNM_NM": "감탄 사동점",
+		"INDUTYPE_NM": "일반휴게음식-스넥",
+		"REFINE_ROADNM_ADDR": "경기도 안산시 상록구 감골2로 12",
+		"REFINE_LOTNO_ADDR": "경기도 안산시 상록구 사동 1343번지 상록수현대2차아파트 주상가동 111호",
+		"TELNO": "",
+		"REFINE_ZIPNO": "15620",
+		"REFINE_WGS84_LAT": "37.2910197125",
+		"REFINE_WGS84_LOGT": "126.8548017845",
+		"DATA_STD_DE": "2020-08-18"
+	},
+	{
+		"SIGUN_NM": "안산시",
+		"CMPNM_NM": "김진헤어라인",
+		"INDUTYPE_NM": "보건위생-미용원",
+		"REFINE_ROADNM_ADDR": "경기도 안산시 상록구 감골2로 40",
+		"REFINE_LOTNO_ADDR": "경기도 안산시 상록구 사동 1343번지 상록수현대2차아파트 주상가동",
+		"TELNO": "",
+		"REFINE_ZIPNO": "15620",
+		"REFINE_WGS84_LAT": "37.2910590645",
+		"REFINE_WGS84_LOGT": "126.8521050663",
+		"DATA_STD_DE": "2020-08-18"
+	},
+	{
+		"SIGUN_NM": "안산시",
+		"CMPNM_NM": "꾀꼬리헤어샵",
+		"INDUTYPE_NM": "보건위생-미용원",
+		"REFINE_ROADNM_ADDR": "경기도 안산시 상록구 감골2로 40",
+		"REFINE_LOTNO_ADDR": "경기도 안산시 상록구 사동 1343번지 상록수현대2차아파트 주상가동 106호",
+		"TELNO": "",
+		"REFINE_ZIPNO": "15620",
+		"REFINE_WGS84_LAT": "37.2910590645",
+		"REFINE_WGS84_LOGT": "126.8521050663",
+		"DATA_STD_DE": "2020-08-18"
+	},
+	{
+		"SIGUN_NM": "안산시",
+		"CMPNM_NM": "현대설비",
+		"INDUTYPE_NM": "건축자재-목재•석재•철물",
+		"REFINE_ROADNM_ADDR": "경기도 안산시 상록구 감골2로 40",
+		"REFINE_LOTNO_ADDR": "경기도 안산시 상록구 사동 1343번지 상록수현대2차아파트 주상가동 1층 101호",
+		"TELNO": "031-418-8589",
+		"REFINE_ZIPNO": "15620",
+		"REFINE_WGS84_LAT": "37.2910590645",
+		"REFINE_WGS84_LOGT": "126.8521050663",
+		"DATA_STD_DE": "2020-08-18"
+	}
+]

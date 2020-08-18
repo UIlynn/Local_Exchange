@@ -1,0 +1,122 @@
+[
+	{
+		"SIGUN_NM": "안양시",
+		"CMPNM_NM": "명문기프트",
+		"INDUTYPE_NM": "기타-기타 전문점",
+		"REFINE_ROADNM_ADDR": "",
+		"REFINE_LOTNO_ADDR": "경기도 안양시 만안구 안양3동 967-4",
+		"TELNO": "0314687633",
+		"REFINE_ZIPNO": "14011",
+		"REFINE_WGS84_LAT": "37.3953342937",
+		"REFINE_WGS84_LOGT": "126.9131812140",
+		"DATA_STD_DE": "2020-08-18"
+	},
+	{
+		"SIGUN_NM": "안양시",
+		"CMPNM_NM": "샬롬토탈",
+		"INDUTYPE_NM": "건축자재-인테리어전문",
+		"REFINE_ROADNM_ADDR": "경기도 안양시 만안구 박달로 572",
+		"REFINE_LOTNO_ADDR": "경기도 안양시 만안구 안양3동 695-8",
+		"TELNO": "0314666658",
+		"REFINE_ZIPNO": "14005",
+		"REFINE_WGS84_LAT": "37.4025503544",
+		"REFINE_WGS84_LOGT": "126.9161813599",
+		"DATA_STD_DE": "2020-08-18"
+	},
+	{
+		"SIGUN_NM": "안양시",
+		"CMPNM_NM": "송원영소아과의원",
+		"INDUTYPE_NM": "의원-의원",
+		"REFINE_ROADNM_ADDR": "",
+		"REFINE_LOTNO_ADDR": "경기도 안양시 만안구 안양3동 952-47 2층",
+		"TELNO": "0314431994",
+		"REFINE_ZIPNO": "14007",
+		"REFINE_WGS84_LAT": "37.3969245317",
+		"REFINE_WGS84_LOGT": "126.9141010116",
+		"DATA_STD_DE": "2020-08-18"
+	},
+	{
+		"SIGUN_NM": "안양시",
+		"CMPNM_NM": "아리랑노래방",
+		"INDUTYPE_NM": "레저업소-노 래 방",
+		"REFINE_ROADNM_ADDR": "",
+		"REFINE_LOTNO_ADDR": "경기도 안양시 만안구 안양3동 952-47번지",
+		"TELNO": "0314445765",
+		"REFINE_ZIPNO": "14007",
+		"REFINE_WGS84_LAT": "37.3969245317",
+		"REFINE_WGS84_LOGT": "126.9141010116",
+		"DATA_STD_DE": "2020-08-18"
+	},
+	{
+		"SIGUN_NM": "안양시",
+		"CMPNM_NM": "웰빙마미샵",
+		"INDUTYPE_NM": "건강식품-기타건강식품",
+		"REFINE_ROADNM_ADDR": "",
+		"REFINE_LOTNO_ADDR": "경기도 안양시 만안구 안양3동 952-47번지 2층",
+		"TELNO": "0314431994",
+		"REFINE_ZIPNO": "14007",
+		"REFINE_WGS84_LAT": "37.3969245317",
+		"REFINE_WGS84_LOGT": "126.9141010116",
+		"DATA_STD_DE": "2020-08-18"
+	},
+	{
+		"SIGUN_NM": "안양시",
+		"CMPNM_NM": "중앙시장 남해수산",
+		"INDUTYPE_NM": "음료식품-농•축•수산품",
+		"REFINE_ROADNM_ADDR": "경기도 안양시 만안구 냉천로 193",
+		"REFINE_LOTNO_ADDR": "경기도 안양시 만안구 안양3동 711-43",
+		"TELNO": "0314485289",
+		"REFINE_ZIPNO": "14002",
+		"REFINE_WGS84_LAT": "37.3971133516",
+		"REFINE_WGS84_LOGT": "126.9194886157",
+		"DATA_STD_DE": "2020-08-18"
+	},
+	{
+		"SIGUN_NM": "안양시",
+		"CMPNM_NM": "타피에미술학원",
+		"INDUTYPE_NM": "학원-기타 교육기관",
+		"REFINE_ROADNM_ADDR": "경기도 안양시 만안구 장내로48번길 13",
+		"REFINE_LOTNO_ADDR": "경기도 안양시 만안구 안양3동 720-2번지 2층",
+		"TELNO": "0314473080",
+		"REFINE_ZIPNO": "14022",
+		"REFINE_WGS84_LAT": "37.3930773960",
+		"REFINE_WGS84_LOGT": "126.9144472797",
+		"DATA_STD_DE": "2020-08-18"
+	},
+	{
+		"SIGUN_NM": "안양시",
+		"CMPNM_NM": "학림어린이집",
+		"INDUTYPE_NM": "기타-비영리/대상",
+		"REFINE_ROADNM_ADDR": "",
+		"REFINE_LOTNO_ADDR": "경기도 안양시 만안구 안양3동 908-2,2층",
+		"TELNO": "0314417766",
+		"REFINE_ZIPNO": "",
+		"REFINE_WGS84_LAT": "",
+		"REFINE_WGS84_LOGT": "",
+		"DATA_STD_DE": "2020-08-18"
+	},
+	{
+		"SIGUN_NM": "안양시",
+		"CMPNM_NM": "학림어린이집[아이행복]",
+		"INDUTYPE_NM": "학원-유아원",
+		"REFINE_ROADNM_ADDR": "경기도 안양시 만안구 양화로 90",
+		"REFINE_LOTNO_ADDR": "경기도 안양시 만안구 안양3동 908-20 2층",
+		"TELNO": "0314417766",
+		"REFINE_ZIPNO": "14004",
+		"REFINE_WGS84_LAT": "37.4011853025",
+		"REFINE_WGS84_LOGT": "126.9117403575",
+		"DATA_STD_DE": "2020-08-18"
+	},
+	{
+		"SIGUN_NM": "안양시",
+		"CMPNM_NM": "헤어프리",
+		"INDUTYPE_NM": "보건위생-미용원",
+		"REFINE_ROADNM_ADDR": "",
+		"REFINE_LOTNO_ADDR": "경기도 안양시 만안구 안양3동 720-3번지 1층",
+		"TELNO": "0314419887",
+		"REFINE_ZIPNO": "14022",
+		"REFINE_WGS84_LAT": "37.3930285636",
+		"REFINE_WGS84_LOGT": "126.9143132325",
+		"DATA_STD_DE": "2020-08-18"
+	}
+]

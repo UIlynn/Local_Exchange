@@ -1,0 +1,14 @@
+[
+	{
+		"SIGUN_NM": "용인시",
+		"CMPNM_NM": "창나래",
+		"INDUTYPE_NM": "직물-카페트,커튼,천막,지물",
+		"REFINE_ROADNM_ADDR": "경기도 용인시 기흥구 동백중앙로 225-6",
+		"REFINE_LOTNO_ADDR": "경기도 용인시 기흥구 중동 842번지 쥬네브스타월드빌딩 127호 제가동제1층",
+		"TELNO": "",
+		"REFINE_ZIPNO": "17006",
+		"REFINE_WGS84_LAT": "37.2739540026",
+		"REFINE_WGS84_LOGT": "127.1501984866",
+		"DATA_STD_DE": "2020-08-18"
+	}
+]

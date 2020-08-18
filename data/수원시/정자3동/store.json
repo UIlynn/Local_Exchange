@@ -1,0 +1,62 @@
+[
+	{
+		"SIGUN_NM": "수원시",
+		"CMPNM_NM": "PC구조대",
+		"INDUTYPE_NM": "사무통신-컴퓨터",
+		"REFINE_ROADNM_ADDR": "",
+		"REFINE_LOTNO_ADDR": "경기도 수원시 장안구 정자3동 878-3번지 203반",
+		"TELNO": "",
+		"REFINE_ZIPNO": "16334",
+		"REFINE_WGS84_LAT": "37.2952019615",
+		"REFINE_WGS84_LOGT": "126.9943895823",
+		"DATA_STD_DE": "2020-08-18"
+	},
+	{
+		"SIGUN_NM": "수원시",
+		"CMPNM_NM": "S-PLUS",
+		"INDUTYPE_NM": "신변잡화-신발",
+		"REFINE_ROADNM_ADDR": "경기도 수원시 장안구 대평로 72",
+		"REFINE_LOTNO_ADDR": "경기도 수원시 장안구 정자3동 878번지 선일프라자3차 101호",
+		"TELNO": "",
+		"REFINE_ZIPNO": "16334",
+		"REFINE_WGS84_LAT": "37.2947882039",
+		"REFINE_WGS84_LOGT": "126.9939508863",
+		"DATA_STD_DE": "2020-08-18"
+	},
+	{
+		"SIGUN_NM": "수원시",
+		"CMPNM_NM": "기쁨아이어린이집[아이행복]",
+		"INDUTYPE_NM": "학원-유아원",
+		"REFINE_ROADNM_ADDR": "",
+		"REFINE_LOTNO_ADDR": "경기도 수원시 장안구 정자3동 예그린어린이집[아이사랑]",
+		"TELNO": "",
+		"REFINE_ZIPNO": "",
+		"REFINE_WGS84_LAT": "",
+		"REFINE_WGS84_LOGT": "",
+		"DATA_STD_DE": "2020-08-18"
+	},
+	{
+		"SIGUN_NM": "수원시",
+		"CMPNM_NM": "성지프뢰벨어린이집[아이행복]",
+		"INDUTYPE_NM": "학원-유아원",
+		"REFINE_ROADNM_ADDR": "",
+		"REFINE_LOTNO_ADDR": "경기도 수원시 장안구 정자3동 동양고속성지아파트 관리동1층",
+		"TELNO": "",
+		"REFINE_ZIPNO": "",
+		"REFINE_WGS84_LAT": "",
+		"REFINE_WGS84_LOGT": "",
+		"DATA_STD_DE": "2020-08-18"
+	},
+	{
+		"SIGUN_NM": "수원시",
+		"CMPNM_NM": "중앙에이플러스컨설팅",
+		"INDUTYPE_NM": "용역 서비스-부동산 중개•임대",
+		"REFINE_ROADNM_ADDR": "경기도 수원시 장안구 대평로 80",
+		"REFINE_LOTNO_ADDR": "경기도 수원시 장안구 정자3동 877-4번지 877-7 정연메이저빌딩 9층",
+		"TELNO": "",
+		"REFINE_ZIPNO": "16334",
+		"REFINE_WGS84_LAT": "37.2955258737",
+		"REFINE_WGS84_LOGT": "126.9936074645",
+		"DATA_STD_DE": "2020-08-18"
+	}
+]

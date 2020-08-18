@@ -1,0 +1,26 @@
+[
+	{
+		"SIGUN_NM": "부천시",
+		"CMPNM_NM": "The(더)큰수학교습소",
+		"INDUTYPE_NM": "회원제형태-학원",
+		"REFINE_ROADNM_ADDR": "경기도 부천시 신흥로 170-1",
+		"REFINE_LOTNO_ADDR": "경기도 부천시 중동 1111번지 위브더스테이트 상가6동317-2호",
+		"TELNO": "",
+		"REFINE_ZIPNO": "14549",
+		"REFINE_WGS84_LAT": "37.4987587907",
+		"REFINE_WGS84_LOGT": "126.7786011093",
+		"DATA_STD_DE": "2020-08-18"
+	},
+	{
+		"SIGUN_NM": "부천시",
+		"CMPNM_NM": "프레쉬쿠피(FRESH COOFFEE)",
+		"INDUTYPE_NM": "일반휴게음식-일반한식",
+		"REFINE_ROADNM_ADDR": "경기도 부천시 신흥로 170-1",
+		"REFINE_LOTNO_ADDR": "경기도 부천시 중동 1111번지 위브더스테이트 상가6동 1층 113,114호",
+		"TELNO": "",
+		"REFINE_ZIPNO": "14549",
+		"REFINE_WGS84_LAT": "37.4987587907",
+		"REFINE_WGS84_LOGT": "126.7786011093",
+		"DATA_STD_DE": "2020-08-18"
+	}
+]

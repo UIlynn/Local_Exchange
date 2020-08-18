@@ -1,0 +1,14 @@
+[
+	{
+		"SIGUN_NM": "용인시",
+		"CMPNM_NM": "그레이스 치과 의원",
+		"INDUTYPE_NM": "의원-치과의원",
+		"REFINE_ROADNM_ADDR": "경기도 용인시 기흥구 동백중앙로 283",
+		"REFINE_LOTNO_ADDR": "경기도 용인시 기흥구 중동 829번지 골드프라자 제씨동 3층 307호,308호",
+		"TELNO": "",
+		"REFINE_ZIPNO": "17006",
+		"REFINE_WGS84_LAT": "37.2780109377",
+		"REFINE_WGS84_LOGT": "127.1534847899",
+		"DATA_STD_DE": "2020-08-18"
+	}
+]

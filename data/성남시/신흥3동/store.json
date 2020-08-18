@@ -1,0 +1,14 @@
+[
+	{
+		"SIGUN_NM": "성남시",
+		"CMPNM_NM": "문화여인숙",
+		"INDUTYPE_NM": "기타숙박업",
+		"REFINE_ROADNM_ADDR": "경기도 성남시 수정구 시민로150번길 18-1",
+		"REFINE_LOTNO_ADDR": "경기도 성남시 수정구 신흥3동 4004",
+		"TELNO": "",
+		"REFINE_ZIPNO": "13352",
+		"REFINE_WGS84_LAT": "37.4420390725",
+		"REFINE_WGS84_LOGT": "127.1454948060",
+		"DATA_STD_DE": "2020-08-18"
+	}
+]

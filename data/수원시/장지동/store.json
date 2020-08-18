@@ -1,0 +1,122 @@
+[
+	{
+		"SIGUN_NM": "수원시",
+		"CMPNM_NM": "sung san co",
+		"INDUTYPE_NM": "문화.취미-민예•공예품",
+		"REFINE_ROADNM_ADDR": "경기도 수원시 권선구 정조로 383",
+		"REFINE_LOTNO_ADDR": "경기도 수원시 권선구 장지동 44-7번지 52방공단내",
+		"TELNO": "",
+		"REFINE_ZIPNO": "16659",
+		"REFINE_WGS84_LAT": "37.2436662141",
+		"REFINE_WGS84_LOGT": "127.0145201525",
+		"DATA_STD_DE": "2020-08-18"
+	},
+	{
+		"SIGUN_NM": "수원시",
+		"CMPNM_NM": "군침",
+		"INDUTYPE_NM": "일반휴게음식-스넥",
+		"REFINE_ROADNM_ADDR": "경기도 수원시 권선구 정조로 385",
+		"REFINE_LOTNO_ADDR": "경기도 수원시 권선구 장지동 44-5번지 1층",
+		"TELNO": "",
+		"REFINE_ZIPNO": "16659",
+		"REFINE_WGS84_LAT": "37.2439089839",
+		"REFINE_WGS84_LOGT": "127.0143720205",
+		"DATA_STD_DE": "2020-08-18"
+	},
+	{
+		"SIGUN_NM": "수원시",
+		"CMPNM_NM": "늘벗",
+		"INDUTYPE_NM": "일반휴게음식-서양음식",
+		"REFINE_ROADNM_ADDR": "경기도 수원시 권선구 정조로 385",
+		"REFINE_LOTNO_ADDR": "경기도 수원시 권선구 장지동 44-5번지 2층 1호",
+		"TELNO": "",
+		"REFINE_ZIPNO": "16659",
+		"REFINE_WGS84_LAT": "37.2439089839",
+		"REFINE_WGS84_LOGT": "127.0143720205",
+		"DATA_STD_DE": "2020-08-18"
+	},
+	{
+		"SIGUN_NM": "수원시",
+		"CMPNM_NM": "대웅기건상사",
+		"INDUTYPE_NM": "건축자재-보일러•펌프•샷시",
+		"REFINE_ROADNM_ADDR": "경기도 수원시 권선구 정조로413번길 9",
+		"REFINE_LOTNO_ADDR": "경기도 수원시 권선구 장지동 6-8번지",
+		"TELNO": "",
+		"REFINE_ZIPNO": "16659",
+		"REFINE_WGS84_LAT": "37.2462386791",
+		"REFINE_WGS84_LOGT": "127.0131731614",
+		"DATA_STD_DE": "2020-08-18"
+	},
+	{
+		"SIGUN_NM": "수원시",
+		"CMPNM_NM": "대풍원",
+		"INDUTYPE_NM": "일반휴게음식-중국식",
+		"REFINE_ROADNM_ADDR": "경기도 수원시 권선구 정조로 383",
+		"REFINE_LOTNO_ADDR": "경기도 수원시 권선구 장지동 44-7번지 1층",
+		"TELNO": "",
+		"REFINE_ZIPNO": "16659",
+		"REFINE_WGS84_LAT": "37.2436662141",
+		"REFINE_WGS84_LOGT": "127.0145201525",
+		"DATA_STD_DE": "2020-08-18"
+	},
+	{
+		"SIGUN_NM": "수원시",
+		"CMPNM_NM": "수선마크사",
+		"INDUTYPE_NM": "수리서비스-세탁소",
+		"REFINE_ROADNM_ADDR": "",
+		"REFINE_LOTNO_ADDR": "경기도 수원시 권선구 장지동 공군 3591 사서함303",
+		"TELNO": "",
+		"REFINE_ZIPNO": "16659",
+		"REFINE_WGS84_LAT": "",
+		"REFINE_WGS84_LOGT": "",
+		"DATA_STD_DE": "2020-08-18"
+	},
+	{
+		"SIGUN_NM": "수원시",
+		"CMPNM_NM": "수원심리상담교육센타",
+		"INDUTYPE_NM": "보건위생-기타대인서비스",
+		"REFINE_ROADNM_ADDR": "경기도 수원시 권선구 정조로 381",
+		"REFINE_LOTNO_ADDR": "경기도 수원시 권선구 장지동 44-29번지",
+		"TELNO": "",
+		"REFINE_ZIPNO": "16659",
+		"REFINE_WGS84_LAT": "37.2434861706",
+		"REFINE_WGS84_LOGT": "127.0145776820",
+		"DATA_STD_DE": "2020-08-18"
+	},
+	{
+		"SIGUN_NM": "수원시",
+		"CMPNM_NM": "썬 당구클럽",
+		"INDUTYPE_NM": "레저업소-당 구 장",
+		"REFINE_ROADNM_ADDR": "경기도 수원시 권선구 정조로 385",
+		"REFINE_LOTNO_ADDR": "경기도 수원시 권선구 장지동 44-5번지 3층",
+		"TELNO": "",
+		"REFINE_ZIPNO": "16659",
+		"REFINE_WGS84_LAT": "37.2439089839",
+		"REFINE_WGS84_LOGT": "127.0143720205",
+		"DATA_STD_DE": "2020-08-18"
+	},
+	{
+		"SIGUN_NM": "수원시",
+		"CMPNM_NM": "에이스덴탈",
+		"INDUTYPE_NM": "기타의료기관-기타의료기관 및 기타의료",
+		"REFINE_ROADNM_ADDR": "",
+		"REFINE_LOTNO_ADDR": "경기도 수원시 권선구 장지동 276-34번지 2층",
+		"TELNO": "",
+		"REFINE_ZIPNO": "16659",
+		"REFINE_WGS84_LAT": "",
+		"REFINE_WGS84_LOGT": "",
+		"DATA_STD_DE": "2020-08-18"
+	},
+	{
+		"SIGUN_NM": "수원시",
+		"CMPNM_NM": "주식회사대웅기건상사",
+		"INDUTYPE_NM": "건축자재-기타건축자재",
+		"REFINE_ROADNM_ADDR": "경기도 수원시 권선구 정조로413번길 9",
+		"REFINE_LOTNO_ADDR": "경기도 수원시 권선구 장지동 6-8번지",
+		"TELNO": "",
+		"REFINE_ZIPNO": "16659",
+		"REFINE_WGS84_LAT": "37.2462386791",
+		"REFINE_WGS84_LOGT": "127.0131731614",
+		"DATA_STD_DE": "2020-08-18"
+	}
+]

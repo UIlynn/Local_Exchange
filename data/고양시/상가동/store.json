@@ -1,0 +1,50 @@
+[
+	{
+		"SIGUN_NM": "고양시",
+		"CMPNM_NM": "859st",
+		"INDUTYPE_NM": "일반휴게음식-일반한식",
+		"REFINE_ROADNM_ADDR": "",
+		"REFINE_LOTNO_ADDR": "경기 고양시 덕양구 호국로 859109호일부,110호 상가동 (성사동,대림e편한세상아파트)",
+		"TELNO": "",
+		"REFINE_ZIPNO": "",
+		"REFINE_WGS84_LAT": "",
+		"REFINE_WGS84_LOGT": "",
+		"DATA_STD_DE": "2020-08-18"
+	},
+	{
+		"SIGUN_NM": "고양시",
+		"CMPNM_NM": "스타미용실",
+		"INDUTYPE_NM": "보건위생-미용원",
+		"REFINE_ROADNM_ADDR": "",
+		"REFINE_LOTNO_ADDR": "경기 고양시 일산서구 가좌1로 8가좌마을 상가동 B101-1호(가좌동)",
+		"TELNO": "",
+		"REFINE_ZIPNO": "",
+		"REFINE_WGS84_LAT": "",
+		"REFINE_WGS84_LOGT": "",
+		"DATA_STD_DE": "2020-08-18"
+	},
+	{
+		"SIGUN_NM": "고양시",
+		"CMPNM_NM": "이여사네 보글보글",
+		"INDUTYPE_NM": "일반휴게음식-일반한식",
+		"REFINE_ROADNM_ADDR": "",
+		"REFINE_LOTNO_ADDR": "경기 고양시 덕양구 혜음로 30제103동 상가동 109호 (고양동,삼성아파트)",
+		"TELNO": "",
+		"REFINE_ZIPNO": "",
+		"REFINE_WGS84_LAT": "",
+		"REFINE_WGS84_LOGT": "",
+		"DATA_STD_DE": "2020-08-18"
+	},
+	{
+		"SIGUN_NM": "고양시",
+		"CMPNM_NM": "푸른바다찜엔탕",
+		"INDUTYPE_NM": "일반휴게음식-일반한식",
+		"REFINE_ROADNM_ADDR": "",
+		"REFINE_LOTNO_ADDR": "경기 고양시 덕양구 화신로 73B 상가동 1층 104 일부호 (행신동, 샘터마을2단지)",
+		"TELNO": "",
+		"REFINE_ZIPNO": "",
+		"REFINE_WGS84_LAT": "",
+		"REFINE_WGS84_LOGT": "",
+		"DATA_STD_DE": "2020-08-18"
+	}
+]

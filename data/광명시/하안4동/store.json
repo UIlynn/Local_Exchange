@@ -1,0 +1,26 @@
+[
+	{
+		"SIGUN_NM": "광명시",
+		"CMPNM_NM": "진성상사",
+		"INDUTYPE_NM": "자동차정비 유지-자동차부품",
+		"REFINE_ROADNM_ADDR": "",
+		"REFINE_LOTNO_ADDR": "경기도 광명시 하안4동 11-1번지",
+		"TELNO": "",
+		"REFINE_ZIPNO": "",
+		"REFINE_WGS84_LAT": "",
+		"REFINE_WGS84_LOGT": "",
+		"DATA_STD_DE": "2020-08-18"
+	},
+	{
+		"SIGUN_NM": "광명시",
+		"CMPNM_NM": "천사의집어린이집[아이행복]",
+		"INDUTYPE_NM": "",
+		"REFINE_ROADNM_ADDR": "경기도 광명시 하안로 320",
+		"REFINE_LOTNO_ADDR": "경기도 광명시 하안4동 30번지 하안주공10단지아파트 1010동 105호",
+		"TELNO": "",
+		"REFINE_ZIPNO": "14247",
+		"REFINE_WGS84_LAT": "37.4663548997",
+		"REFINE_WGS84_LOGT": "126.8801889470",
+		"DATA_STD_DE": "2020-08-18"
+	}
+]

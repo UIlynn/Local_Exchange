@@ -1,0 +1,122 @@
+[
+	{
+		"SIGUN_NM": "시흥시",
+		"CMPNM_NM": "(주)가람푸드",
+		"INDUTYPE_NM": "소매업",
+		"REFINE_ROADNM_ADDR": "경기도 시흥시 금오로 188-20",
+		"REFINE_LOTNO_ADDR": "경기도 시흥시 무지내동 141-2번지",
+		"TELNO": "",
+		"REFINE_ZIPNO": "14933",
+		"REFINE_WGS84_LAT": "37.4205314034",
+		"REFINE_WGS84_LOGT": "126.8405262019",
+		"DATA_STD_DE": "2020-08-18"
+	},
+	{
+		"SIGUN_NM": "시흥시",
+		"CMPNM_NM": "(주)정성을다하는사람들",
+		"INDUTYPE_NM": "소매업",
+		"REFINE_ROADNM_ADDR": "경기도 시흥시 금오로 188-26",
+		"REFINE_LOTNO_ADDR": "경기도 시흥시 무지내동 140-1번지",
+		"TELNO": "",
+		"REFINE_ZIPNO": "14933",
+		"REFINE_WGS84_LAT": "37.4208128291",
+		"REFINE_WGS84_LOGT": "126.8408853776",
+		"DATA_STD_DE": "2020-08-18"
+	},
+	{
+		"SIGUN_NM": "시흥시",
+		"CMPNM_NM": "경성포장",
+		"INDUTYPE_NM": "소매업",
+		"REFINE_ROADNM_ADDR": "경기도 시흥시 금오로231번길 4",
+		"REFINE_LOTNO_ADDR": "경기도 시흥시 무지내동 34-8번지",
+		"TELNO": "",
+		"REFINE_ZIPNO": "14932",
+		"REFINE_WGS84_LAT": "37.4245101089",
+		"REFINE_WGS84_LOGT": "126.8363548036",
+		"DATA_STD_DE": "2020-08-18"
+	},
+	{
+		"SIGUN_NM": "시흥시",
+		"CMPNM_NM": "과림할인마트2",
+		"INDUTYPE_NM": "소매업",
+		"REFINE_ROADNM_ADDR": "경기도 시흥시 금오로121번길 8",
+		"REFINE_LOTNO_ADDR": "경기도 시흥시 무지내동 284-4번지",
+		"TELNO": "",
+		"REFINE_ZIPNO": "14933",
+		"REFINE_WGS84_LAT": "37.4151340052",
+		"REFINE_WGS84_LOGT": "126.8392287682",
+		"DATA_STD_DE": "2020-08-18"
+	},
+	{
+		"SIGUN_NM": "시흥시",
+		"CMPNM_NM": "대명자동차공업사",
+		"INDUTYPE_NM": "개인서비스업",
+		"REFINE_ROADNM_ADDR": "경기도 시흥시 금오로238번길 3",
+		"REFINE_LOTNO_ADDR": "경기도 시흥시 무지내동 17-17번지",
+		"TELNO": "",
+		"REFINE_ZIPNO": "14932",
+		"REFINE_WGS84_LAT": "37.4246124882",
+		"REFINE_WGS84_LOGT": "126.8369302986",
+		"DATA_STD_DE": "2020-08-18"
+	},
+	{
+		"SIGUN_NM": "시흥시",
+		"CMPNM_NM": "무지내 한식부페",
+		"INDUTYPE_NM": "음식점업",
+		"REFINE_ROADNM_ADDR": "경기도 시흥시 금오로 231",
+		"REFINE_LOTNO_ADDR": "경기도 시흥시 무지내동 38-8번지 2층",
+		"TELNO": "",
+		"REFINE_ZIPNO": "14932",
+		"REFINE_WGS84_LAT": "37.4241676082",
+		"REFINE_WGS84_LOGT": "126.8363578266",
+		"DATA_STD_DE": "2020-08-18"
+	},
+	{
+		"SIGUN_NM": "시흥시",
+		"CMPNM_NM": "무지식당",
+		"INDUTYPE_NM": "음식점업",
+		"REFINE_ROADNM_ADDR": "경기도 시흥시 금오로 131-1",
+		"REFINE_LOTNO_ADDR": "경기도 시흥시 무지내동 282-2번지",
+		"TELNO": "",
+		"REFINE_ZIPNO": "14933",
+		"REFINE_WGS84_LAT": "37.4155962668",
+		"REFINE_WGS84_LOGT": "126.8396880309",
+		"DATA_STD_DE": "2020-08-18"
+	},
+	{
+		"SIGUN_NM": "시흥시",
+		"CMPNM_NM": "양편서울해장국",
+		"INDUTYPE_NM": "음식점업",
+		"REFINE_ROADNM_ADDR": "경기도 시흥시 금오로 125",
+		"REFINE_LOTNO_ADDR": "경기도 시흥시 무지내동 284-25번지 가동",
+		"TELNO": "",
+		"REFINE_ZIPNO": "14933",
+		"REFINE_WGS84_LAT": "37.4150557275",
+		"REFINE_WGS84_LOGT": "126.8397379784",
+		"DATA_STD_DE": "2020-08-18"
+	},
+	{
+		"SIGUN_NM": "시흥시",
+		"CMPNM_NM": "일품짬뽕",
+		"INDUTYPE_NM": "음식점업",
+		"REFINE_ROADNM_ADDR": "경기도 시흥시 금오로 157",
+		"REFINE_LOTNO_ADDR": "경기도 시흥시 무지내동 191-2번지 1층",
+		"TELNO": "",
+		"REFINE_ZIPNO": "14933",
+		"REFINE_WGS84_LAT": "37.4178725629",
+		"REFINE_WGS84_LOGT": "126.8389447865",
+		"DATA_STD_DE": "2020-08-18"
+	},
+	{
+		"SIGUN_NM": "시흥시",
+		"CMPNM_NM": "하나전기",
+		"INDUTYPE_NM": "소매업",
+		"REFINE_ROADNM_ADDR": "경기도 시흥시 금오로231번길 4",
+		"REFINE_LOTNO_ADDR": "경기도 시흥시 무지내동 34-8번지",
+		"TELNO": "",
+		"REFINE_ZIPNO": "14932",
+		"REFINE_WGS84_LAT": "37.4245101089",
+		"REFINE_WGS84_LOGT": "126.8363548036",
+		"DATA_STD_DE": "2020-08-18"
+	}
+]

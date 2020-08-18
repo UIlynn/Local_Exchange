@@ -1,0 +1,14 @@
+[
+	{
+		"SIGUN_NM": "부천시",
+		"CMPNM_NM": "월드펫애견미용",
+		"INDUTYPE_NM": "문화.취미-애완동물",
+		"REFINE_ROADNM_ADDR": "경기도 부천시 부일로 322",
+		"REFINE_LOTNO_ADDR": "경기도 부천시 중동 808번지 월드팻동물병원",
+		"TELNO": "",
+		"REFINE_ZIPNO": "14626",
+		"REFINE_WGS84_LAT": "37.4881701789",
+		"REFINE_WGS84_LOGT": "126.7657965697",
+		"DATA_STD_DE": "2020-08-18"
+	}
+]

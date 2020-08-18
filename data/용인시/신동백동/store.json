@@ -1,0 +1,14 @@
+[
+	{
+		"SIGUN_NM": "용인시",
+		"CMPNM_NM": "오쿠보흥산 서울지점",
+		"INDUTYPE_NM": "주방용구-정수기",
+		"REFINE_ROADNM_ADDR": "경기도 용인시 기흥구 언동로 207",
+		"REFINE_LOTNO_ADDR": "경기도 용인시 기흥구 중동 1146번지 신동백동도센트리움 102동 702호",
+		"TELNO": "",
+		"REFINE_ZIPNO": "16988",
+		"REFINE_WGS84_LAT": "37.2775598848",
+		"REFINE_WGS84_LOGT": "127.1442484930",
+		"DATA_STD_DE": "2020-08-18"
+	}
+]

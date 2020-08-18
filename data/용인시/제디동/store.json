@@ -1,0 +1,14 @@
+[
+	{
+		"SIGUN_NM": "용인시",
+		"CMPNM_NM": "작심 스페이스",
+		"INDUTYPE_NM": "용역 서비스-사무서비스",
+		"REFINE_ROADNM_ADDR": "경기도 용인시 기흥구 동백중앙로 283",
+		"REFINE_LOTNO_ADDR": "경기도 용인시 기흥구 중동 829번지 골드프라자 제디동 제5층 509호",
+		"TELNO": "",
+		"REFINE_ZIPNO": "17006",
+		"REFINE_WGS84_LAT": "37.2780109377",
+		"REFINE_WGS84_LOGT": "127.1534847899",
+		"DATA_STD_DE": "2020-08-18"
+	}
+]

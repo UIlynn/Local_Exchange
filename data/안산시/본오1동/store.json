@@ -1,0 +1,98 @@
+[
+	{
+		"SIGUN_NM": "안산시",
+		"CMPNM_NM": "MGM",
+		"INDUTYPE_NM": "별도관리-자체물품대금",
+		"REFINE_ROADNM_ADDR": "경기도 안산시 상록구 석호로 298-1",
+		"REFINE_LOTNO_ADDR": "경기도 안산시 상록구 본오1동 870-4번지 상가 1층 102호",
+		"TELNO": "",
+		"REFINE_ZIPNO": "15551",
+		"REFINE_WGS84_LAT": "37.2933394038",
+		"REFINE_WGS84_LOGT": "126.8637062556",
+		"DATA_STD_DE": "2020-08-18"
+	},
+	{
+		"SIGUN_NM": "안산시",
+		"CMPNM_NM": "개명제화안산점",
+		"INDUTYPE_NM": "신변잡화-제화",
+		"REFINE_ROADNM_ADDR": "",
+		"REFINE_LOTNO_ADDR": "경기도 안산시 상록구 본오1동 301-1번지 월드프라자 115",
+		"TELNO": "",
+		"REFINE_ZIPNO": "",
+		"REFINE_WGS84_LAT": "37.2896499218",
+		"REFINE_WGS84_LOGT": "126.8787420961",
+		"DATA_STD_DE": "2020-08-18"
+	},
+	{
+		"SIGUN_NM": "안산시",
+		"CMPNM_NM": "건강마을",
+		"INDUTYPE_NM": "건강식품-기타건강식품",
+		"REFINE_ROADNM_ADDR": "경기도 안산시 상록구 샘골로 61",
+		"REFINE_LOTNO_ADDR": "경기도 안산시 상록구 본오1동 924-9번지 1층",
+		"TELNO": "",
+		"REFINE_ZIPNO": "15563",
+		"REFINE_WGS84_LAT": "37.2892985365",
+		"REFINE_WGS84_LOGT": "126.8632100474",
+		"DATA_STD_DE": "2020-08-18"
+	},
+	{
+		"SIGUN_NM": "안산시",
+		"CMPNM_NM": "고은신발",
+		"INDUTYPE_NM": "신변잡화-신발",
+		"REFINE_ROADNM_ADDR": "",
+		"REFINE_LOTNO_ADDR": "경기도 안산시 상록구 본오1동 150번지 871,1층",
+		"TELNO": "",
+		"REFINE_ZIPNO": "",
+		"REFINE_WGS84_LAT": "",
+		"REFINE_WGS84_LOGT": "",
+		"DATA_STD_DE": "2020-08-18"
+	},
+	{
+		"SIGUN_NM": "안산시",
+		"CMPNM_NM": "아름다운치과의원",
+		"INDUTYPE_NM": "의원-치과의원",
+		"REFINE_ROADNM_ADDR": "",
+		"REFINE_LOTNO_ADDR": "경기도 안산시 상록구 본오1동 919-8,202번지",
+		"TELNO": "",
+		"REFINE_ZIPNO": "15562",
+		"REFINE_WGS84_LAT": "37.2888253130",
+		"REFINE_WGS84_LOGT": "126.8640488744",
+		"DATA_STD_DE": "2020-08-18"
+	},
+	{
+		"SIGUN_NM": "안산시",
+		"CMPNM_NM": "양흥식",
+		"INDUTYPE_NM": "용역 서비스-화물운송",
+		"REFINE_ROADNM_ADDR": "경기도 안산시 상록구 샘골로5길 5",
+		"REFINE_LOTNO_ADDR": "경기도 안산시 상록구 본오1동 670-6번지 (단독)",
+		"TELNO": "",
+		"REFINE_ZIPNO": "15567",
+		"REFINE_WGS84_LAT": "37.2875300443",
+		"REFINE_WGS84_LOGT": "126.8645561579",
+		"DATA_STD_DE": "2020-08-18"
+	},
+	{
+		"SIGUN_NM": "안산시",
+		"CMPNM_NM": "요람어린이집[아이행복]",
+		"INDUTYPE_NM": "학원-유아원",
+		"REFINE_ROADNM_ADDR": "경기도 안산시 상록구 이호로6길 11-2",
+		"REFINE_LOTNO_ADDR": "경기도 안산시 상록구 본오1동 713-8번지 101호",
+		"TELNO": "",
+		"REFINE_ZIPNO": "15570",
+		"REFINE_WGS84_LAT": "37.2858437203",
+		"REFINE_WGS84_LOGT": "126.8677854695",
+		"DATA_STD_DE": "2020-08-18"
+	},
+	{
+		"SIGUN_NM": "안산시",
+		"CMPNM_NM": "켐플러스",
+		"INDUTYPE_NM": "서적문구-과학기자재",
+		"REFINE_ROADNM_ADDR": "경기도 안산시 상록구 세류로 19",
+		"REFINE_LOTNO_ADDR": "경기도 안산시 상록구 본오1동 953-13번지",
+		"TELNO": "",
+		"REFINE_ZIPNO": "15572",
+		"REFINE_WGS84_LAT": "37.2856135833",
+		"REFINE_WGS84_LOGT": "126.8618535220",
+		"DATA_STD_DE": "2020-08-18"
+	}
+]

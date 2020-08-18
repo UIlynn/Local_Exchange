@@ -1,0 +1,62 @@
+[
+	{
+		"SIGUN_NM": "부천시",
+		"CMPNM_NM": "1004분식",
+		"INDUTYPE_NM": "일반휴게음식-스넥",
+		"REFINE_ROADNM_ADDR": "경기도 부천시 옥산로 71",
+		"REFINE_LOTNO_ADDR": "경기도 부천시 중동 1103번지 꿈마을동아아파트 상가동 112호",
+		"TELNO": "",
+		"REFINE_ZIPNO": "14550",
+		"REFINE_WGS84_LAT": "37.4998892281",
+		"REFINE_WGS84_LOGT": "126.7806944957",
+		"DATA_STD_DE": "2020-08-18"
+	},
+	{
+		"SIGUN_NM": "부천시",
+		"CMPNM_NM": "이비에스리틀엔영어교습소",
+		"INDUTYPE_NM": "학원-외국어학원",
+		"REFINE_ROADNM_ADDR": "경기도 부천시 옥산로 71",
+		"REFINE_LOTNO_ADDR": "경기도 부천시 중동 1103번지 꿈마을동아아파트 상가동 1층 101호",
+		"TELNO": "",
+		"REFINE_ZIPNO": "14550",
+		"REFINE_WGS84_LAT": "37.4998892281",
+		"REFINE_WGS84_LOGT": "126.7806944957",
+		"DATA_STD_DE": "2020-08-18"
+	},
+	{
+		"SIGUN_NM": "부천시",
+		"CMPNM_NM": "자연꽃농원",
+		"INDUTYPE_NM": "문화.취미-화원",
+		"REFINE_ROADNM_ADDR": "경기도 부천시 옥산로 71",
+		"REFINE_LOTNO_ADDR": "경기도 부천시 중동 1103번지 꿈마을동아상가 113호",
+		"TELNO": "",
+		"REFINE_ZIPNO": "14550",
+		"REFINE_WGS84_LAT": "37.4998892281",
+		"REFINE_WGS84_LOGT": "126.7806944957",
+		"DATA_STD_DE": "2020-08-18"
+	},
+	{
+		"SIGUN_NM": "부천시",
+		"CMPNM_NM": "퀼트하우스",
+		"INDUTYPE_NM": "직물-침구•수예점",
+		"REFINE_ROADNM_ADDR": "경기도 부천시 옥산로 71",
+		"REFINE_LOTNO_ADDR": "경기도 부천시 중동 1103번지 꿈마을동아아파트 사가동 102호",
+		"TELNO": "",
+		"REFINE_ZIPNO": "14550",
+		"REFINE_WGS84_LAT": "37.4998892281",
+		"REFINE_WGS84_LOGT": "126.7806944957",
+		"DATA_STD_DE": "2020-08-18"
+	},
+	{
+		"SIGUN_NM": "부천시",
+		"CMPNM_NM": "푸른숲어린이집[아이행복]",
+		"INDUTYPE_NM": "학원-유아원",
+		"REFINE_ROADNM_ADDR": "경기도 부천시 옥산로 75",
+		"REFINE_LOTNO_ADDR": "경기도 부천시 중동 1103번지 꿈마을동아아파트 1016동 101호",
+		"TELNO": "",
+		"REFINE_ZIPNO": "14550",
+		"REFINE_WGS84_LAT": "37.4998011486",
+		"REFINE_WGS84_LOGT": "126.7795527050",
+		"DATA_STD_DE": "2020-08-18"
+	}
+]

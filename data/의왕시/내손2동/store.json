@@ -1,0 +1,38 @@
+[
+	{
+		"SIGUN_NM": "의왕시",
+		"CMPNM_NM": "데뷰노래방",
+		"INDUTYPE_NM": "레저업소-노 래 방",
+		"REFINE_ROADNM_ADDR": "경기도 의왕시 내손중앙로 43",
+		"REFINE_LOTNO_ADDR": "경기도 의왕시 내손2동 643-4번지 서광상가 지하층 6,7,8,9,10,17호",
+		"TELNO": "",
+		"REFINE_ZIPNO": "16026",
+		"REFINE_WGS84_LAT": "37.3869134792",
+		"REFINE_WGS84_LOGT": "126.9803415508",
+		"DATA_STD_DE": "2020-08-18"
+	},
+	{
+		"SIGUN_NM": "의왕시",
+		"CMPNM_NM": "백운컴퓨터",
+		"INDUTYPE_NM": "사무통신-컴퓨터",
+		"REFINE_ROADNM_ADDR": "",
+		"REFINE_LOTNO_ADDR": "경기도 의왕시 내손2동 677-10번지 밀림상가 1층",
+		"TELNO": "",
+		"REFINE_ZIPNO": "16032",
+		"REFINE_WGS84_LAT": "37.3843386922",
+		"REFINE_WGS84_LOGT": "126.9831155360",
+		"DATA_STD_DE": "2020-08-18"
+	},
+	{
+		"SIGUN_NM": "의왕시",
+		"CMPNM_NM": "솜사탕 어린이집[아이행복]",
+		"INDUTYPE_NM": "학원-유아원",
+		"REFINE_ROADNM_ADDR": "경기도 의왕시 내손로 57",
+		"REFINE_LOTNO_ADDR": "경기도 의왕시 내손2동 629번지 대림e편한세상아파트 1404-104",
+		"TELNO": "",
+		"REFINE_ZIPNO": "16025",
+		"REFINE_WGS84_LAT": "37.3855470687",
+		"REFINE_WGS84_LOGT": "126.9770863956",
+		"DATA_STD_DE": "2020-08-18"
+	}
+]

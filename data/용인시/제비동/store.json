@@ -1,0 +1,26 @@
+[
+	{
+		"SIGUN_NM": "용인시",
+		"CMPNM_NM": "동백프라임탁구클럽",
+		"INDUTYPE_NM": "레저업소-기타레져업소",
+		"REFINE_ROADNM_ADDR": "경기도 용인시 기흥구 동백중앙로 283",
+		"REFINE_LOTNO_ADDR": "경기도 용인시 기흥구 중동 829번지 골드프라자 제비동1010~1012호",
+		"TELNO": "",
+		"REFINE_ZIPNO": "17006",
+		"REFINE_WGS84_LAT": "37.2780109377",
+		"REFINE_WGS84_LOGT": "127.1534847899",
+		"DATA_STD_DE": "2020-08-18"
+	},
+	{
+		"SIGUN_NM": "용인시",
+		"CMPNM_NM": "명랑쌀핫도그 용인동백점",
+		"INDUTYPE_NM": "일반휴게음식-서양음식",
+		"REFINE_ROADNM_ADDR": "경기도 용인시 기흥구 동백중앙로 283",
+		"REFINE_LOTNO_ADDR": "경기도 용인시 기흥구 중동 829번지 골드프라자 제비동 제1층 112호",
+		"TELNO": "",
+		"REFINE_ZIPNO": "17006",
+		"REFINE_WGS84_LAT": "37.2780109377",
+		"REFINE_WGS84_LOGT": "127.1534847899",
+		"DATA_STD_DE": "2020-08-18"
+	}
+]

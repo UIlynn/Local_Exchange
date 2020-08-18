@@ -1,0 +1,14 @@
+[
+	{
+		"SIGUN_NM": "용인시",
+		"CMPNM_NM": "동백참진학원",
+		"INDUTYPE_NM": "학원-보습학원",
+		"REFINE_ROADNM_ADDR": "경기도 용인시 기흥구 동백6로 39",
+		"REFINE_LOTNO_ADDR": "경기도 용인시 기흥구 중동 872-3번지 용인동백우체국 3층 일부",
+		"TELNO": "",
+		"REFINE_ZIPNO": "17004",
+		"REFINE_WGS84_LAT": "37.2773681951",
+		"REFINE_WGS84_LOGT": "127.1556309415",
+		"DATA_STD_DE": "2020-08-18"
+	}
+]

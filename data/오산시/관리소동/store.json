@@ -1,0 +1,26 @@
+[
+	{
+		"SIGUN_NM": "오산시",
+		"CMPNM_NM": "영재몬테소리어린이집[아이행복]",
+		"INDUTYPE_NM": "학원-유아원",
+		"REFINE_ROADNM_ADDR": "경기도 오산시 경기대로 99-15",
+		"REFINE_LOTNO_ADDR": "경기도 오산시 원동 807번지 동부삼환아파트 관리소동 내",
+		"TELNO": "031-373-0793",
+		"REFINE_ZIPNO": "18146",
+		"REFINE_WGS84_LAT": "37.1321904418",
+		"REFINE_WGS84_LOGT": "127.0708722473",
+		"DATA_STD_DE": "2020-08-18"
+	},
+	{
+		"SIGUN_NM": "오산시",
+		"CMPNM_NM": "우남꿈터어린이집[아이행복]",
+		"INDUTYPE_NM": "학원-유아원",
+		"REFINE_ROADNM_ADDR": "경기도 오산시 대호로 146",
+		"REFINE_LOTNO_ADDR": "경기도 오산시 궐동 616-1번지 우남퍼스트빌 관리소동",
+		"TELNO": "031-376-3007",
+		"REFINE_ZIPNO": "18121",
+		"REFINE_WGS84_LAT": "37.1633092005",
+		"REFINE_WGS84_LOGT": "127.0543086897",
+		"DATA_STD_DE": "2020-08-18"
+	}
+]

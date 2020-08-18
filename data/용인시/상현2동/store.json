@@ -1,0 +1,38 @@
+[
+	{
+		"SIGUN_NM": "용인시",
+		"CMPNM_NM": "덕정카악세사리",
+		"INDUTYPE_NM": "자동차정비 유지-자동차시트•타이어",
+		"REFINE_ROADNM_ADDR": "",
+		"REFINE_LOTNO_ADDR": "경기도 용인시 수지구 상현2동 806-3번지",
+		"TELNO": "",
+		"REFINE_ZIPNO": "",
+		"REFINE_WGS84_LAT": "",
+		"REFINE_WGS84_LOGT": "",
+		"DATA_STD_DE": "2020-08-18"
+	},
+	{
+		"SIGUN_NM": "용인시",
+		"CMPNM_NM": "상현LG음악학원",
+		"INDUTYPE_NM": "학원-예•체능계학원 ",
+		"REFINE_ROADNM_ADDR": "",
+		"REFINE_LOTNO_ADDR": "경기도 용인시 수지구 상현2동 869안현마을LG자이상가301~303호",
+		"TELNO": "",
+		"REFINE_ZIPNO": "",
+		"REFINE_WGS84_LAT": "",
+		"REFINE_WGS84_LOGT": "",
+		"DATA_STD_DE": "2020-08-18"
+	},
+	{
+		"SIGUN_NM": "용인시",
+		"CMPNM_NM": "샘물죽전수지가맹점",
+		"INDUTYPE_NM": "유통업 영리-기타유통업",
+		"REFINE_ROADNM_ADDR": "",
+		"REFINE_LOTNO_ADDR": "경기도 용인시 수지구 상현2동 30 성원2차A상가동 111",
+		"TELNO": "",
+		"REFINE_ZIPNO": "",
+		"REFINE_WGS84_LAT": "",
+		"REFINE_WGS84_LOGT": "",
+		"DATA_STD_DE": "2020-08-18"
+	}
+]

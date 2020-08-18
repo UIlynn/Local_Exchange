@@ -1,0 +1,14 @@
+[
+	{
+		"SIGUN_NM": "화성시",
+		"CMPNM_NM": "동탄목동초등학교",
+		"INDUTYPE_NM": "학원-초중고교육기관",
+		"REFINE_ROADNM_ADDR": "경기도 화성시 동탄순환대로20길 10",
+		"REFINE_LOTNO_ADDR": "경기도 화성시 목동 137-1번지 동탄목동초등학교",
+		"TELNO": "",
+		"REFINE_ZIPNO": "18484",
+		"REFINE_WGS84_LAT": "37.1895220920",
+		"REFINE_WGS84_LOGT": "127.1245166201",
+		"DATA_STD_DE": "2020-08-18"
+	}
+]

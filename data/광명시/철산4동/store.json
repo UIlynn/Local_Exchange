@@ -1,0 +1,62 @@
+[
+	{
+		"SIGUN_NM": "광명시",
+		"CMPNM_NM": "네버랜드어린이집[아이행복]",
+		"INDUTYPE_NM": "학원-유아원",
+		"REFINE_ROADNM_ADDR": "경기도 광명시 가림일로 79",
+		"REFINE_LOTNO_ADDR": "경기도 광명시 철산4동 625번지 도덕파크타운 101동 101호",
+		"TELNO": "",
+		"REFINE_ZIPNO": "14255",
+		"REFINE_WGS84_LAT": "37.4710933282",
+		"REFINE_WGS84_LOGT": "126.8644077621",
+		"DATA_STD_DE": "2020-08-18"
+	},
+	{
+		"SIGUN_NM": "광명시",
+		"CMPNM_NM": "서울애플치과",
+		"INDUTYPE_NM": "의원-치과의원",
+		"REFINE_ROADNM_ADDR": "",
+		"REFINE_LOTNO_ADDR": "경기도 광명시 철산4동 힐타운상가3층",
+		"TELNO": "",
+		"REFINE_ZIPNO": "",
+		"REFINE_WGS84_LAT": "",
+		"REFINE_WGS84_LOGT": "",
+		"DATA_STD_DE": "2020-08-18"
+	},
+	{
+		"SIGUN_NM": "광명시",
+		"CMPNM_NM": "청명어린이집[아이행복]",
+		"INDUTYPE_NM": "학원-유아원",
+		"REFINE_ROADNM_ADDR": "경기도 광명시 가림일로 101",
+		"REFINE_LOTNO_ADDR": "경기도 광명시 철산4동 도덕파크타운 201동 관리동",
+		"TELNO": "",
+		"REFINE_ZIPNO": "14255",
+		"REFINE_WGS84_LAT": "37.4706462574",
+		"REFINE_WGS84_LOGT": "126.8650787716",
+		"DATA_STD_DE": "2020-08-18"
+	},
+	{
+		"SIGUN_NM": "광명시",
+		"CMPNM_NM": "해나어린이집[아이행복]",
+		"INDUTYPE_NM": "학원-유아원",
+		"REFINE_ROADNM_ADDR": "경기도 광명시 가림일로 101",
+		"REFINE_LOTNO_ADDR": "경기도 광명시 철산4동 625번지 도덕파크타운 202동 105호",
+		"TELNO": "",
+		"REFINE_ZIPNO": "14255",
+		"REFINE_WGS84_LAT": "37.4705239599",
+		"REFINE_WGS84_LOGT": "126.8658035732",
+		"DATA_STD_DE": "2020-08-18"
+	},
+	{
+		"SIGUN_NM": "광명시",
+		"CMPNM_NM": "홍익어린이집[아이행복]",
+		"INDUTYPE_NM": "학원-유아원",
+		"REFINE_ROADNM_ADDR": "",
+		"REFINE_LOTNO_ADDR": "경기도 광명시 철산4동 브라운스톤아파트 상가내1층",
+		"TELNO": "",
+		"REFINE_ZIPNO": "",
+		"REFINE_WGS84_LAT": "",
+		"REFINE_WGS84_LOGT": "",
+		"DATA_STD_DE": "2020-08-18"
+	}
+]

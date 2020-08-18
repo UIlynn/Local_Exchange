@@ -1,0 +1,74 @@
+[
+	{
+		"SIGUN_NM": "여주시",
+		"CMPNM_NM": "달그락 핸드메이드 도자기",
+		"INDUTYPE_NM": "문화.취미-민예•공예품",
+		"REFINE_ROADNM_ADDR": "경기도 여주시 주내로 603-13",
+		"REFINE_LOTNO_ADDR": "경기도 여주시 멱곡동 61-1번지",
+		"TELNO": "",
+		"REFINE_ZIPNO": "12654",
+		"REFINE_WGS84_LAT": "37.2493306832",
+		"REFINE_WGS84_LOGT": "127.6728708121",
+		"DATA_STD_DE": "2020-08-18"
+	},
+	{
+		"SIGUN_NM": "여주시",
+		"CMPNM_NM": "부르릉주유소",
+		"INDUTYPE_NM": "연료판매점-현대정유(오일뱅크)",
+		"REFINE_ROADNM_ADDR": "경기도 여주시 주내로 839",
+		"REFINE_LOTNO_ADDR": "경기도 여주시 멱곡동 315번지",
+		"TELNO": "",
+		"REFINE_ZIPNO": "12653",
+		"REFINE_WGS84_LAT": "37.2557006208",
+		"REFINE_WGS84_LOGT": "127.6622400312",
+		"DATA_STD_DE": "2020-08-18"
+	},
+	{
+		"SIGUN_NM": "여주시",
+		"CMPNM_NM": "사부자네",
+		"INDUTYPE_NM": "건축자재-기타건축자재",
+		"REFINE_ROADNM_ADDR": "경기도 여주시 주내로 871",
+		"REFINE_LOTNO_ADDR": "경기도 여주시 멱곡동 323-1번지",
+		"TELNO": "",
+		"REFINE_ZIPNO": "12653",
+		"REFINE_WGS84_LAT": "37.2551734876",
+		"REFINE_WGS84_LOGT": "127.6587769352",
+		"DATA_STD_DE": "2020-08-18"
+	},
+	{
+		"SIGUN_NM": "여주시",
+		"CMPNM_NM": "소니",
+		"INDUTYPE_NM": "보건위생-화장품",
+		"REFINE_ROADNM_ADDR": "경기도 여주시 주내로 737-20",
+		"REFINE_LOTNO_ADDR": "경기도 여주시 멱곡동 333-23번지",
+		"TELNO": "",
+		"REFINE_ZIPNO": "12659",
+		"REFINE_WGS84_LAT": "37.2497750084",
+		"REFINE_WGS84_LOGT": "127.6646967598",
+		"DATA_STD_DE": "2020-08-18"
+	},
+	{
+		"SIGUN_NM": "여주시",
+		"CMPNM_NM": "여주중고가전",
+		"INDUTYPE_NM": "전기제품-가전제품",
+		"REFINE_ROADNM_ADDR": "",
+		"REFINE_LOTNO_ADDR": "경기도 여주시 멱곡동 456-1번지 2동",
+		"TELNO": "",
+		"REFINE_ZIPNO": "12659",
+		"REFINE_WGS84_LAT": "37.2435239981",
+		"REFINE_WGS84_LOGT": "127.6612555491",
+		"DATA_STD_DE": "2020-08-18"
+	},
+	{
+		"SIGUN_NM": "여주시",
+		"CMPNM_NM": "주식회사팬트론",
+		"INDUTYPE_NM": "건축자재-조명기구",
+		"REFINE_ROADNM_ADDR": "",
+		"REFINE_LOTNO_ADDR": "경기도 여주시 멱곡동 산38-1",
+		"TELNO": "",
+		"REFINE_ZIPNO": "",
+		"REFINE_WGS84_LAT": "",
+		"REFINE_WGS84_LOGT": "",
+		"DATA_STD_DE": "2020-08-18"
+	}
+]

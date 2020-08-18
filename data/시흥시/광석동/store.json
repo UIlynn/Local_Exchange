@@ -1,0 +1,74 @@
+[
+	{
+		"SIGUN_NM": "시흥시",
+		"CMPNM_NM": "나누리",
+		"INDUTYPE_NM": "소매업",
+		"REFINE_ROADNM_ADDR": "경기도 시흥시 나분들길 84-1",
+		"REFINE_LOTNO_ADDR": "경기도 시흥시 광석동 128-3번지",
+		"TELNO": "",
+		"REFINE_ZIPNO": "14979",
+		"REFINE_WGS84_LAT": "37.3847980878",
+		"REFINE_WGS84_LOGT": "126.8192866202",
+		"DATA_STD_DE": "2020-08-18"
+	},
+	{
+		"SIGUN_NM": "시흥시",
+		"CMPNM_NM": "주식회사 목수와 칠쟁이",
+		"INDUTYPE_NM": "소매업",
+		"REFINE_ROADNM_ADDR": "경기도 시흥시 나분들길 90",
+		"REFINE_LOTNO_ADDR": "경기도 시흥시 광석동 131-2번지",
+		"TELNO": "",
+		"REFINE_ZIPNO": "14979",
+		"REFINE_WGS84_LAT": "37.3842554095",
+		"REFINE_WGS84_LOGT": "126.8189639462",
+		"DATA_STD_DE": "2020-08-18"
+	},
+	{
+		"SIGUN_NM": "시흥시",
+		"CMPNM_NM": "진짬뽕",
+		"INDUTYPE_NM": "음식점업",
+		"REFINE_ROADNM_ADDR": "경기도 시흥시 동서로 691",
+		"REFINE_LOTNO_ADDR": "경기도 시흥시 광석동 30-6번지",
+		"TELNO": "",
+		"REFINE_ZIPNO": "14979",
+		"REFINE_WGS84_LAT": "37.3853528169",
+		"REFINE_WGS84_LOGT": "126.8232803994",
+		"DATA_STD_DE": "2020-08-18"
+	},
+	{
+		"SIGUN_NM": "시흥시",
+		"CMPNM_NM": "참맛나뼈감자탕",
+		"INDUTYPE_NM": "음식점업",
+		"REFINE_ROADNM_ADDR": "경기도 시흥시 동서로 699",
+		"REFINE_LOTNO_ADDR": "경기도 시흥시 광석동 19-7번지 1층",
+		"TELNO": "",
+		"REFINE_ZIPNO": "14979",
+		"REFINE_WGS84_LAT": "37.3849704164",
+		"REFINE_WGS84_LOGT": "126.8241875141",
+		"DATA_STD_DE": "2020-08-18"
+	},
+	{
+		"SIGUN_NM": "시흥시",
+		"CMPNM_NM": "천장어",
+		"INDUTYPE_NM": "음식점업",
+		"REFINE_ROADNM_ADDR": "경기도 시흥시 동서로 702",
+		"REFINE_LOTNO_ADDR": "경기도 시흥시 광석동 19-10번지",
+		"TELNO": "",
+		"REFINE_ZIPNO": "14993",
+		"REFINE_WGS84_LAT": "37.3846394442",
+		"REFINE_WGS84_LOGT": "126.8246310257",
+		"DATA_STD_DE": "2020-08-18"
+	},
+	{
+		"SIGUN_NM": "시흥시",
+		"CMPNM_NM": "파주닭국수시흥점",
+		"INDUTYPE_NM": "음식점업",
+		"REFINE_ROADNM_ADDR": "경기도 시흥시 동서로 695",
+		"REFINE_LOTNO_ADDR": "경기도 시흥시 광석동 21-3번지",
+		"TELNO": "",
+		"REFINE_ZIPNO": "14979",
+		"REFINE_WGS84_LAT": "37.3851936159",
+		"REFINE_WGS84_LOGT": "126.8238127425",
+		"DATA_STD_DE": "2020-08-18"
+	}
+]

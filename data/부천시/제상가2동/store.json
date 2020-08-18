@@ -1,0 +1,14 @@
+[
+	{
+		"SIGUN_NM": "부천시",
+		"CMPNM_NM": "골목대장몽실이비어",
+		"INDUTYPE_NM": "일반휴게음식-주점",
+		"REFINE_ROADNM_ADDR": "경기도 부천시 신흥로 190-1",
+		"REFINE_LOTNO_ADDR": "경기도 부천시 중동 1107번지 위브더스테이트 1층 제상가2동 110호",
+		"TELNO": "",
+		"REFINE_ZIPNO": "14549",
+		"REFINE_WGS84_LAT": "37.5006575515",
+		"REFINE_WGS84_LOGT": "126.7780963672",
+		"DATA_STD_DE": "2020-08-18"
+	}
+]

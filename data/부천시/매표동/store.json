@@ -1,0 +1,26 @@
+[
+	{
+		"SIGUN_NM": "부천시",
+		"CMPNM_NM": "(주)아인스솔루션",
+		"INDUTYPE_NM": "문화.취미-티켓",
+		"REFINE_ROADNM_ADDR": "경기도 부천시 도약로 1",
+		"REFINE_LOTNO_ADDR": "경기도 부천시 상동 529-2번지 매표동 B동 2호",
+		"TELNO": "",
+		"REFINE_ZIPNO": "14505",
+		"REFINE_WGS84_LAT": "37.5131520747",
+		"REFINE_WGS84_LOGT": "126.7452297663",
+		"DATA_STD_DE": "2020-08-18"
+	},
+	{
+		"SIGUN_NM": "부천시",
+		"CMPNM_NM": "(주)아인스솔루션",
+		"INDUTYPE_NM": "문화.취미-티켓",
+		"REFINE_ROADNM_ADDR": "경기도 부천시 도약로 1",
+		"REFINE_LOTNO_ADDR": "경기도 부천시 상동 529-2번지 매표동 B-2호",
+		"TELNO": "",
+		"REFINE_ZIPNO": "14505",
+		"REFINE_WGS84_LAT": "37.5131520747",
+		"REFINE_WGS84_LOGT": "126.7452297663",
+		"DATA_STD_DE": "2020-08-18"
+	}
+]

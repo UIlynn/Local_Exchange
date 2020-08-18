@@ -1,0 +1,26 @@
+[
+	{
+		"SIGUN_NM": "군포시",
+		"CMPNM_NM": "나의집농원",
+		"INDUTYPE_NM": "문화.취미-화원",
+		"REFINE_ROADNM_ADDR": "",
+		"REFINE_LOTNO_ADDR": "경기도 군포시 속달동",
+		"TELNO": "",
+		"REFINE_ZIPNO": "",
+		"REFINE_WGS84_LAT": "",
+		"REFINE_WGS84_LOGT": "",
+		"DATA_STD_DE": "2020-08-18"
+	},
+	{
+		"SIGUN_NM": "군포시",
+		"CMPNM_NM": "속달풍년주말농장",
+		"INDUTYPE_NM": "음료식품-농•축•수산품",
+		"REFINE_ROADNM_ADDR": "",
+		"REFINE_LOTNO_ADDR": "경기도 군포시 속달동",
+		"TELNO": "",
+		"REFINE_ZIPNO": "",
+		"REFINE_WGS84_LAT": "",
+		"REFINE_WGS84_LOGT": "",
+		"DATA_STD_DE": "2020-08-18"
+	}
+]

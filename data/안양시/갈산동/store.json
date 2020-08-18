@@ -1,0 +1,86 @@
+[
+	{
+		"SIGUN_NM": "안양시",
+		"CMPNM_NM": "김종호치과",
+		"INDUTYPE_NM": "의원-치과의원",
+		"REFINE_ROADNM_ADDR": "",
+		"REFINE_LOTNO_ADDR": "경기도 안양시 동안구 갈산동 1121번지 한양대우상가 211호",
+		"TELNO": "0314298734",
+		"REFINE_ZIPNO": "14106",
+		"REFINE_WGS84_LAT": "37.3755657398",
+		"REFINE_WGS84_LOGT": "126.9663015439",
+		"DATA_STD_DE": "2020-08-18"
+	},
+	{
+		"SIGUN_NM": "안양시",
+		"CMPNM_NM": "샘마을슈퍼",
+		"INDUTYPE_NM": "유통업 영리-슈퍼마켓",
+		"REFINE_ROADNM_ADDR": "",
+		"REFINE_LOTNO_ADDR": "경기도 안양시 동안구 갈산동 1121번지 지하층 1호",
+		"TELNO": "0314522509",
+		"REFINE_ZIPNO": "14106",
+		"REFINE_WGS84_LAT": "37.3755657398",
+		"REFINE_WGS84_LOGT": "126.9663015439",
+		"DATA_STD_DE": "2020-08-18"
+	},
+	{
+		"SIGUN_NM": "안양시",
+		"CMPNM_NM": "생선백화점",
+		"INDUTYPE_NM": "음료식품-농•축•수산품",
+		"REFINE_ROADNM_ADDR": "",
+		"REFINE_LOTNO_ADDR": "경기도 안양시 동안구 갈산동 1121번지 대우한양상가 지하층 10호",
+		"TELNO": "0314543440",
+		"REFINE_ZIPNO": "14106",
+		"REFINE_WGS84_LAT": "37.3755657398",
+		"REFINE_WGS84_LOGT": "126.9663015439",
+		"DATA_STD_DE": "2020-08-18"
+	},
+	{
+		"SIGUN_NM": "안양시",
+		"CMPNM_NM": "에비앙",
+		"INDUTYPE_NM": "보건위생-미용원",
+		"REFINE_ROADNM_ADDR": "",
+		"REFINE_LOTNO_ADDR": "경기도 안양시 동안구 갈산동 1121번지 샘마을대우한양상가 214",
+		"TELNO": "0314566050",
+		"REFINE_ZIPNO": "14106",
+		"REFINE_WGS84_LAT": "37.3755657398",
+		"REFINE_WGS84_LOGT": "126.9663015439",
+		"DATA_STD_DE": "2020-08-18"
+	},
+	{
+		"SIGUN_NM": "안양시",
+		"CMPNM_NM": "임광어린이집[아이행복]",
+		"INDUTYPE_NM": "학원-유아원",
+		"REFINE_ROADNM_ADDR": "경기도 안양시 동안구 경수대로797번길 5",
+		"REFINE_LOTNO_ADDR": "경기도 안양시 동안구 갈산동 895번지 샘마을임광아파트 단지",
+		"TELNO": "0314520552",
+		"REFINE_ZIPNO": "14040",
+		"REFINE_WGS84_LAT": "37.3896843020",
+		"REFINE_WGS84_LOGT": "126.9454154451",
+		"DATA_STD_DE": "2020-08-18"
+	},
+	{
+		"SIGUN_NM": "안양시",
+		"CMPNM_NM": "있잖아요!아빠치킨호프",
+		"INDUTYPE_NM": "일반휴게음식-칵테일바",
+		"REFINE_ROADNM_ADDR": "경기도 안양시 동안구 흥안대로223번길 22",
+		"REFINE_LOTNO_ADDR": "경기도 안양시 동안구 갈산동 1117번지 샘마을쌍용상가 205",
+		"TELNO": "0314279292",
+		"REFINE_ZIPNO": "14106",
+		"REFINE_WGS84_LAT": "37.3759543380",
+		"REFINE_WGS84_LOGT": "126.9665246845",
+		"DATA_STD_DE": "2020-08-18"
+	},
+	{
+		"SIGUN_NM": "안양시",
+		"CMPNM_NM": "환스튜디오",
+		"INDUTYPE_NM": "광학제품-사진관",
+		"REFINE_ROADNM_ADDR": "",
+		"REFINE_LOTNO_ADDR": "경기도 안양시 동안구 갈산동 샘마을대우아파트한양상가213호",
+		"TELNO": "0314530690",
+		"REFINE_ZIPNO": "",
+		"REFINE_WGS84_LAT": "",
+		"REFINE_WGS84_LOGT": "",
+		"DATA_STD_DE": "2020-08-18"
+	}
+]

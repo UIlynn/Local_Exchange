@@ -1,0 +1,26 @@
+[
+	{
+		"SIGUN_NM": "부천시",
+		"CMPNM_NM": "나을약국",
+		"INDUTYPE_NM": "약국-약국",
+		"REFINE_ROADNM_ADDR": "경기도 부천시 신흥로 190",
+		"REFINE_LOTNO_ADDR": "경기도 부천시 중동 1106번지 2층 231호 제상가1동 위브더스테이트 외 4필지",
+		"TELNO": "",
+		"REFINE_ZIPNO": "14549",
+		"REFINE_WGS84_LAT": "37.5009233054",
+		"REFINE_WGS84_LOGT": "126.7773358113",
+		"DATA_STD_DE": "2020-08-18"
+	},
+	{
+		"SIGUN_NM": "부천시",
+		"CMPNM_NM": "미즈아트",
+		"INDUTYPE_NM": "직물-침구•수예점",
+		"REFINE_ROADNM_ADDR": "경기도 부천시 신흥로 190",
+		"REFINE_LOTNO_ADDR": "경기도 부천시 중동 1106번지 위브더스테이트 제2층 제상가1동228호",
+		"TELNO": "",
+		"REFINE_ZIPNO": "14549",
+		"REFINE_WGS84_LAT": "37.5009233054",
+		"REFINE_WGS84_LOGT": "126.7773358113",
+		"DATA_STD_DE": "2020-08-18"
+	}
+]

@@ -1,0 +1,26 @@
+[
+	{
+		"SIGUN_NM": "성남시",
+		"CMPNM_NM": "그린장여인숙",
+		"INDUTYPE_NM": "기타숙박업",
+		"REFINE_ROADNM_ADDR": "경기도 성남시 수정구 수정로162번길 7-12",
+		"REFINE_LOTNO_ADDR": "경기도 성남시 수정구 신흥1동 5614",
+		"TELNO": "",
+		"REFINE_ZIPNO": "13338",
+		"REFINE_WGS84_LAT": "37.4423348039",
+		"REFINE_WGS84_LOGT": "127.1389705748",
+		"DATA_STD_DE": "2020-08-18"
+	},
+	{
+		"SIGUN_NM": "성남시",
+		"CMPNM_NM": "대성여인숙",
+		"INDUTYPE_NM": "기타숙박업",
+		"REFINE_ROADNM_ADDR": "경기도 성남시 수정구 시민로163번길 5-5",
+		"REFINE_LOTNO_ADDR": "경기도 성남시 수정구 신흥1동 5154",
+		"TELNO": "",
+		"REFINE_ZIPNO": "13340",
+		"REFINE_WGS84_LAT": "37.4422923660",
+		"REFINE_WGS84_LOGT": "127.1428030838",
+		"DATA_STD_DE": "2020-08-18"
+	}
+]

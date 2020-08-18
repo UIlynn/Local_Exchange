@@ -1,0 +1,86 @@
+[
+	{
+		"SIGUN_NM": "수원시",
+		"CMPNM_NM": "거북카상사",
+		"INDUTYPE_NM": "회원제형태-기타3",
+		"REFINE_ROADNM_ADDR": "",
+		"REFINE_LOTNO_ADDR": "경기도 수원시 권선구 탑동 896번지 수원탑동세양청마루아파트",
+		"TELNO": "",
+		"REFINE_ZIPNO": "16605",
+		"REFINE_WGS84_LAT": "37.2726269788",
+		"REFINE_WGS84_LOGT": "126.9782519050",
+		"DATA_STD_DE": "2020-08-18"
+	},
+	{
+		"SIGUN_NM": "수원시",
+		"CMPNM_NM": "명우갤러리",
+		"INDUTYPE_NM": "회원제형태-기타4",
+		"REFINE_ROADNM_ADDR": "",
+		"REFINE_LOTNO_ADDR": "경기도 수원시 권선구 탑동 860번지 수원탑동우방파크타운",
+		"TELNO": "",
+		"REFINE_ZIPNO": "16610",
+		"REFINE_WGS84_LAT": "37.2684095603",
+		"REFINE_WGS84_LOGT": "126.9744237183",
+		"DATA_STD_DE": "2020-08-18"
+	},
+	{
+		"SIGUN_NM": "수원시",
+		"CMPNM_NM": "법무사박경호사무소",
+		"INDUTYPE_NM": "용역 서비스-법률회계서비스(개인)",
+		"REFINE_ROADNM_ADDR": "경기도 수원시 권선구 효탑로 50",
+		"REFINE_LOTNO_ADDR": "경기도 수원시 권선구 탑동 860번지 수원탑동우방파크타운 상가동 206호",
+		"TELNO": "",
+		"REFINE_ZIPNO": "16610",
+		"REFINE_WGS84_LAT": "37.2671408388",
+		"REFINE_WGS84_LOGT": "126.9749287872",
+		"DATA_STD_DE": "2020-08-18"
+	},
+	{
+		"SIGUN_NM": "수원시",
+		"CMPNM_NM": "수현청과",
+		"INDUTYPE_NM": "음료식품-농•축•수산품",
+		"REFINE_ROADNM_ADDR": "경기도 수원시 권선구 효탑로 50",
+		"REFINE_LOTNO_ADDR": "경기도 수원시 권선구 탑동 860번지 수원탑동우방파크타운아파트 104동 1201호",
+		"TELNO": "",
+		"REFINE_ZIPNO": "16610",
+		"REFINE_WGS84_LAT": "37.2684095603",
+		"REFINE_WGS84_LOGT": "126.9744237183",
+		"DATA_STD_DE": "2020-08-18"
+	},
+	{
+		"SIGUN_NM": "수원시",
+		"CMPNM_NM": "써니픽S",
+		"INDUTYPE_NM": "보건위생-화장품",
+		"REFINE_ROADNM_ADDR": "경기도 수원시 권선구 효탑로 50",
+		"REFINE_LOTNO_ADDR": "경기도 수원시 권선구 탑동 860번지 수원탑동우방파크타운아파트 104동 1305호",
+		"TELNO": "",
+		"REFINE_ZIPNO": "16610",
+		"REFINE_WGS84_LAT": "37.2684095603",
+		"REFINE_WGS84_LOGT": "126.9744237183",
+		"DATA_STD_DE": "2020-08-18"
+	},
+	{
+		"SIGUN_NM": "수원시",
+		"CMPNM_NM": "탑동사임당어린이집[아이행복]",
+		"INDUTYPE_NM": "학원-유아원",
+		"REFINE_ROADNM_ADDR": "경기도 수원시 권선구 효탑로 50",
+		"REFINE_LOTNO_ADDR": "경기도 수원시 권선구 탑동 860번지 수원탑동우방파크타운 102동 103호",
+		"TELNO": "",
+		"REFINE_ZIPNO": "16610",
+		"REFINE_WGS84_LAT": "37.2676803565",
+		"REFINE_WGS84_LOGT": "126.9746317997",
+		"DATA_STD_DE": "2020-08-18"
+	},
+	{
+		"SIGUN_NM": "수원시",
+		"CMPNM_NM": "하이엔",
+		"INDUTYPE_NM": "직물-카페트,커튼,천막,지물",
+		"REFINE_ROADNM_ADDR": "경기도 수원시 권선구 효탑로 50",
+		"REFINE_LOTNO_ADDR": "경기도 수원시 권선구 탑동 860번지 수원탑동우방파크타운 107호 상가",
+		"TELNO": "",
+		"REFINE_ZIPNO": "16610",
+		"REFINE_WGS84_LAT": "37.2684095603",
+		"REFINE_WGS84_LOGT": "126.9744237183",
+		"DATA_STD_DE": "2020-08-18"
+	}
+]

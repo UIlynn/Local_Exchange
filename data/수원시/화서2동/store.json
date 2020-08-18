@@ -1,0 +1,122 @@
+[
+	{
+		"SIGUN_NM": "수원시",
+		"CMPNM_NM": "다사랑한의원",
+		"INDUTYPE_NM": "의원-한의원",
+		"REFINE_ROADNM_ADDR": "경기도 수원시 팔달구 덕영대로 695",
+		"REFINE_LOTNO_ADDR": "경기도 수원시 팔달구 화서2동 644-8,403,404번지",
+		"TELNO": "",
+		"REFINE_ZIPNO": "16435",
+		"REFINE_WGS84_LAT": "37.2847221746",
+		"REFINE_WGS84_LOGT": "126.9903293916",
+		"DATA_STD_DE": "2020-08-18"
+	},
+	{
+		"SIGUN_NM": "수원시",
+		"CMPNM_NM": "동그라미 어린이집[아이행복]",
+		"INDUTYPE_NM": "학원-유아원",
+		"REFINE_ROADNM_ADDR": "",
+		"REFINE_LOTNO_ADDR": "경기도 수원시 팔달구 화서2동 꽃뫼버들마을아파트 진흥A관리동1층",
+		"TELNO": "",
+		"REFINE_ZIPNO": "",
+		"REFINE_WGS84_LAT": "",
+		"REFINE_WGS84_LOGT": "",
+		"DATA_STD_DE": "2020-08-18"
+	},
+	{
+		"SIGUN_NM": "수원시",
+		"CMPNM_NM": "머리사랑",
+		"INDUTYPE_NM": "보건위생-미용원",
+		"REFINE_ROADNM_ADDR": "경기도 수원시 팔달구 화산로 16",
+		"REFINE_LOTNO_ADDR": "경기도 수원시 팔달구 화서2동 685-2번지 103호",
+		"TELNO": "",
+		"REFINE_ZIPNO": "16425",
+		"REFINE_WGS84_LAT": "37.2861187794",
+		"REFINE_WGS84_LOGT": "126.9860330905",
+		"DATA_STD_DE": "2020-08-18"
+	},
+	{
+		"SIGUN_NM": "수원시",
+		"CMPNM_NM": "바라(BARA)디자인",
+		"INDUTYPE_NM": "건축자재-인테리어전문",
+		"REFINE_ROADNM_ADDR": "경기도 수원시 팔달구 동말로25번길 96",
+		"REFINE_LOTNO_ADDR": "경기도 수원시 팔달구 화서2동 244-22번지",
+		"TELNO": "",
+		"REFINE_ZIPNO": "16443",
+		"REFINE_WGS84_LAT": "37.2816772628",
+		"REFINE_WGS84_LOGT": "126.9949524130",
+		"DATA_STD_DE": "2020-08-18"
+	},
+	{
+		"SIGUN_NM": "수원시",
+		"CMPNM_NM": "신한일대리점",
+		"INDUTYPE_NM": "전기제품-기타전기제품",
+		"REFINE_ROADNM_ADDR": "경기도 수원시 팔달구 덕영대로697번길 47",
+		"REFINE_LOTNO_ADDR": "경기도 수원시 팔달구 화서2동 646번지 주공아파트4단지 1-2",
+		"TELNO": "",
+		"REFINE_ZIPNO": "16435",
+		"REFINE_WGS84_LAT": "37.2857480864",
+		"REFINE_WGS84_LOGT": "126.9920372170",
+		"DATA_STD_DE": "2020-08-18"
+	},
+	{
+		"SIGUN_NM": "수원시",
+		"CMPNM_NM": "장한만물사",
+		"INDUTYPE_NM": "기타-기계공구",
+		"REFINE_ROADNM_ADDR": "경기도 수원시 팔달구 덕영대로697번길 17",
+		"REFINE_LOTNO_ADDR": "경기도 수원시 팔달구 화서2동 379-2번지 그린프라자 112호",
+		"TELNO": "",
+		"REFINE_ZIPNO": "16435",
+		"REFINE_WGS84_LAT": "37.2849411717",
+		"REFINE_WGS84_LOGT": "126.9909483747",
+		"DATA_STD_DE": "2020-08-18"
+	},
+	{
+		"SIGUN_NM": "수원시",
+		"CMPNM_NM": "크린세탁",
+		"INDUTYPE_NM": "수리서비스-세탁소",
+		"REFINE_ROADNM_ADDR": "",
+		"REFINE_LOTNO_ADDR": "경기도 수원시 팔달구 화서2동 649, 주공아파트상가 지하1층",
+		"TELNO": "",
+		"REFINE_ZIPNO": "",
+		"REFINE_WGS84_LAT": "",
+		"REFINE_WGS84_LOGT": "",
+		"DATA_STD_DE": "2020-08-18"
+	},
+	{
+		"SIGUN_NM": "수원시",
+		"CMPNM_NM": "플라워가이드",
+		"INDUTYPE_NM": "문화.취미-화원",
+		"REFINE_ROADNM_ADDR": "",
+		"REFINE_LOTNO_ADDR": "경기도 수원시 팔달구 화서2동 354-3",
+		"TELNO": "",
+		"REFINE_ZIPNO": "16434",
+		"REFINE_WGS84_LAT": "37.2876514237",
+		"REFINE_WGS84_LOGT": "126.9951685410",
+		"DATA_STD_DE": "2020-08-18"
+	},
+	{
+		"SIGUN_NM": "수원시",
+		"CMPNM_NM": "한샘어린이집[아이행복]",
+		"INDUTYPE_NM": "학원-유아원",
+		"REFINE_ROADNM_ADDR": "경기도 수원시 팔달구 덕영대로697번길 48",
+		"REFINE_LOTNO_ADDR": "경기도 수원시 팔달구 화서2동 650번지 주공4단지내 복지관 한샘어린이집",
+		"TELNO": "",
+		"REFINE_ZIPNO": "16435",
+		"REFINE_WGS84_LAT": "37.2851010399",
+		"REFINE_WGS84_LOGT": "126.9924928110",
+		"DATA_STD_DE": "2020-08-18"
+	},
+	{
+		"SIGUN_NM": "수원시",
+		"CMPNM_NM": "해님어린이집[아이행복]",
+		"INDUTYPE_NM": "학원-유아원",
+		"REFINE_ROADNM_ADDR": "경기도 수원시 팔달구 일월로18번길 4-26",
+		"REFINE_LOTNO_ADDR": "경기도 수원시 팔달구 화서2동 730번지 꽃뫼버들마을코오롱아파트 관리동 1층",
+		"TELNO": "",
+		"REFINE_ZIPNO": "16424",
+		"REFINE_WGS84_LAT": "37.2850560875",
+		"REFINE_WGS84_LOGT": "126.9821144928",
+		"DATA_STD_DE": "2020-08-18"
+	}
+]

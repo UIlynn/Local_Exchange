@@ -1,0 +1,14 @@
+[
+	{
+		"SIGUN_NM": "수원시",
+		"CMPNM_NM": "밥도둑",
+		"INDUTYPE_NM": "일반휴게음식-일반한식",
+		"REFINE_ROADNM_ADDR": "경기도 수원시 권선구 매송고색로 875",
+		"REFINE_LOTNO_ADDR": "경기도 수원시 권선구 평동 23-26번지 수원공구유통타운 제이동 262호, 263호, 274호, 275호",
+		"TELNO": "",
+		"REFINE_ZIPNO": "16598",
+		"REFINE_WGS84_LAT": "37.2589251953",
+		"REFINE_WGS84_LOGT": "126.9968523304",
+		"DATA_STD_DE": "2020-08-18"
+	}
+]

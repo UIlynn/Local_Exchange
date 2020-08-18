@@ -1,0 +1,26 @@
+[
+	{
+		"SIGUN_NM": "용인시",
+		"CMPNM_NM": "배스킨라빈스 기흥삼성전자K1",
+		"INDUTYPE_NM": "음료식품-제과점",
+		"REFINE_ROADNM_ADDR": "",
+		"REFINE_LOTNO_ADDR": "경기 용인시 기흥구 삼성로 11층 외47필지 GATE 1 갱의동 (농서동)",
+		"TELNO": "",
+		"REFINE_ZIPNO": "",
+		"REFINE_WGS84_LAT": "",
+		"REFINE_WGS84_LOGT": "",
+		"DATA_STD_DE": "2020-08-18"
+	},
+	{
+		"SIGUN_NM": "용인시",
+		"CMPNM_NM": "베스킨라빈스기흥삼성전자K1",
+		"INDUTYPE_NM": "음료식품-제과점",
+		"REFINE_ROADNM_ADDR": "",
+		"REFINE_LOTNO_ADDR": "경기 용인시 기흥구 삼성로 11층 외 47필지 GATE 1 갱의동 (농서동)",
+		"TELNO": "",
+		"REFINE_ZIPNO": "",
+		"REFINE_WGS84_LAT": "",
+		"REFINE_WGS84_LOGT": "",
+		"DATA_STD_DE": "2020-08-18"
+	}
+]

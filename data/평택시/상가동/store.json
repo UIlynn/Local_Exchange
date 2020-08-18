@@ -1,0 +1,38 @@
+[
+	{
+		"SIGUN_NM": "평택시",
+		"CMPNM_NM": "라렌헤어",
+		"INDUTYPE_NM": "보건위생-미용원",
+		"REFINE_ROADNM_ADDR": "",
+		"REFINE_LOTNO_ADDR": "경기 평택시 조개터로 25.102호 상가동(합정동)",
+		"TELNO": "",
+		"REFINE_ZIPNO": "17906",
+		"REFINE_WGS84_LAT": "",
+		"REFINE_WGS84_LOGT": "",
+		"DATA_STD_DE": "2020-08-18"
+	},
+	{
+		"SIGUN_NM": "평택시",
+		"CMPNM_NM": "라렌헤어",
+		"INDUTYPE_NM": "서비스업이미용",
+		"REFINE_ROADNM_ADDR": "",
+		"REFINE_LOTNO_ADDR": "경기 평택시 조개터로25번길 162, 상가동 102호(한미아파트)",
+		"TELNO": "",
+		"REFINE_ZIPNO": "",
+		"REFINE_WGS84_LAT": "",
+		"REFINE_WGS84_LOGT": "",
+		"DATA_STD_DE": "2020-08-18"
+	},
+	{
+		"SIGUN_NM": "평택시",
+		"CMPNM_NM": "지에스(GS)25 평택중흥점",
+		"INDUTYPE_NM": "도소매업",
+		"REFINE_ROADNM_ADDR": "",
+		"REFINE_LOTNO_ADDR": "경기 평택시 비전3로 상가동 114,115호(소사벌 택지개발지구 B-9단지)",
+		"TELNO": "",
+		"REFINE_ZIPNO": "",
+		"REFINE_WGS84_LAT": "",
+		"REFINE_WGS84_LOGT": "",
+		"DATA_STD_DE": "2020-08-18"
+	}
+]

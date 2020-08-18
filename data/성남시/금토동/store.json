@@ -1,0 +1,122 @@
+[
+	{
+		"SIGUN_NM": "성남시",
+		"CMPNM_NM": "금빛축산",
+		"INDUTYPE_NM": "",
+		"REFINE_ROADNM_ADDR": "경기도 성남시 수정구 내동로 5",
+		"REFINE_LOTNO_ADDR": "경기도 성남시 수정구 금토동 431-2번지",
+		"TELNO": "031-719-1399",
+		"REFINE_ZIPNO": "13453",
+		"REFINE_WGS84_LAT": "37.4060159744",
+		"REFINE_WGS84_LOGT": "127.0833943092",
+		"DATA_STD_DE": "2020-08-18"
+	},
+	{
+		"SIGUN_NM": "성남시",
+		"CMPNM_NM": "남한산성벌꿀농장",
+		"INDUTYPE_NM": "도소매",
+		"REFINE_ROADNM_ADDR": "경기도 성남시 수정구 금토로67번길 5",
+		"REFINE_LOTNO_ADDR": "경기도 성남시 수정구 금토동 423-2번지",
+		"TELNO": "",
+		"REFINE_ZIPNO": "13453",
+		"REFINE_WGS84_LAT": "37.4062184078",
+		"REFINE_WGS84_LOGT": "127.0845683147",
+		"DATA_STD_DE": "2020-08-18"
+	},
+	{
+		"SIGUN_NM": "성남시",
+		"CMPNM_NM": "느티나무집",
+		"INDUTYPE_NM": "",
+		"REFINE_ROADNM_ADDR": "경기도 성남시 수정구 둔토로26번길 13",
+		"REFINE_LOTNO_ADDR": "경기도 성남시 수정구 금토동 205-1번지",
+		"TELNO": "031-602-8890",
+		"REFINE_ZIPNO": "13453",
+		"REFINE_WGS84_LAT": "37.4108854342",
+		"REFINE_WGS84_LOGT": "127.0865426421",
+		"DATA_STD_DE": "2020-08-18"
+	},
+	{
+		"SIGUN_NM": "성남시",
+		"CMPNM_NM": "브로랜드코리아",
+		"INDUTYPE_NM": "",
+		"REFINE_ROADNM_ADDR": "경기도 성남시 수정구 대왕판교로 766",
+		"REFINE_LOTNO_ADDR": "경기도 성남시 수정구 금토동 273-21번지",
+		"TELNO": "031-723-5764",
+		"REFINE_ZIPNO": "13448",
+		"REFINE_WGS84_LAT": "37.4089584072",
+		"REFINE_WGS84_LOGT": "127.1002032792",
+		"DATA_STD_DE": "2020-08-18"
+	},
+	{
+		"SIGUN_NM": "성남시",
+		"CMPNM_NM": "야중사 판교점",
+		"INDUTYPE_NM": "",
+		"REFINE_ROADNM_ADDR": "경기도 성남시 수정구 대왕판교로753번길 10",
+		"REFINE_LOTNO_ADDR": "경기도 성남시 수정구 금토동 278번지",
+		"TELNO": "031-709-9144",
+		"REFINE_ZIPNO": "13449",
+		"REFINE_WGS84_LAT": "37.4082794430",
+		"REFINE_WGS84_LOGT": "127.0993368175",
+		"DATA_STD_DE": "2020-08-18"
+	},
+	{
+		"SIGUN_NM": "성남시",
+		"CMPNM_NM": "야중사 판교점",
+		"INDUTYPE_NM": "",
+		"REFINE_ROADNM_ADDR": "경기도 성남시 수정구 대왕판교로753번길 10",
+		"REFINE_LOTNO_ADDR": "경기도 성남시 수정구 금토동 278번지 (278-1중일부(1층))",
+		"TELNO": "031-709-9144",
+		"REFINE_ZIPNO": "13449",
+		"REFINE_WGS84_LAT": "37.4082794430",
+		"REFINE_WGS84_LOGT": "127.0993368175",
+		"DATA_STD_DE": "2020-08-18"
+	},
+	{
+		"SIGUN_NM": "성남시",
+		"CMPNM_NM": "육미한우암소직판장",
+		"INDUTYPE_NM": "",
+		"REFINE_ROADNM_ADDR": "경기도 성남시 수정구 달래내로 18",
+		"REFINE_LOTNO_ADDR": "경기도 성남시 수정구 금토동 272-40번지 판교블랑쉬에1지층및1층전체",
+		"TELNO": "031-713-9190",
+		"REFINE_ZIPNO": "13449",
+		"REFINE_WGS84_LAT": "37.4097167061",
+		"REFINE_WGS84_LOGT": "127.0978827857",
+		"DATA_STD_DE": "2020-08-18"
+	},
+	{
+		"SIGUN_NM": "성남시",
+		"CMPNM_NM": "홍루원",
+		"INDUTYPE_NM": "",
+		"REFINE_ROADNM_ADDR": "경기도 성남시 수정구 달래내로 20",
+		"REFINE_LOTNO_ADDR": "경기도 성남시 수정구 금토동 272-33번지 (1층,지하1층)",
+		"TELNO": "031-781-4311",
+		"REFINE_ZIPNO": "13449",
+		"REFINE_WGS84_LAT": "37.4096349304",
+		"REFINE_WGS84_LOGT": "127.0976911260",
+		"DATA_STD_DE": "2020-08-18"
+	},
+	{
+		"SIGUN_NM": "성남시",
+		"CMPNM_NM": "홍박사생고기",
+		"INDUTYPE_NM": "",
+		"REFINE_ROADNM_ADDR": "경기도 성남시 수정구 달래내로 14",
+		"REFINE_LOTNO_ADDR": "경기도 성남시 수정구 금토동 272-32번지",
+		"TELNO": "031-701-9700",
+		"REFINE_ZIPNO": "13449",
+		"REFINE_WGS84_LAT": "37.4096997930",
+		"REFINE_WGS84_LOGT": "127.0982105709",
+		"DATA_STD_DE": "2020-08-18"
+	},
+	{
+		"SIGUN_NM": "성남시",
+		"CMPNM_NM": "황산벌",
+		"INDUTYPE_NM": "",
+		"REFINE_ROADNM_ADDR": "경기도 성남시 수정구 달래내로 22",
+		"REFINE_LOTNO_ADDR": "경기도 성남시 수정구 금토동 272번지",
+		"TELNO": "031-708-9898",
+		"REFINE_ZIPNO": "13449",
+		"REFINE_WGS84_LAT": "37.4093107875",
+		"REFINE_WGS84_LOGT": "127.0977945572",
+		"DATA_STD_DE": "2020-08-18"
+	}
+]

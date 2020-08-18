@@ -1,0 +1,86 @@
+[
+	{
+		"SIGUN_NM": "구리시",
+		"CMPNM_NM": "(주)넷포스",
+		"INDUTYPE_NM": "별도관리-자체물품대금",
+		"REFINE_ROADNM_ADDR": "경기도 구리시 이문안로 67",
+		"REFINE_LOTNO_ADDR": "경기도 구리시 수택3동 757-4번지",
+		"TELNO": "",
+		"REFINE_ZIPNO": "11933",
+		"REFINE_WGS84_LAT": "37.5924744397",
+		"REFINE_WGS84_LOGT": "127.1390394370",
+		"DATA_STD_DE": "2020-08-18"
+	},
+	{
+		"SIGUN_NM": "구리시",
+		"CMPNM_NM": "고려수지침",
+		"INDUTYPE_NM": "보건위생-의료용품",
+		"REFINE_ROADNM_ADDR": "",
+		"REFINE_LOTNO_ADDR": "경기도 구리시 수택3동 854-2번지 엘지원앙상가 2층 206",
+		"TELNO": "",
+		"REFINE_ZIPNO": "11940",
+		"REFINE_WGS84_LAT": "37.5884787865",
+		"REFINE_WGS84_LOGT": "127.1381639159",
+		"DATA_STD_DE": "2020-08-18"
+	},
+	{
+		"SIGUN_NM": "구리시",
+		"CMPNM_NM": "구리수택동우체국",
+		"INDUTYPE_NM": "용역 서비스-공공요금대행서비스/소득공",
+		"REFINE_ROADNM_ADDR": "",
+		"REFINE_LOTNO_ADDR": "경기도 구리시 수택3동 851-2566번지",
+		"TELNO": "",
+		"REFINE_ZIPNO": "11940",
+		"REFINE_WGS84_LAT": "",
+		"REFINE_WGS84_LOGT": "",
+		"DATA_STD_DE": "2020-08-18"
+	},
+	{
+		"SIGUN_NM": "구리시",
+		"CMPNM_NM": "알라딘수입상품",
+		"INDUTYPE_NM": "신변잡화-액세서리",
+		"REFINE_ROADNM_ADDR": "",
+		"REFINE_LOTNO_ADDR": "경기도 구리시 수택3동 854번지 대림한숲상가 18호",
+		"TELNO": "",
+		"REFINE_ZIPNO": "11940",
+		"REFINE_WGS84_LAT": "37.5902814912",
+		"REFINE_WGS84_LOGT": "127.1381665159",
+		"DATA_STD_DE": "2020-08-18"
+	},
+	{
+		"SIGUN_NM": "구리시",
+		"CMPNM_NM": "오정마트",
+		"INDUTYPE_NM": "유통업 영리-슈퍼마켓",
+		"REFINE_ROADNM_ADDR": "경기도 구리시 이문안로 106",
+		"REFINE_LOTNO_ADDR": "경기도 구리시 수택3동 853번지 럭키상가 103호",
+		"TELNO": "",
+		"REFINE_ZIPNO": "11940",
+		"REFINE_WGS84_LAT": "37.5915485264",
+		"REFINE_WGS84_LOGT": "127.1428158911",
+		"DATA_STD_DE": "2020-08-18"
+	},
+	{
+		"SIGUN_NM": "구리시",
+		"CMPNM_NM": "한숲스넥",
+		"INDUTYPE_NM": "일반휴게음식-일반한식",
+		"REFINE_ROADNM_ADDR": "",
+		"REFINE_LOTNO_ADDR": "경기도 구리시 수택3동 854번지 대림한숲아파트 상가 지하식당",
+		"TELNO": "",
+		"REFINE_ZIPNO": "11940",
+		"REFINE_WGS84_LAT": "37.5902814912",
+		"REFINE_WGS84_LOGT": "127.1381665159",
+		"DATA_STD_DE": "2020-08-18"
+	},
+	{
+		"SIGUN_NM": "구리시",
+		"CMPNM_NM": "행복한생활",
+		"INDUTYPE_NM": "건강식품-기타건강식품",
+		"REFINE_ROADNM_ADDR": "경기도 구리시 장자대로 78",
+		"REFINE_LOTNO_ADDR": "경기도 구리시 수택3동 874-2연성클리닉4층2",
+		"TELNO": "",
+		"REFINE_ZIPNO": "11948",
+		"REFINE_WGS84_LAT": "37.5873101365",
+		"REFINE_WGS84_LOGT": "127.1391776433",
+		"DATA_STD_DE": "2020-08-18"
+	}
+]

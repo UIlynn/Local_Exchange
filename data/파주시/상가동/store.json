@@ -1,0 +1,26 @@
+[
+	{
+		"SIGUN_NM": "파주시",
+		"CMPNM_NM": "외출준비헤어숍",
+		"INDUTYPE_NM": "보건위생-미용원",
+		"REFINE_ROADNM_ADDR": "",
+		"REFINE_LOTNO_ADDR": "경기 파주시 황골로 40두보아 상가동 101-1호(금촌동)",
+		"TELNO": "",
+		"REFINE_ZIPNO": "",
+		"REFINE_WGS84_LAT": "",
+		"REFINE_WGS84_LOGT": "",
+		"DATA_STD_DE": "2020-08-18"
+	},
+	{
+		"SIGUN_NM": "파주시",
+		"CMPNM_NM": "커피에반하다 한빛마을점",
+		"INDUTYPE_NM": "일반휴게음식-서양음식",
+		"REFINE_ROADNM_ADDR": "",
+		"REFINE_LOTNO_ADDR": "경기 파주시 와석순환로 61주출입구 상가동 103호 일부 (야당동,한빛마을7단지)",
+		"TELNO": "",
+		"REFINE_ZIPNO": "",
+		"REFINE_WGS84_LAT": "",
+		"REFINE_WGS84_LOGT": "",
+		"DATA_STD_DE": "2020-08-18"
+	}
+]

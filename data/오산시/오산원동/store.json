@@ -1,0 +1,62 @@
+[
+	{
+		"SIGUN_NM": "오산시",
+		"CMPNM_NM": "SUN식품",
+		"INDUTYPE_NM": "음료식품-농•축•수산품",
+		"REFINE_ROADNM_ADDR": "",
+		"REFINE_LOTNO_ADDR": "경기도 오산시 원동 826-1번지 오산원동푸르지오",
+		"TELNO": "031-377-2377",
+		"REFINE_ZIPNO": "18150",
+		"REFINE_WGS84_LAT": "37.1363130839",
+		"REFINE_WGS84_LOGT": "127.0818490308",
+		"DATA_STD_DE": "2020-08-18"
+	},
+	{
+		"SIGUN_NM": "오산시",
+		"CMPNM_NM": "설레임헤어",
+		"INDUTYPE_NM": "보건위생-미용원",
+		"REFINE_ROADNM_ADDR": "경기도 오산시 남부대로 411-13",
+		"REFINE_LOTNO_ADDR": "경기도 오산시 원동 826-2번지 오산원동푸르지오 상가동 210호",
+		"TELNO": "031-376-0715",
+		"REFINE_ZIPNO": "18150",
+		"REFINE_WGS84_LAT": "37.1363065699",
+		"REFINE_WGS84_LOGT": "127.0825583853",
+		"DATA_STD_DE": "2020-08-18"
+	},
+	{
+		"SIGUN_NM": "오산시",
+		"CMPNM_NM": "예쁘지요 어린이집[아이행복]",
+		"INDUTYPE_NM": "학원-유아원",
+		"REFINE_ROADNM_ADDR": "경기도 오산시 경기대로 78-7",
+		"REFINE_LOTNO_ADDR": "경기도 오산시 원동 901번지 오산원동힐스테이트 104동 102호",
+		"TELNO": "",
+		"REFINE_ZIPNO": "18145",
+		"REFINE_WGS84_LAT": "37.1326598645",
+		"REFINE_WGS84_LOGT": "127.0735603733",
+		"DATA_STD_DE": "2020-08-18"
+	},
+	{
+		"SIGUN_NM": "오산시",
+		"CMPNM_NM": "자두머리방",
+		"INDUTYPE_NM": "보건위생-미용원",
+		"REFINE_ROADNM_ADDR": "",
+		"REFINE_LOTNO_ADDR": "경기도 오산시 원동 826-2번지 오산원동 푸르지오 아파트 상가동 208호 209호",
+		"TELNO": "031-378-1554",
+		"REFINE_ZIPNO": "18150",
+		"REFINE_WGS84_LAT": "37.1363065699",
+		"REFINE_WGS84_LOGT": "127.0825583853",
+		"DATA_STD_DE": "2020-08-18"
+	},
+	{
+		"SIGUN_NM": "오산시",
+		"CMPNM_NM": "자연푸드앤아는족발",
+		"INDUTYPE_NM": "일반휴게음식-일반한식",
+		"REFINE_ROADNM_ADDR": "경기도 오산시 경기대로 78-7",
+		"REFINE_LOTNO_ADDR": "경기도 오산시 원동 901번지 오산원동힐스테이트 102호",
+		"TELNO": "",
+		"REFINE_ZIPNO": "18145",
+		"REFINE_WGS84_LAT": "37.1325854831",
+		"REFINE_WGS84_LOGT": "127.0729303164",
+		"DATA_STD_DE": "2020-08-18"
+	}
+]

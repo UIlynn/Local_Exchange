@@ -1,0 +1,74 @@
+[
+	{
+		"SIGUN_NM": "하남시",
+		"CMPNM_NM": "GS25하남동부점",
+		"INDUTYPE_NM": "유통업 영리-편 의 점",
+		"REFINE_ROADNM_ADDR": "",
+		"REFINE_LOTNO_ADDR": "경기 하남시 역말로 521층상가(덕풍1동431-6)",
+		"TELNO": "",
+		"REFINE_ZIPNO": "",
+		"REFINE_WGS84_LAT": "",
+		"REFINE_WGS84_LOGT": "",
+		"DATA_STD_DE": "2020-08-18"
+	},
+	{
+		"SIGUN_NM": "하남시",
+		"CMPNM_NM": "덕풍동558-28",
+		"INDUTYPE_NM": "일반휴게음식-일반한식",
+		"REFINE_ROADNM_ADDR": "경기도 하남시 덕산로 66",
+		"REFINE_LOTNO_ADDR": "경기도 하남시 덕풍1동 558-28, 103호",
+		"TELNO": "",
+		"REFINE_ZIPNO": "12981",
+		"REFINE_WGS84_LAT": "37.5351473742",
+		"REFINE_WGS84_LOGT": "127.1963171307",
+		"DATA_STD_DE": "2020-08-18"
+	},
+	{
+		"SIGUN_NM": "하남시",
+		"CMPNM_NM": "믿음자동차공업사",
+		"INDUTYPE_NM": "자동차정비 유지-자동차정비",
+		"REFINE_ROADNM_ADDR": "경기도 하남시 역말로36번길 2",
+		"REFINE_LOTNO_ADDR": "경기도 하남시 덕풍1동 446-3번지",
+		"TELNO": "",
+		"REFINE_ZIPNO": "12978",
+		"REFINE_WGS84_LAT": "37.5352413119",
+		"REFINE_WGS84_LOGT": "127.2013422830",
+		"DATA_STD_DE": "2020-08-18"
+	},
+	{
+		"SIGUN_NM": "하남시",
+		"CMPNM_NM": "사랑마트",
+		"INDUTYPE_NM": "유통업 영리-슈퍼마켓",
+		"REFINE_ROADNM_ADDR": "",
+		"REFINE_LOTNO_ADDR": "경기도 하남시 덕풍1동 423-9번지",
+		"TELNO": "",
+		"REFINE_ZIPNO": "12978",
+		"REFINE_WGS84_LAT": "",
+		"REFINE_WGS84_LOGT": "",
+		"DATA_STD_DE": "2020-08-18"
+	},
+	{
+		"SIGUN_NM": "하남시",
+		"CMPNM_NM": "약초촌건강식품",
+		"INDUTYPE_NM": "건강식품-기타건강식품",
+		"REFINE_ROADNM_ADDR": "",
+		"REFINE_LOTNO_ADDR": "경기도 하남시 덕풍1동 431-3번지",
+		"TELNO": "",
+		"REFINE_ZIPNO": "12978",
+		"REFINE_WGS84_LAT": "37.5364338641",
+		"REFINE_WGS84_LOGT": "127.2024354651",
+		"DATA_STD_DE": "2020-08-18"
+	},
+	{
+		"SIGUN_NM": "하남시",
+		"CMPNM_NM": "한솔서울치과",
+		"INDUTYPE_NM": "병원-치과병원",
+		"REFINE_ROADNM_ADDR": "",
+		"REFINE_LOTNO_ADDR": "경기도 하남시 덕풍1동 546-1번지 한솔리치빌아파트단지내상가 203",
+		"TELNO": "",
+		"REFINE_ZIPNO": "",
+		"REFINE_WGS84_LAT": "",
+		"REFINE_WGS84_LOGT": "",
+		"DATA_STD_DE": "2020-08-18"
+	}
+]

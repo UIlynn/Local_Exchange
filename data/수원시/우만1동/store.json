@@ -1,0 +1,86 @@
+[
+	{
+		"SIGUN_NM": "수원시",
+		"CMPNM_NM": "월드컵스포츠샵(골프나라)",
+		"INDUTYPE_NM": "레져용품-스포츠•레져용품",
+		"REFINE_ROADNM_ADDR": "",
+		"REFINE_LOTNO_ADDR": "경기도 수원시 팔달구 우만1동 228번지 월드컵스포츠센터골프나라지상 1층",
+		"TELNO": "",
+		"REFINE_ZIPNO": "16230",
+		"REFINE_WGS84_LAT": "37.2843311596",
+		"REFINE_WGS84_LOGT": "127.0378025305",
+		"DATA_STD_DE": "2020-08-18"
+	},
+	{
+		"SIGUN_NM": "수원시",
+		"CMPNM_NM": "주공슈퍼",
+		"INDUTYPE_NM": "유통업 영리-슈퍼마켓",
+		"REFINE_ROADNM_ADDR": "",
+		"REFINE_LOTNO_ADDR": "경기도 수원시 팔달구 우만1동 우만아파트 3단지 상가 101호",
+		"TELNO": "",
+		"REFINE_ZIPNO": "",
+		"REFINE_WGS84_LAT": "",
+		"REFINE_WGS84_LOGT": "",
+		"DATA_STD_DE": "2020-08-18"
+	},
+	{
+		"SIGUN_NM": "수원시",
+		"CMPNM_NM": "푸른연세신경외과",
+		"INDUTYPE_NM": "의원-의원",
+		"REFINE_ROADNM_ADDR": "경기도 수원시 팔달구 월드컵로 331",
+		"REFINE_LOTNO_ADDR": "경기도 수원시 팔달구 우만1동 499-2번지 2,3층",
+		"TELNO": "",
+		"REFINE_ZIPNO": "16236",
+		"REFINE_WGS84_LAT": "37.2873952479",
+		"REFINE_WGS84_LOGT": "127.0330455681",
+		"DATA_STD_DE": "2020-08-18"
+	},
+	{
+		"SIGUN_NM": "수원시",
+		"CMPNM_NM": "한길조경(주)",
+		"INDUTYPE_NM": "문화.취미-화원",
+		"REFINE_ROADNM_ADDR": "경기도 수원시 팔달구 경수대로718번길 7",
+		"REFINE_LOTNO_ADDR": "경기도 수원시 팔달구 우만1동 598-22",
+		"TELNO": "",
+		"REFINE_ZIPNO": "16233",
+		"REFINE_WGS84_LAT": "37.2894938187",
+		"REFINE_WGS84_LOGT": "127.0258235352",
+		"DATA_STD_DE": "2020-08-18"
+	},
+	{
+		"SIGUN_NM": "수원시",
+		"CMPNM_NM": "한유통수원월드컵",
+		"INDUTYPE_NM": "유통업 영리-편 의 점",
+		"REFINE_ROADNM_ADDR": "",
+		"REFINE_LOTNO_ADDR": "경기도 수원시 팔달구 우만1동 288",
+		"TELNO": "",
+		"REFINE_ZIPNO": "16231",
+		"REFINE_WGS84_LAT": "37.2891526636",
+		"REFINE_WGS84_LOGT": "127.0325860365",
+		"DATA_STD_DE": "2020-08-18"
+	},
+	{
+		"SIGUN_NM": "수원시",
+		"CMPNM_NM": "해산한의원",
+		"INDUTYPE_NM": "의원-한의원",
+		"REFINE_ROADNM_ADDR": "",
+		"REFINE_LOTNO_ADDR": "경기도 수원시 팔달구 우만1동 561-4번지 월드상가 302",
+		"TELNO": "",
+		"REFINE_ZIPNO": "16240",
+		"REFINE_WGS84_LAT": "",
+		"REFINE_WGS84_LOGT": "",
+		"DATA_STD_DE": "2020-08-18"
+	},
+	{
+		"SIGUN_NM": "수원시",
+		"CMPNM_NM": "현대용품점",
+		"INDUTYPE_NM": "자동차정비 유지-자동차부품",
+		"REFINE_ROADNM_ADDR": "",
+		"REFINE_LOTNO_ADDR": "경기도 수원시 팔달구 우만1동 481-12번지",
+		"TELNO": "",
+		"REFINE_ZIPNO": "16234",
+		"REFINE_WGS84_LAT": "37.2884590996",
+		"REFINE_WGS84_LOGT": "127.0316723216",
+		"DATA_STD_DE": "2020-08-18"
+	}
+]

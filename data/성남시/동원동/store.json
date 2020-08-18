@@ -1,0 +1,86 @@
+[
+	{
+		"SIGUN_NM": "성남시",
+		"CMPNM_NM": "미나미",
+		"INDUTYPE_NM": "",
+		"REFINE_ROADNM_ADDR": "경기도 성남시 분당구 대왕판교로 22",
+		"REFINE_LOTNO_ADDR": "경기도 성남시 분당구 동원동 38-1번지 미나미",
+		"TELNO": "010-2044-3479",
+		"REFINE_ZIPNO": "13549",
+		"REFINE_WGS84_LAT": "37.3453812130",
+		"REFINE_WGS84_LOGT": "127.1020196176",
+		"DATA_STD_DE": "2020-08-18"
+	},
+	{
+		"SIGUN_NM": "성남시",
+		"CMPNM_NM": "서판교화훼",
+		"INDUTYPE_NM": "",
+		"REFINE_ROADNM_ADDR": "경기도 성남시 분당구 대왕판교로 28-1",
+		"REFINE_LOTNO_ADDR": "경기도 성남시 분당구 동원동 35-4번지",
+		"TELNO": "031-718-7187",
+		"REFINE_ZIPNO": "13549",
+		"REFINE_WGS84_LAT": "37.3461406015",
+		"REFINE_WGS84_LOGT": "127.1026817367",
+		"DATA_STD_DE": "2020-08-18"
+	},
+	{
+		"SIGUN_NM": "성남시",
+		"CMPNM_NM": "솔밭해장국",
+		"INDUTYPE_NM": "음식점",
+		"REFINE_ROADNM_ADDR": "경기도 성남시 분당구 동원로 3",
+		"REFINE_LOTNO_ADDR": "경기도 성남시 분당구 동원동 62-4번지",
+		"TELNO": "",
+		"REFINE_ZIPNO": "13547",
+		"REFINE_WGS84_LAT": "37.3445562880",
+		"REFINE_WGS84_LOGT": "127.1006352948",
+		"DATA_STD_DE": "2020-08-18"
+	},
+	{
+		"SIGUN_NM": "성남시",
+		"CMPNM_NM": "엄마네맛집",
+		"INDUTYPE_NM": "음식점업",
+		"REFINE_ROADNM_ADDR": "경기도 성남시 분당구 동원로 16",
+		"REFINE_LOTNO_ADDR": "경기도 성남시 분당구 동원동 103-3번지 나동 1층",
+		"TELNO": "",
+		"REFINE_ZIPNO": "13547",
+		"REFINE_WGS84_LAT": "37.3453925009",
+		"REFINE_WGS84_LOGT": "127.1000211966",
+		"DATA_STD_DE": "2020-08-18"
+	},
+	{
+		"SIGUN_NM": "성남시",
+		"CMPNM_NM": "진흥플라워",
+		"INDUTYPE_NM": "",
+		"REFINE_ROADNM_ADDR": "경기도 성남시 분당구 대왕판교로 22",
+		"REFINE_LOTNO_ADDR": "경기도 성남시 분당구 동원동 38-1번지",
+		"TELNO": "031-715-0178",
+		"REFINE_ZIPNO": "13549",
+		"REFINE_WGS84_LAT": "37.3453812130",
+		"REFINE_WGS84_LOGT": "127.1020196176",
+		"DATA_STD_DE": "2020-08-18"
+	},
+	{
+		"SIGUN_NM": "성남시",
+		"CMPNM_NM": "타이어월드",
+		"INDUTYPE_NM": "",
+		"REFINE_ROADNM_ADDR": "경기도 성남시 분당구 대왕판교로 31",
+		"REFINE_LOTNO_ADDR": "경기도 성남시 분당구 동원동 57-23번지",
+		"TELNO": "031-726-4774",
+		"REFINE_ZIPNO": "13547",
+		"REFINE_WGS84_LAT": "37.3463431681",
+		"REFINE_WGS84_LOGT": "127.1012693793",
+		"DATA_STD_DE": "2020-08-18"
+	},
+	{
+		"SIGUN_NM": "성남시",
+		"CMPNM_NM": "홍가네송어회",
+		"INDUTYPE_NM": "",
+		"REFINE_ROADNM_ADDR": "경기도 성남시 분당구 동원로21번길 9",
+		"REFINE_LOTNO_ADDR": "경기도 성남시 분당구 동원동 62-3번지",
+		"TELNO": "031-714-5425",
+		"REFINE_ZIPNO": "13547",
+		"REFINE_WGS84_LAT": "37.3447958790",
+		"REFINE_WGS84_LOGT": "127.0995163073",
+		"DATA_STD_DE": "2020-08-18"
+	}
+]

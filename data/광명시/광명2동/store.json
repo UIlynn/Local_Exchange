@@ -1,0 +1,62 @@
+[
+	{
+		"SIGUN_NM": "광명시",
+		"CMPNM_NM": "(주)이글로렌트카 광명",
+		"INDUTYPE_NM": "",
+		"REFINE_ROADNM_ADDR": "경기도 광명시 오리로984번길 38",
+		"REFINE_LOTNO_ADDR": "경기도 광명시 광명2동 101-13",
+		"TELNO": "",
+		"REFINE_ZIPNO": "14201",
+		"REFINE_WGS84_LAT": "37.4827721900",
+		"REFINE_WGS84_LOGT": "126.8555882883",
+		"DATA_STD_DE": "2020-08-18"
+	},
+	{
+		"SIGUN_NM": "광명시",
+		"CMPNM_NM": "경남양품",
+		"INDUTYPE_NM": "의류-정장",
+		"REFINE_ROADNM_ADDR": "",
+		"REFINE_LOTNO_ADDR": "경기도 광명시 광명2동 58-84번지",
+		"TELNO": "",
+		"REFINE_ZIPNO": "14211",
+		"REFINE_WGS84_LAT": "",
+		"REFINE_WGS84_LOGT": "",
+		"DATA_STD_DE": "2020-08-18"
+	},
+	{
+		"SIGUN_NM": "광명시",
+		"CMPNM_NM": "광이어린이집[아이행복]",
+		"INDUTYPE_NM": "학원-유아원",
+		"REFINE_ROADNM_ADDR": "경기도 광명시 광이로65번길 3",
+		"REFINE_LOTNO_ADDR": "경기도 광명시 광명2동 62-19번지",
+		"TELNO": "",
+		"REFINE_ZIPNO": "14211",
+		"REFINE_WGS84_LAT": "37.4841063805",
+		"REFINE_WGS84_LOGT": "126.8589361674",
+		"DATA_STD_DE": "2020-08-18"
+	},
+	{
+		"SIGUN_NM": "광명시",
+		"CMPNM_NM": "리틀숙명어린이집[아이행복]",
+		"INDUTYPE_NM": "학원-유아원",
+		"REFINE_ROADNM_ADDR": "경기도 광명시 광이로 28",
+		"REFINE_LOTNO_ADDR": "경기도 광명시 광명2동 116-11번지",
+		"TELNO": "",
+		"REFINE_ZIPNO": "14218",
+		"REFINE_WGS84_LAT": "37.4809504969",
+		"REFINE_WGS84_LOGT": "126.8587256118",
+		"DATA_STD_DE": "2020-08-18"
+	},
+	{
+		"SIGUN_NM": "광명시",
+		"CMPNM_NM": "장인가구광명대리점",
+		"INDUTYPE_NM": "",
+		"REFINE_ROADNM_ADDR": "",
+		"REFINE_LOTNO_ADDR": "경기도 광명시 광명2동 102-5번지",
+		"TELNO": "",
+		"REFINE_ZIPNO": "14219",
+		"REFINE_WGS84_LAT": "",
+		"REFINE_WGS84_LOGT": "",
+		"DATA_STD_DE": "2020-08-18"
+	}
+]

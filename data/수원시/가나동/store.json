@@ -1,0 +1,14 @@
+[
+	{
+		"SIGUN_NM": "수원시",
+		"CMPNM_NM": "크리미어(Creamier)",
+		"INDUTYPE_NM": "음료식품-제과점",
+		"REFINE_ROADNM_ADDR": "경기도 수원시 팔달구 수원천로255번길 6",
+		"REFINE_LOTNO_ADDR": "경기도 수원시 팔달구 영동 8번지 영동시장 가나동 2층 2223호",
+		"TELNO": "",
+		"REFINE_ZIPNO": "16262",
+		"REFINE_WGS84_LAT": "37.2768907290",
+		"REFINE_WGS84_LOGT": "127.0187173017",
+		"DATA_STD_DE": "2020-08-18"
+	}
+]

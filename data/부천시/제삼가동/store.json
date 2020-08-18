@@ -1,0 +1,14 @@
+[
+	{
+		"SIGUN_NM": "부천시",
+		"CMPNM_NM": "씨유상동하얀점",
+		"INDUTYPE_NM": "유통업 영리-편 의 점",
+		"REFINE_ROADNM_ADDR": "경기도 부천시 조마루로 104-1",
+		"REFINE_LOTNO_ADDR": "경기도 부천시 상동 570-3번지 하얀마을 제삼가동 1층 101호",
+		"TELNO": "",
+		"REFINE_ZIPNO": "14590",
+		"REFINE_WGS84_LAT": "37.4988251373",
+		"REFINE_WGS84_LOGT": "126.7544470711",
+		"DATA_STD_DE": "2020-08-18"
+	}
+]

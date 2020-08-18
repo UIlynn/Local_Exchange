@@ -1,0 +1,98 @@
+[
+	{
+		"SIGUN_NM": "고양시",
+		"CMPNM_NM": "(주)다락",
+		"INDUTYPE_NM": "별도관리-자체물품대금",
+		"REFINE_ROADNM_ADDR": "경기도 고양시 덕양구 호국로790번길 17",
+		"REFINE_LOTNO_ADDR": "경기도 고양시 덕양구 성사1동 697-14번지 영프라자 302호",
+		"TELNO": "",
+		"REFINE_ZIPNO": "10463",
+		"REFINE_WGS84_LAT": "37.6562959816",
+		"REFINE_WGS84_LOGT": "126.8372561024",
+		"DATA_STD_DE": "2020-08-18"
+	},
+	{
+		"SIGUN_NM": "고양시",
+		"CMPNM_NM": "(주)훼릭스",
+		"INDUTYPE_NM": "일반휴게음식-일반한식",
+		"REFINE_ROADNM_ADDR": "",
+		"REFINE_LOTNO_ADDR": "경기도 고양시 덕양구 성사1동 1번지",
+		"TELNO": "",
+		"REFINE_ZIPNO": "",
+		"REFINE_WGS84_LAT": "37.6452703714",
+		"REFINE_WGS84_LOGT": "126.8598987724",
+		"DATA_STD_DE": "2020-08-18"
+	},
+	{
+		"SIGUN_NM": "고양시",
+		"CMPNM_NM": "나무소리",
+		"INDUTYPE_NM": "문화.취미-화원",
+		"REFINE_ROADNM_ADDR": "",
+		"REFINE_LOTNO_ADDR": "경기도 고양시 덕양구 성사1동 549-19번지",
+		"TELNO": "",
+		"REFINE_ZIPNO": "",
+		"REFINE_WGS84_LAT": "37.6637464369",
+		"REFINE_WGS84_LOGT": "126.8436449810",
+		"DATA_STD_DE": "2020-08-18"
+	},
+	{
+		"SIGUN_NM": "고양시",
+		"CMPNM_NM": "열두광주리",
+		"INDUTYPE_NM": "일반휴게음식-서양음식",
+		"REFINE_ROADNM_ADDR": "",
+		"REFINE_LOTNO_ADDR": "경기도 고양시 덕양구 성사1동 699-8번지",
+		"TELNO": "",
+		"REFINE_ZIPNO": "10464",
+		"REFINE_WGS84_LAT": "",
+		"REFINE_WGS84_LOGT": "",
+		"DATA_STD_DE": "2020-08-18"
+	},
+	{
+		"SIGUN_NM": "고양시",
+		"CMPNM_NM": "원당영헬스골프존사우나",
+		"INDUTYPE_NM": "회원제형태-레져업소",
+		"REFINE_ROADNM_ADDR": "경기도 고양시 덕양구 호국로790번길 17",
+		"REFINE_LOTNO_ADDR": "경기도 고양시 덕양구 성사1동 697-14번지 5,6층",
+		"TELNO": "",
+		"REFINE_ZIPNO": "10463",
+		"REFINE_WGS84_LAT": "37.6562959816",
+		"REFINE_WGS84_LOGT": "126.8372561024",
+		"DATA_STD_DE": "2020-08-18"
+	},
+	{
+		"SIGUN_NM": "고양시",
+		"CMPNM_NM": "원당종합선물코너",
+		"INDUTYPE_NM": "신변잡화-기념품점",
+		"REFINE_ROADNM_ADDR": "",
+		"REFINE_LOTNO_ADDR": "경기도 고양시 덕양구 성사1동 519-14번지",
+		"TELNO": "",
+		"REFINE_ZIPNO": "10466",
+		"REFINE_WGS84_LAT": "37.6589750977",
+		"REFINE_WGS84_LOGT": "126.8392503393",
+		"DATA_STD_DE": "2020-08-18"
+	},
+	{
+		"SIGUN_NM": "고양시",
+		"CMPNM_NM": "중부건어물",
+		"INDUTYPE_NM": "음료식품-농•축•수산품",
+		"REFINE_ROADNM_ADDR": "",
+		"REFINE_LOTNO_ADDR": "경기도 고양시 덕양구 성사1동 507번지",
+		"TELNO": "",
+		"REFINE_ZIPNO": "10463",
+		"REFINE_WGS84_LAT": "",
+		"REFINE_WGS84_LOGT": "",
+		"DATA_STD_DE": "2020-08-18"
+	},
+	{
+		"SIGUN_NM": "고양시",
+		"CMPNM_NM": "훈민어패럴",
+		"INDUTYPE_NM": "의류-정장",
+		"REFINE_ROADNM_ADDR": "",
+		"REFINE_LOTNO_ADDR": "경기도 고양시 덕양구 성사1동 507번지",
+		"TELNO": "",
+		"REFINE_ZIPNO": "10463",
+		"REFINE_WGS84_LAT": "",
+		"REFINE_WGS84_LOGT": "",
+		"DATA_STD_DE": "2020-08-18"
+	}
+]

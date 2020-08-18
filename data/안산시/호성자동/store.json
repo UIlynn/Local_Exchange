@@ -1,0 +1,14 @@
+[
+	{
+		"SIGUN_NM": "안산시",
+		"CMPNM_NM": "㈜비엠렌터카",
+		"INDUTYPE_NM": "렌터카",
+		"REFINE_ROADNM_ADDR": "경기도 안산시 상록구 선진안길 131",
+		"REFINE_LOTNO_ADDR": "경기도 안산시 상록구 사동 1486-5번지 103호 호성자동차정비(주)",
+		"TELNO": "",
+		"REFINE_ZIPNO": "15633",
+		"REFINE_WGS84_LAT": "37.2806567311",
+		"REFINE_WGS84_LOGT": "126.8487537311",
+		"DATA_STD_DE": "2020-08-18"
+	}
+]

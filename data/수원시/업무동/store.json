@@ -1,0 +1,14 @@
+[
+	{
+		"SIGUN_NM": "수원시",
+		"CMPNM_NM": "사람들을위한변호사들",
+		"INDUTYPE_NM": "용역 서비스-법률회계서비스(개인)",
+		"REFINE_ROADNM_ADDR": "경기도 수원시 영통구 광교중앙로 170",
+		"REFINE_LOTNO_ADDR": "경기도 수원시 영통구 하동 1016번지 광교효성해링턴타워 업무동 1808호",
+		"TELNO": "",
+		"REFINE_ZIPNO": "16514",
+		"REFINE_WGS84_LAT": "37.2880507687",
+		"REFINE_WGS84_LOGT": "127.0606475494",
+		"DATA_STD_DE": "2020-08-18"
+	}
+]

@@ -1,0 +1,122 @@
+[
+	{
+		"SIGUN_NM": "시흥시",
+		"CMPNM_NM": "8커피앤편의점",
+		"INDUTYPE_NM": "음식점업",
+		"REFINE_ROADNM_ADDR": "경기도 시흥시 마루미길 18-7",
+		"REFINE_LOTNO_ADDR": "경기도 시흥시 방산동 255번지 1층 전체호",
+		"TELNO": "",
+		"REFINE_ZIPNO": "14959",
+		"REFINE_WGS84_LAT": "37.4207354001",
+		"REFINE_WGS84_LOGT": "126.7650767287",
+		"DATA_STD_DE": "2020-08-18"
+	},
+	{
+		"SIGUN_NM": "시흥시",
+		"CMPNM_NM": "고려기계산업",
+		"INDUTYPE_NM": "소매업",
+		"REFINE_ROADNM_ADDR": "경기도 시흥시 마루미길 56",
+		"REFINE_LOTNO_ADDR": "경기도 시흥시 방산동 410번지",
+		"TELNO": "",
+		"REFINE_ZIPNO": "14955",
+		"REFINE_WGS84_LAT": "37.4195036138",
+		"REFINE_WGS84_LOGT": "126.7684791035",
+		"DATA_STD_DE": "2020-08-18"
+	},
+	{
+		"SIGUN_NM": "시흥시",
+		"CMPNM_NM": "바우네농장",
+		"INDUTYPE_NM": "음식점업",
+		"REFINE_ROADNM_ADDR": "경기도 시흥시 황골길 42",
+		"REFINE_LOTNO_ADDR": "경기도 시흥시 방산동 212-6번지",
+		"TELNO": "",
+		"REFINE_ZIPNO": "14954",
+		"REFINE_WGS84_LAT": "37.4244960252",
+		"REFINE_WGS84_LOGT": "126.7726800389",
+		"DATA_STD_DE": "2020-08-18"
+	},
+	{
+		"SIGUN_NM": "시흥시",
+		"CMPNM_NM": "아빠의집밥연구소",
+		"INDUTYPE_NM": "소매업",
+		"REFINE_ROADNM_ADDR": "경기도 시흥시 방산가마터길 9-10",
+		"REFINE_LOTNO_ADDR": "경기도 시흥시 방산동 305-3번지 가동 1층",
+		"TELNO": "",
+		"REFINE_ZIPNO": "14955",
+		"REFINE_WGS84_LAT": "37.4200192177",
+		"REFINE_WGS84_LOGT": "126.7716949305",
+		"DATA_STD_DE": "2020-08-18"
+	},
+	{
+		"SIGUN_NM": "시흥시",
+		"CMPNM_NM": "온동물체험농장",
+		"INDUTYPE_NM": "개인서비스업",
+		"REFINE_ROADNM_ADDR": "",
+		"REFINE_LOTNO_ADDR": "경기도 시흥시 방산동 579 (방산동)",
+		"TELNO": "",
+		"REFINE_ZIPNO": "14957",
+		"REFINE_WGS84_LAT": "37.4144620985",
+		"REFINE_WGS84_LOGT": "126.7637473362",
+		"DATA_STD_DE": "2020-08-18"
+	},
+	{
+		"SIGUN_NM": "시흥시",
+		"CMPNM_NM": "완도이가네전복",
+		"INDUTYPE_NM": "소매업",
+		"REFINE_ROADNM_ADDR": "",
+		"REFINE_LOTNO_ADDR": "경기도 시흥시 방산동 212-1",
+		"TELNO": "",
+		"REFINE_ZIPNO": "",
+		"REFINE_WGS84_LAT": "37.4244886901",
+		"REFINE_WGS84_LOGT": "126.7720190486",
+		"DATA_STD_DE": "2020-08-18"
+	},
+	{
+		"SIGUN_NM": "시흥시",
+		"CMPNM_NM": "완도이가네전복",
+		"INDUTYPE_NM": "소매업",
+		"REFINE_ROADNM_ADDR": "",
+		"REFINE_LOTNO_ADDR": "경기도 시흥시 방산동 212-1",
+		"TELNO": "",
+		"REFINE_ZIPNO": "",
+		"REFINE_WGS84_LAT": "37.4244886901",
+		"REFINE_WGS84_LOGT": "126.7720190486",
+		"DATA_STD_DE": "2020-08-18"
+	},
+	{
+		"SIGUN_NM": "시흥시",
+		"CMPNM_NM": "완도전복마을",
+		"INDUTYPE_NM": "소매업",
+		"REFINE_ROADNM_ADDR": "경기도 시흥시 서해안로 1332",
+		"REFINE_LOTNO_ADDR": "경기도 시흥시 방산동 190-1번지",
+		"TELNO": "",
+		"REFINE_ZIPNO": "14954",
+		"REFINE_WGS84_LAT": "37.4282185726",
+		"REFINE_WGS84_LOGT": "126.7741359475",
+		"DATA_STD_DE": "2020-08-18"
+	},
+	{
+		"SIGUN_NM": "시흥시",
+		"CMPNM_NM": "중심KIDS",
+		"INDUTYPE_NM": "소매업",
+		"REFINE_ROADNM_ADDR": "경기도 시흥시 방산가마터길 37-6",
+		"REFINE_LOTNO_ADDR": "경기도 시흥시 방산동 316-4번지",
+		"TELNO": "",
+		"REFINE_ZIPNO": "14955",
+		"REFINE_WGS84_LAT": "37.4177373430",
+		"REFINE_WGS84_LOGT": "126.7729262212",
+		"DATA_STD_DE": "2020-08-18"
+	},
+	{
+		"SIGUN_NM": "시흥시",
+		"CMPNM_NM": "편의점",
+		"INDUTYPE_NM": "소매업",
+		"REFINE_ROADNM_ADDR": "경기도 시흥시 서해안로 1332",
+		"REFINE_LOTNO_ADDR": "경기도 시흥시 방산동 190-1번지 선우빌딩 1호",
+		"TELNO": "",
+		"REFINE_ZIPNO": "14954",
+		"REFINE_WGS84_LAT": "37.4282185726",
+		"REFINE_WGS84_LOGT": "126.7741359475",
+		"DATA_STD_DE": "2020-08-18"
+	}
+]

@@ -1,0 +1,14 @@
+[
+	{
+		"SIGUN_NM": "수원시",
+		"CMPNM_NM": "우방할인마트",
+		"INDUTYPE_NM": "유통업 영리-슈퍼마켓",
+		"REFINE_ROADNM_ADDR": "경기도 수원시 권선구 효탑로 50",
+		"REFINE_LOTNO_ADDR": "경기도 수원시 권선구 탑동 860번지 우방파크타운 상기동 10호,102호",
+		"TELNO": "",
+		"REFINE_ZIPNO": "16610",
+		"REFINE_WGS84_LAT": "37.2676803565",
+		"REFINE_WGS84_LOGT": "126.9746317997",
+		"DATA_STD_DE": "2020-08-18"
+	}
+]

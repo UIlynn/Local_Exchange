@@ -1,0 +1,14 @@
+[
+	{
+		"SIGUN_NM": "의왕시",
+		"CMPNM_NM": "캘리쏘허니",
+		"INDUTYPE_NM": "가구-기타가구",
+		"REFINE_ROADNM_ADDR": "경기도 의왕시 철도박물관로 77",
+		"REFINE_LOTNO_ADDR": "경기도 의왕시 삼동 192-62번지 함흥냉면 305호",
+		"TELNO": "",
+		"REFINE_ZIPNO": "16096",
+		"REFINE_WGS84_LAT": "37.3199273422",
+		"REFINE_WGS84_LOGT": "126.9494158913",
+		"DATA_STD_DE": "2020-08-18"
+	}
+]

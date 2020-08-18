@@ -1,0 +1,98 @@
+[
+	{
+		"SIGUN_NM": "고양시",
+		"CMPNM_NM": "GS25행신샘터점",
+		"INDUTYPE_NM": "유통업 영리-편 의 점",
+		"REFINE_ROADNM_ADDR": "",
+		"REFINE_LOTNO_ADDR": "경기 고양시 덕양구 화신로 73상가동101호(행신1동981,샘터마을2단지제비)",
+		"TELNO": "",
+		"REFINE_ZIPNO": "",
+		"REFINE_WGS84_LAT": "",
+		"REFINE_WGS84_LOGT": "",
+		"DATA_STD_DE": "2020-08-18"
+	},
+	{
+		"SIGUN_NM": "고양시",
+		"CMPNM_NM": "금성행신대리점",
+		"INDUTYPE_NM": "전기제품-가전제품",
+		"REFINE_ROADNM_ADDR": "",
+		"REFINE_LOTNO_ADDR": "경기도 고양시 덕양구 행신1동 647-11번지",
+		"TELNO": "",
+		"REFINE_ZIPNO": "",
+		"REFINE_WGS84_LAT": "37.6194101327",
+		"REFINE_WGS84_LOGT": "126.8311214771",
+		"DATA_STD_DE": "2020-08-18"
+	},
+	{
+		"SIGUN_NM": "고양시",
+		"CMPNM_NM": "미스터피자",
+		"INDUTYPE_NM": "일반휴게음식-서양음식",
+		"REFINE_ROADNM_ADDR": "",
+		"REFINE_LOTNO_ADDR": "경기도 고양시 덕양구 행신1동 648-42번지",
+		"TELNO": "",
+		"REFINE_ZIPNO": "10517",
+		"REFINE_WGS84_LAT": "37.6192460880",
+		"REFINE_WGS84_LOGT": "126.8298419234",
+		"DATA_STD_DE": "2020-08-18"
+	},
+	{
+		"SIGUN_NM": "고양시",
+		"CMPNM_NM": "수정공인중개사",
+		"INDUTYPE_NM": "용역 서비스-부동산 중개•임대",
+		"REFINE_ROADNM_ADDR": "경기도 고양시 덕양구 충장로 84",
+		"REFINE_LOTNO_ADDR": "경기도 고양시 덕양구 행신1동 989번지 샘터주공아파트상가 412-220",
+		"TELNO": "",
+		"REFINE_ZIPNO": "10518",
+		"REFINE_WGS84_LAT": "37.6204067906",
+		"REFINE_WGS84_LOGT": "126.8343680128",
+		"DATA_STD_DE": "2020-08-18"
+	},
+	{
+		"SIGUN_NM": "고양시",
+		"CMPNM_NM": "에덴",
+		"INDUTYPE_NM": "의류-정장",
+		"REFINE_ROADNM_ADDR": "",
+		"REFINE_LOTNO_ADDR": "경기도 고양시 덕양구 행신1동 633-19번지",
+		"TELNO": "",
+		"REFINE_ZIPNO": "10517",
+		"REFINE_WGS84_LAT": "37.6206084732",
+		"REFINE_WGS84_LOGT": "126.8311527013",
+		"DATA_STD_DE": "2020-08-18"
+	},
+	{
+		"SIGUN_NM": "고양시",
+		"CMPNM_NM": "오네뜨",
+		"INDUTYPE_NM": "일반휴게음식-서양음식",
+		"REFINE_ROADNM_ADDR": "경기도 고양시 덕양구 행신로143번길 26",
+		"REFINE_LOTNO_ADDR": "경기도 고양시 덕양구 행신1동 617-13번지",
+		"TELNO": "",
+		"REFINE_ZIPNO": "10517",
+		"REFINE_WGS84_LAT": "37.6203990836",
+		"REFINE_WGS84_LOGT": "126.8314105576",
+		"DATA_STD_DE": "2020-08-18"
+	},
+	{
+		"SIGUN_NM": "고양시",
+		"CMPNM_NM": "주식회사푸른축산유통",
+		"INDUTYPE_NM": "음료식품-농•축•수산품",
+		"REFINE_ROADNM_ADDR": "경기도 고양시 덕양구 충장로103번길 55",
+		"REFINE_LOTNO_ADDR": "경기도 고양시 덕양구 행신1동 633-67번지 윤창아파트상가 107-108",
+		"TELNO": "",
+		"REFINE_ZIPNO": "10517",
+		"REFINE_WGS84_LAT": "37.6219957898",
+		"REFINE_WGS84_LOGT": "126.8300591110",
+		"DATA_STD_DE": "2020-08-18"
+	},
+	{
+		"SIGUN_NM": "고양시",
+		"CMPNM_NM": "한양지물포",
+		"INDUTYPE_NM": "직물-카페트,커튼,천막,지물",
+		"REFINE_ROADNM_ADDR": "",
+		"REFINE_LOTNO_ADDR": "경기도 고양시 덕양구 행신1동 647-41번지",
+		"TELNO": "",
+		"REFINE_ZIPNO": "10517",
+		"REFINE_WGS84_LAT": "37.6196353754",
+		"REFINE_WGS84_LOGT": "126.8311209589",
+		"DATA_STD_DE": "2020-08-18"
+	}
+]

@@ -1,0 +1,38 @@
+[
+	{
+		"SIGUN_NM": "수원시",
+		"CMPNM_NM": "경기냉난방",
+		"INDUTYPE_NM": "건축자재-보일러•펌프•샷시",
+		"REFINE_ROADNM_ADDR": "",
+		"REFINE_LOTNO_ADDR": "경기도 수원시 팔달구 매산로3가 95-9 에이동상가 6",
+		"TELNO": "",
+		"REFINE_ZIPNO": "16460",
+		"REFINE_WGS84_LAT": "37.2673623624",
+		"REFINE_WGS84_LOGT": "127.0076009774",
+		"DATA_STD_DE": "2020-08-18"
+	},
+	{
+		"SIGUN_NM": "수원시",
+		"CMPNM_NM": "법률사무소 서한",
+		"INDUTYPE_NM": "용역 서비스-법률회계서비스(개인)",
+		"REFINE_ROADNM_ADDR": "경기도 수원시 영통구 광교중앙로248번길 7-2",
+		"REFINE_LOTNO_ADDR": "경기도 수원시 영통구 하동 989번지 에이동 709-710호",
+		"TELNO": "",
+		"REFINE_ZIPNO": "16512",
+		"REFINE_WGS84_LAT": "37.2910295210",
+		"REFINE_WGS84_LOGT": "127.0666661168",
+		"DATA_STD_DE": "2020-08-18"
+	},
+	{
+		"SIGUN_NM": "수원시",
+		"CMPNM_NM": "세븐일레븐수원공구상가점",
+		"INDUTYPE_NM": "유통업 영리-편 의 점",
+		"REFINE_ROADNM_ADDR": "경기도 수원시 권선구 매송고색로 873",
+		"REFINE_LOTNO_ADDR": "경기도 수원시 권선구 평동 23-28번지 제 에이동 1층 129호 130호",
+		"TELNO": "",
+		"REFINE_ZIPNO": "16598",
+		"REFINE_WGS84_LAT": "37.2585834897",
+		"REFINE_WGS84_LOGT": "126.9970463151",
+		"DATA_STD_DE": "2020-08-18"
+	}
+]

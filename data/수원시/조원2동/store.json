@@ -1,0 +1,86 @@
+[
+	{
+		"SIGUN_NM": "수원시",
+		"CMPNM_NM": "(주)고객사랑",
+		"INDUTYPE_NM": "음료식품-제과점",
+		"REFINE_ROADNM_ADDR": "",
+		"REFINE_LOTNO_ADDR": "경기도 수원시 장안구 조원2동 280-2번지 홈플러스북수원 1층",
+		"TELNO": "",
+		"REFINE_ZIPNO": "16294",
+		"REFINE_WGS84_LAT": "",
+		"REFINE_WGS84_LOGT": "",
+		"DATA_STD_DE": "2020-08-18"
+	},
+	{
+		"SIGUN_NM": "수원시",
+		"CMPNM_NM": "메디팜효자약국",
+		"INDUTYPE_NM": "약국-약국",
+		"REFINE_ROADNM_ADDR": "",
+		"REFINE_LOTNO_ADDR": "경기도 수원시 장안구 조원2동 280-2번지",
+		"TELNO": "",
+		"REFINE_ZIPNO": "16294",
+		"REFINE_WGS84_LAT": "",
+		"REFINE_WGS84_LOGT": "",
+		"DATA_STD_DE": "2020-08-18"
+	},
+	{
+		"SIGUN_NM": "수원시",
+		"CMPNM_NM": "새세대보습학원",
+		"INDUTYPE_NM": "학원-예•체능계학원 ",
+		"REFINE_ROADNM_ADDR": "",
+		"REFINE_LOTNO_ADDR": "경기도 수원시 장안구 조원2동 431-2번지",
+		"TELNO": "",
+		"REFINE_ZIPNO": "16280",
+		"REFINE_WGS84_LAT": "37.2989315780",
+		"REFINE_WGS84_LOGT": "127.0177246469",
+		"DATA_STD_DE": "2020-08-18"
+	},
+	{
+		"SIGUN_NM": "수원시",
+		"CMPNM_NM": "소꿉친구어린이집[아이행복]",
+		"INDUTYPE_NM": "학원-유아원",
+		"REFINE_ROADNM_ADDR": "경기도 수원시 장안구 경수대로976번길 22",
+		"REFINE_LOTNO_ADDR": "경기도 수원시 장안구 조원2동 1 한일타운 123동101호",
+		"TELNO": "",
+		"REFINE_ZIPNO": "16295",
+		"REFINE_WGS84_LAT": "37.3038644425",
+		"REFINE_WGS84_LOGT": "127.0087510023",
+		"DATA_STD_DE": "2020-08-18"
+	},
+	{
+		"SIGUN_NM": "수원시",
+		"CMPNM_NM": "손소리아뜰리에",
+		"INDUTYPE_NM": "건축자재-인테리어전문",
+		"REFINE_ROADNM_ADDR": "",
+		"REFINE_LOTNO_ADDR": "경기도 수원시 장안구 조원2동 881 수원한일타운아파트",
+		"TELNO": "",
+		"REFINE_ZIPNO": "16295",
+		"REFINE_WGS84_LAT": "37.3052695854",
+		"REFINE_WGS84_LOGT": "127.0085048947",
+		"DATA_STD_DE": "2020-08-18"
+	},
+	{
+		"SIGUN_NM": "수원시",
+		"CMPNM_NM": "수원세탁소",
+		"INDUTYPE_NM": "수리서비스-세탁소",
+		"REFINE_ROADNM_ADDR": "경기도 수원시 장안구 경수대로976번길 22",
+		"REFINE_LOTNO_ADDR": "경기도 수원시 장안구 조원2동 883,한일타운주상가205호",
+		"TELNO": "",
+		"REFINE_ZIPNO": "16295",
+		"REFINE_WGS84_LAT": "37.3052695854",
+		"REFINE_WGS84_LOGT": "127.0085048947",
+		"DATA_STD_DE": "2020-08-18"
+	},
+	{
+		"SIGUN_NM": "수원시",
+		"CMPNM_NM": "오이비인후과",
+		"INDUTYPE_NM": "의원-의원",
+		"REFINE_ROADNM_ADDR": "경기도 수원시 장안구 송원로 81",
+		"REFINE_LOTNO_ADDR": "경기도 수원시 장안구 조원2동 898-1 메가플러스2차 403-2호",
+		"TELNO": "",
+		"REFINE_ZIPNO": "16295",
+		"REFINE_WGS84_LAT": "37.3021627847",
+		"REFINE_WGS84_LOGT": "127.0092247016",
+		"DATA_STD_DE": "2020-08-18"
+	}
+]

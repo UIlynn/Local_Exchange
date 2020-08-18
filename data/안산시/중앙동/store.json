@@ -1,0 +1,38 @@
+[
+	{
+		"SIGUN_NM": "안산시",
+		"CMPNM_NM": "(주)다니엘유랑계",
+		"INDUTYPE_NM": "기타-기타 전문점",
+		"REFINE_ROADNM_ADDR": "",
+		"REFINE_LOTNO_ADDR": "경기도 안산시 단원구 중앙동 39-3신라테크노빌(가동703-1)",
+		"TELNO": "",
+		"REFINE_ZIPNO": "",
+		"REFINE_WGS84_LAT": "",
+		"REFINE_WGS84_LOGT": "",
+		"DATA_STD_DE": "2020-08-18"
+	},
+	{
+		"SIGUN_NM": "안산시",
+		"CMPNM_NM": "계몽중부판매(주)안산",
+		"INDUTYPE_NM": "서적문구-일반서적",
+		"REFINE_ROADNM_ADDR": "",
+		"REFINE_LOTNO_ADDR": "경기도 안산시 단원구 중앙동 520-3",
+		"TELNO": "",
+		"REFINE_ZIPNO": "15357",
+		"REFINE_WGS84_LAT": "37.3190573510",
+		"REFINE_WGS84_LOGT": "126.8273849141",
+		"DATA_STD_DE": "2020-08-18"
+	},
+	{
+		"SIGUN_NM": "안산시",
+		"CMPNM_NM": "대광슈퍼",
+		"INDUTYPE_NM": "유통업 영리-슈퍼마켓",
+		"REFINE_ROADNM_ADDR": "",
+		"REFINE_LOTNO_ADDR": "경기도 안산시 단원구 중앙동 중앙APT 복합마상가101",
+		"TELNO": "",
+		"REFINE_ZIPNO": "",
+		"REFINE_WGS84_LAT": "",
+		"REFINE_WGS84_LOGT": "",
+		"DATA_STD_DE": "2020-08-18"
+	}
+]

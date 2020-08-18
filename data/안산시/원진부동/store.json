@@ -1,0 +1,26 @@
+[
+	{
+		"SIGUN_NM": "안산시",
+		"CMPNM_NM": "고려지물종합장식",
+		"INDUTYPE_NM": "직물-카페트,커튼,천막,지물",
+		"REFINE_ROADNM_ADDR": "경기도 안산시 단원구 선부로 240",
+		"REFINE_LOTNO_ADDR": "경기도 안산시 단원구 와동 759-1번지 원진부동산 103호",
+		"TELNO": "",
+		"REFINE_ZIPNO": "15253",
+		"REFINE_WGS84_LAT": "37.3412495500",
+		"REFINE_WGS84_LOGT": "126.8218474619",
+		"DATA_STD_DE": "2020-08-18"
+	},
+	{
+		"SIGUN_NM": "안산시",
+		"CMPNM_NM": "수보리",
+		"INDUTYPE_NM": "신변잡화-액세서리",
+		"REFINE_ROADNM_ADDR": "경기도 안산시 단원구 선부로 240",
+		"REFINE_LOTNO_ADDR": "경기도 안산시 단원구 와동 759-1번지 원진부동산 103호",
+		"TELNO": "",
+		"REFINE_ZIPNO": "15253",
+		"REFINE_WGS84_LAT": "37.3412495500",
+		"REFINE_WGS84_LOGT": "126.8218474619",
+		"DATA_STD_DE": "2020-08-18"
+	}
+]

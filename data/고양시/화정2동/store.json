@@ -1,0 +1,122 @@
+[
+	{
+		"SIGUN_NM": "고양시",
+		"CMPNM_NM": "김태진파워스피치리더십&키즈스피치",
+		"INDUTYPE_NM": "학원-예•체능계학원 ",
+		"REFINE_ROADNM_ADDR": "",
+		"REFINE_LOTNO_ADDR": "경기도 고양시 덕양구 화정2동 1145번지 406,407,408호",
+		"TELNO": "",
+		"REFINE_ZIPNO": "",
+		"REFINE_WGS84_LAT": "",
+		"REFINE_WGS84_LOGT": "",
+		"DATA_STD_DE": "2020-08-18"
+	},
+	{
+		"SIGUN_NM": "고양시",
+		"CMPNM_NM": "더베스트",
+		"INDUTYPE_NM": "신변잡화-기타잡화",
+		"REFINE_ROADNM_ADDR": "",
+		"REFINE_LOTNO_ADDR": "경기도 고양시 덕양구 화정2동 970-1034번지",
+		"TELNO": "",
+		"REFINE_ZIPNO": "10500",
+		"REFINE_WGS84_LAT": "",
+		"REFINE_WGS84_LOGT": "",
+		"DATA_STD_DE": "2020-08-18"
+	},
+	{
+		"SIGUN_NM": "고양시",
+		"CMPNM_NM": "동우약국",
+		"INDUTYPE_NM": "약국-약국",
+		"REFINE_ROADNM_ADDR": "경기도 고양시 덕양구 화신로260번길 57",
+		"REFINE_LOTNO_ADDR": "경기도 고양시 덕양구 화정2동 973번지 요진타워 3층 305동 1호",
+		"TELNO": "",
+		"REFINE_ZIPNO": "10500",
+		"REFINE_WGS84_LAT": "37.6336291576",
+		"REFINE_WGS84_LOGT": "126.8327427261",
+		"DATA_STD_DE": "2020-08-18"
+	},
+	{
+		"SIGUN_NM": "고양시",
+		"CMPNM_NM": "둥글이태권도학원",
+		"INDUTYPE_NM": "학원-예•체능계학원 ",
+		"REFINE_ROADNM_ADDR": "",
+		"REFINE_LOTNO_ADDR": "경기도 고양시 덕양구 화정2동 987번지 백양빌딩 401호",
+		"TELNO": "",
+		"REFINE_ZIPNO": "10499",
+		"REFINE_WGS84_LAT": "37.6309132959",
+		"REFINE_WGS84_LOGT": "126.8338323217",
+		"DATA_STD_DE": "2020-08-18"
+	},
+	{
+		"SIGUN_NM": "고양시",
+		"CMPNM_NM": "버스토큰",
+		"INDUTYPE_NM": "음료식품-기타음료식품",
+		"REFINE_ROADNM_ADDR": "",
+		"REFINE_LOTNO_ADDR": "경기도 고양시 덕양구 화정2동 971",
+		"TELNO": "",
+		"REFINE_ZIPNO": "10500",
+		"REFINE_WGS84_LAT": "37.6343704539",
+		"REFINE_WGS84_LOGT": "126.8331327744",
+		"DATA_STD_DE": "2020-08-18"
+	},
+	{
+		"SIGUN_NM": "고양시",
+		"CMPNM_NM": "삼천리자전거",
+		"INDUTYPE_NM": "레져용품-스포츠•레져용품",
+		"REFINE_ROADNM_ADDR": "경기도 고양시 덕양구 화정로 86",
+		"REFINE_LOTNO_ADDR": "경기도 고양시 덕양구 화정2동 988번지 신덕상가 101호",
+		"TELNO": "",
+		"REFINE_ZIPNO": "10499",
+		"REFINE_WGS84_LAT": "37.6339966484",
+		"REFINE_WGS84_LOGT": "126.8355728337",
+		"DATA_STD_DE": "2020-08-18"
+	},
+	{
+		"SIGUN_NM": "고양시",
+		"CMPNM_NM": "우정치과의원",
+		"INDUTYPE_NM": "의원-치과의원",
+		"REFINE_ROADNM_ADDR": "경기도 고양시 덕양구 화정로 69",
+		"REFINE_LOTNO_ADDR": "경기도 고양시 덕양구 화정2동 965번지 한화엘르빌 208",
+		"TELNO": "",
+		"REFINE_ZIPNO": "10497",
+		"REFINE_WGS84_LAT": "37.6348708980",
+		"REFINE_WGS84_LOGT": "126.8339669962",
+		"DATA_STD_DE": "2020-08-18"
+	},
+	{
+		"SIGUN_NM": "고양시",
+		"CMPNM_NM": "좋은골프",
+		"INDUTYPE_NM": "레져용품-골프용품 전문점",
+		"REFINE_ROADNM_ADDR": "",
+		"REFINE_LOTNO_ADDR": "경기 고양시 덕양구 화신로 259201(화정2동,화정건영캐스빌플러스)",
+		"TELNO": "",
+		"REFINE_ZIPNO": "",
+		"REFINE_WGS84_LAT": "",
+		"REFINE_WGS84_LOGT": "",
+		"DATA_STD_DE": "2020-08-18"
+	},
+	{
+		"SIGUN_NM": "고양시",
+		"CMPNM_NM": "화정서울안과의원",
+		"INDUTYPE_NM": "의원-의원",
+		"REFINE_ROADNM_ADDR": "",
+		"REFINE_LOTNO_ADDR": "경기도 고양시 덕양구 화정2동 970-3,4번지 장군빌딩 5층",
+		"TELNO": "",
+		"REFINE_ZIPNO": "10500",
+		"REFINE_WGS84_LAT": "37.6338387943",
+		"REFINE_WGS84_LOGT": "126.8315621623",
+		"DATA_STD_DE": "2020-08-18"
+	},
+	{
+		"SIGUN_NM": "고양시",
+		"CMPNM_NM": "화정함흥냉면",
+		"INDUTYPE_NM": "일반휴게음식-일반한식",
+		"REFINE_ROADNM_ADDR": "경기도 고양시 덕양구 화중로 54",
+		"REFINE_LOTNO_ADDR": "경기도 고양시 덕양구 화정2동 984번지 서일빌딩 1층 1-3",
+		"TELNO": "",
+		"REFINE_ZIPNO": "10500",
+		"REFINE_WGS84_LAT": "37.6319773293",
+		"REFINE_WGS84_LOGT": "126.8307288414",
+		"DATA_STD_DE": "2020-08-18"
+	}
+]

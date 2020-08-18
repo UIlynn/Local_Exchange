@@ -1,0 +1,50 @@
+[
+	{
+		"SIGUN_NM": "광주시",
+		"CMPNM_NM": "e편한빅스맘어린이집[아이행복]",
+		"INDUTYPE_NM": "학원-유아원",
+		"REFINE_ROADNM_ADDR": "경기도 광주시 순암로36번길 30",
+		"REFINE_LOTNO_ADDR": "경기도 광주시 역동 248번지 이편한세상 광주역 6단지 1층 관리동",
+		"TELNO": "",
+		"REFINE_ZIPNO": "12777",
+		"REFINE_WGS84_LAT": "37.3961849607",
+		"REFINE_WGS84_LOGT": "127.2467473130",
+		"DATA_STD_DE": "2020-08-18"
+	},
+	{
+		"SIGUN_NM": "광주시",
+		"CMPNM_NM": "산새소리 어린이집[아이행복]",
+		"INDUTYPE_NM": "학원-유아원",
+		"REFINE_ROADNM_ADDR": "경기도 광주시 순암로36번길 87",
+		"REFINE_LOTNO_ADDR": "경기도 광주시 역동 245번지 이편한세상 광주역3단지 관리동 1층",
+		"TELNO": "",
+		"REFINE_ZIPNO": "12777",
+		"REFINE_WGS84_LAT": "37.3988048513",
+		"REFINE_WGS84_LOGT": "127.2452923242",
+		"DATA_STD_DE": "2020-08-18"
+	},
+	{
+		"SIGUN_NM": "광주시",
+		"CMPNM_NM": "해든어린이집[아이행복]",
+		"INDUTYPE_NM": "학원-유아원",
+		"REFINE_ROADNM_ADDR": "경기도 광주시 순암로36번길 41",
+		"REFINE_LOTNO_ADDR": "경기도 광주시 역동 247번지 이편한세상광주역5단지 1층 관리동",
+		"TELNO": "",
+		"REFINE_ZIPNO": "12777",
+		"REFINE_WGS84_LAT": "37.3972286877",
+		"REFINE_WGS84_LOGT": "127.2458738558",
+		"DATA_STD_DE": "2020-08-18"
+	},
+	{
+		"SIGUN_NM": "광주시",
+		"CMPNM_NM": "행복아이어린이집[아이행복]",
+		"INDUTYPE_NM": "학원-유아원",
+		"REFINE_ROADNM_ADDR": "경기도 광주시 순암로36번길 61",
+		"REFINE_LOTNO_ADDR": "경기도 광주시 역동 246번지 관리동",
+		"TELNO": "",
+		"REFINE_ZIPNO": "12777",
+		"REFINE_WGS84_LAT": "37.3994023555",
+		"REFINE_WGS84_LOGT": "127.2464992221",
+		"DATA_STD_DE": "2020-08-18"
+	}
+]

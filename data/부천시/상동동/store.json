@@ -1,0 +1,86 @@
+[
+	{
+		"SIGUN_NM": "부천시",
+		"CMPNM_NM": "S동물병원",
+		"INDUTYPE_NM": "기타의료기관-동물병원",
+		"REFINE_ROADNM_ADDR": "경기도 부천시 상동로 78",
+		"REFINE_LOTNO_ADDR": "경기도 부천시 상동 542-4번지 상동동양파라곤 106호",
+		"TELNO": "",
+		"REFINE_ZIPNO": "14545",
+		"REFINE_WGS84_LAT": "37.5040449002",
+		"REFINE_WGS84_LOGT": "126.7531732704",
+		"DATA_STD_DE": "2020-08-18"
+	},
+	{
+		"SIGUN_NM": "부천시",
+		"CMPNM_NM": "다비치안경원부천상동역점",
+		"INDUTYPE_NM": "보건위생-안경",
+		"REFINE_ROADNM_ADDR": "경기도 부천시 상동로 78",
+		"REFINE_LOTNO_ADDR": "경기도 부천시 상동 542-4번지 상동동양파라곤 103호",
+		"TELNO": "",
+		"REFINE_ZIPNO": "14545",
+		"REFINE_WGS84_LAT": "37.5040449002",
+		"REFINE_WGS84_LOGT": "126.7531732704",
+		"DATA_STD_DE": "2020-08-18"
+	},
+	{
+		"SIGUN_NM": "부천시",
+		"CMPNM_NM": "닥터모락 상동점",
+		"INDUTYPE_NM": "보건위생-화장품",
+		"REFINE_ROADNM_ADDR": "경기도 부천시 상동로 78",
+		"REFINE_LOTNO_ADDR": "경기도 부천시 상동 542-4번지 상동동양파라곤 104호",
+		"TELNO": "",
+		"REFINE_ZIPNO": "14545",
+		"REFINE_WGS84_LAT": "37.5040449002",
+		"REFINE_WGS84_LOGT": "126.7531732704",
+		"DATA_STD_DE": "2020-08-18"
+	},
+	{
+		"SIGUN_NM": "부천시",
+		"CMPNM_NM": "세븐일레븐부천상동파라곤점",
+		"INDUTYPE_NM": "유통업 영리-편 의 점",
+		"REFINE_ROADNM_ADDR": "경기도 부천시 상동로 78",
+		"REFINE_LOTNO_ADDR": "경기도 부천시 상동 542-3 외 542-4번지 상동동양파라곤 1층 107호",
+		"TELNO": "",
+		"REFINE_ZIPNO": "14545",
+		"REFINE_WGS84_LAT": "37.5040449002",
+		"REFINE_WGS84_LOGT": "126.7531732704",
+		"DATA_STD_DE": "2020-08-18"
+	},
+	{
+		"SIGUN_NM": "부천시",
+		"CMPNM_NM": "온새미개념원리보습학원",
+		"INDUTYPE_NM": "학원-보습학원",
+		"REFINE_ROADNM_ADDR": "경기도 부천시 상동로 78",
+		"REFINE_LOTNO_ADDR": "경기도 부천시 상동 542-4번지 상동동양파라곤 203,204호",
+		"TELNO": "",
+		"REFINE_ZIPNO": "14545",
+		"REFINE_WGS84_LAT": "37.5040449002",
+		"REFINE_WGS84_LOGT": "126.7531732704",
+		"DATA_STD_DE": "2020-08-18"
+	},
+	{
+		"SIGUN_NM": "부천시",
+		"CMPNM_NM": "준오헤어 부천상동",
+		"INDUTYPE_NM": "보건위생-미용원",
+		"REFINE_ROADNM_ADDR": "",
+		"REFINE_LOTNO_ADDR": "경기도 부천시 상동 542-4번지 상동동양파라곤 2동 212층",
+		"TELNO": "",
+		"REFINE_ZIPNO": "14545",
+		"REFINE_WGS84_LAT": "37.5040449002",
+		"REFINE_WGS84_LOGT": "126.7531732704",
+		"DATA_STD_DE": "2020-08-18"
+	},
+	{
+		"SIGUN_NM": "부천시",
+		"CMPNM_NM": "플랜",
+		"INDUTYPE_NM": "자동차정비 유지-자동차부품",
+		"REFINE_ROADNM_ADDR": "경기도 부천시 상동로117번길 57",
+		"REFINE_LOTNO_ADDR": "경기도 부천시 상동 533-2번지 상동동양프라자텔 606호",
+		"TELNO": "",
+		"REFINE_ZIPNO": "14543",
+		"REFINE_WGS84_LAT": "37.5077764161",
+		"REFINE_WGS84_LOGT": "126.7503188074",
+		"DATA_STD_DE": "2020-08-18"
+	}
+]

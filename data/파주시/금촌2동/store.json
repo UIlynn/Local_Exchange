@@ -1,0 +1,98 @@
+[
+	{
+		"SIGUN_NM": "파주시",
+		"CMPNM_NM": "금촌새싹어린이집[아이행복]",
+		"INDUTYPE_NM": "학원-유아원",
+		"REFINE_ROADNM_ADDR": "",
+		"REFINE_LOTNO_ADDR": "경기도 파주시 금촌2동 쇠재마을아파트 풍림아이원 아파트 관리동내",
+		"TELNO": "",
+		"REFINE_ZIPNO": "",
+		"REFINE_WGS84_LAT": "",
+		"REFINE_WGS84_LOGT": "",
+		"DATA_STD_DE": "2020-08-18"
+	},
+	{
+		"SIGUN_NM": "파주시",
+		"CMPNM_NM": "늘푸른꿈나무어린이집[아이행복]",
+		"INDUTYPE_NM": "학원-유아원",
+		"REFINE_ROADNM_ADDR": "",
+		"REFINE_LOTNO_ADDR": "경기도 파주시 금촌2동 976번지 새꽃마을1단지 관리소 1층",
+		"TELNO": "",
+		"REFINE_ZIPNO": "",
+		"REFINE_WGS84_LAT": "",
+		"REFINE_WGS84_LOGT": "",
+		"DATA_STD_DE": "2020-08-18"
+	},
+	{
+		"SIGUN_NM": "파주시",
+		"CMPNM_NM": "베이비뜨란채어린이집[아이행복]",
+		"INDUTYPE_NM": "학원-유아원",
+		"REFINE_ROADNM_ADDR": "",
+		"REFINE_LOTNO_ADDR": "경기도 파주시 금촌2동 베이비뜨란채어린이집[아이사랑]",
+		"TELNO": "",
+		"REFINE_ZIPNO": "",
+		"REFINE_WGS84_LAT": "",
+		"REFINE_WGS84_LOGT": "",
+		"DATA_STD_DE": "2020-08-18"
+	},
+	{
+		"SIGUN_NM": "파주시",
+		"CMPNM_NM": "오즈어린이집[아이행복]",
+		"INDUTYPE_NM": "학원-유아원",
+		"REFINE_ROADNM_ADDR": "경기도 파주시 동산2길 49",
+		"REFINE_LOTNO_ADDR": "경기도 파주시 금촌2동 939-25번지",
+		"TELNO": "",
+		"REFINE_ZIPNO": "10927",
+		"REFINE_WGS84_LAT": "37.7585615816",
+		"REFINE_WGS84_LOGT": "126.7718964181",
+		"DATA_STD_DE": "2020-08-18"
+	},
+	{
+		"SIGUN_NM": "파주시",
+		"CMPNM_NM": "오즈의성어린이집[아이행복]",
+		"INDUTYPE_NM": "학원-유아원",
+		"REFINE_ROADNM_ADDR": "경기도 파주시 동산2길 49",
+		"REFINE_LOTNO_ADDR": "경기도 파주시 금촌2동 939-26번지",
+		"TELNO": "",
+		"REFINE_ZIPNO": "10927",
+		"REFINE_WGS84_LAT": "37.7585615816",
+		"REFINE_WGS84_LOGT": "126.7718964181",
+		"DATA_STD_DE": "2020-08-18"
+	},
+	{
+		"SIGUN_NM": "파주시",
+		"CMPNM_NM": "이00",
+		"INDUTYPE_NM": "용역 서비스-화물운송",
+		"REFINE_ROADNM_ADDR": "경기도 파주시 금정로 44-2",
+		"REFINE_LOTNO_ADDR": "경기도 파주시 금촌2동 765-12번지",
+		"TELNO": "",
+		"REFINE_ZIPNO": "10929",
+		"REFINE_WGS84_LAT": "37.7591433746",
+		"REFINE_WGS84_LOGT": "126.7756257233",
+		"DATA_STD_DE": "2020-08-18"
+	},
+	{
+		"SIGUN_NM": "파주시",
+		"CMPNM_NM": "파란꿈어린이집[아이행복]",
+		"INDUTYPE_NM": "학원-유아원",
+		"REFINE_ROADNM_ADDR": "경기도 파주시 새꽃로 35",
+		"REFINE_LOTNO_ADDR": "경기도 파주시 금촌2동 984번지 새꽃마을주공3단지 관리동 1층",
+		"TELNO": "",
+		"REFINE_ZIPNO": "10915",
+		"REFINE_WGS84_LAT": "37.7529161600",
+		"REFINE_WGS84_LOGT": "126.7670137760",
+		"DATA_STD_DE": "2020-08-18"
+	},
+	{
+		"SIGUN_NM": "파주시",
+		"CMPNM_NM": "해달별어린이집[아이행복]",
+		"INDUTYPE_NM": "학원-유아원",
+		"REFINE_ROADNM_ADDR": "경기도 파주시 문화로 10",
+		"REFINE_LOTNO_ADDR": "경기도 파주시 금촌2동 792-1번지 장만 밀레니엄상가 101호",
+		"TELNO": "",
+		"REFINE_ZIPNO": "10923",
+		"REFINE_WGS84_LAT": "37.7560213056",
+		"REFINE_WGS84_LOGT": "126.7794591310",
+		"DATA_STD_DE": "2020-08-18"
+	}
+]

@@ -1,0 +1,110 @@
+[
+	{
+		"SIGUN_NM": "구리시",
+		"CMPNM_NM": "그린캐슬",
+		"INDUTYPE_NM": "문화.취미-화원",
+		"REFINE_ROADNM_ADDR": "",
+		"REFINE_LOTNO_ADDR": "경기도 구리시 교문2동 622-1",
+		"TELNO": "",
+		"REFINE_ZIPNO": "11959",
+		"REFINE_WGS84_LAT": "37.5803926313",
+		"REFINE_WGS84_LOGT": "127.1287595351",
+		"DATA_STD_DE": "2020-08-18"
+	},
+	{
+		"SIGUN_NM": "구리시",
+		"CMPNM_NM": "길조가구",
+		"INDUTYPE_NM": "문화.취미-민예•공예품",
+		"REFINE_ROADNM_ADDR": "",
+		"REFINE_LOTNO_ADDR": "경기도 구리시 교문2동 530-9번지",
+		"TELNO": "",
+		"REFINE_ZIPNO": "11959",
+		"REFINE_WGS84_LAT": "",
+		"REFINE_WGS84_LOGT": "",
+		"DATA_STD_DE": "2020-08-18"
+	},
+	{
+		"SIGUN_NM": "구리시",
+		"CMPNM_NM": "뉴서진 안경 콘텍트",
+		"INDUTYPE_NM": "보건위생-안경",
+		"REFINE_ROADNM_ADDR": "경기도 구리시 이문안로 27",
+		"REFINE_LOTNO_ADDR": "경기도 구리시 교문2동 765번지 대명상가 105호",
+		"TELNO": "",
+		"REFINE_ZIPNO": "11936",
+		"REFINE_WGS84_LAT": "37.5923333973",
+		"REFINE_WGS84_LOGT": "127.1342146495",
+		"DATA_STD_DE": "2020-08-18"
+	},
+	{
+		"SIGUN_NM": "구리시",
+		"CMPNM_NM": "뉴스타미용실",
+		"INDUTYPE_NM": "보건위생-미용원",
+		"REFINE_ROADNM_ADDR": "",
+		"REFINE_LOTNO_ADDR": "경기도 구리시 교문2동 766-1번지",
+		"TELNO": "",
+		"REFINE_ZIPNO": "11937",
+		"REFINE_WGS84_LAT": "37.5924316456",
+		"REFINE_WGS84_LOGT": "127.1368421268",
+		"DATA_STD_DE": "2020-08-18"
+	},
+	{
+		"SIGUN_NM": "구리시",
+		"CMPNM_NM": "대동상사",
+		"INDUTYPE_NM": "가구-기타가구",
+		"REFINE_ROADNM_ADDR": "경기도 구리시 장자대로37번길 20",
+		"REFINE_LOTNO_ADDR": "경기도 구리시 교문2동 809-3 교문아파트 103-404",
+		"TELNO": "",
+		"REFINE_ZIPNO": "11939",
+		"REFINE_WGS84_LAT": "37.5890846233",
+		"REFINE_WGS84_LOGT": "127.1358616226",
+		"DATA_STD_DE": "2020-08-18"
+	},
+	{
+		"SIGUN_NM": "구리시",
+		"CMPNM_NM": "대홍꽃농원",
+		"INDUTYPE_NM": "문화.취미-화원",
+		"REFINE_ROADNM_ADDR": "경기도 구리시 아차산로 354",
+		"REFINE_LOTNO_ADDR": "경기도 구리시 교문2동 469-23",
+		"TELNO": "",
+		"REFINE_ZIPNO": "11959",
+		"REFINE_WGS84_LAT": "37.5864002363",
+		"REFINE_WGS84_LOGT": "127.1305852283",
+		"DATA_STD_DE": "2020-08-18"
+	},
+	{
+		"SIGUN_NM": "구리시",
+		"CMPNM_NM": "루시아수상레져",
+		"INDUTYPE_NM": "레저업소-기타레져업소",
+		"REFINE_ROADNM_ADDR": "",
+		"REFINE_LOTNO_ADDR": "경기도 구리시 교문2동 201동 1501호",
+		"TELNO": "",
+		"REFINE_ZIPNO": "",
+		"REFINE_WGS84_LAT": "",
+		"REFINE_WGS84_LOGT": "",
+		"DATA_STD_DE": "2020-08-18"
+	},
+	{
+		"SIGUN_NM": "구리시",
+		"CMPNM_NM": "윤사진관",
+		"INDUTYPE_NM": "광학제품-사진관",
+		"REFINE_ROADNM_ADDR": "경기도 구리시 이문안로 27",
+		"REFINE_LOTNO_ADDR": "경기도 구리시 교문2동 765번지 대명상가 지하",
+		"TELNO": "",
+		"REFINE_ZIPNO": "11936",
+		"REFINE_WGS84_LAT": "37.5923333973",
+		"REFINE_WGS84_LOGT": "127.1342146495",
+		"DATA_STD_DE": "2020-08-18"
+	},
+	{
+		"SIGUN_NM": "구리시",
+		"CMPNM_NM": "포월드",
+		"INDUTYPE_NM": "의류-정장",
+		"REFINE_ROADNM_ADDR": "",
+		"REFINE_LOTNO_ADDR": "경기도 구리시 교문2동 103동 1006호",
+		"TELNO": "",
+		"REFINE_ZIPNO": "",
+		"REFINE_WGS84_LAT": "",
+		"REFINE_WGS84_LOGT": "",
+		"DATA_STD_DE": "2020-08-18"
+	}
+]

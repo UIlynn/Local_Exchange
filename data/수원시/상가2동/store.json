@@ -1,0 +1,14 @@
+[
+	{
+		"SIGUN_NM": "수원시",
+		"CMPNM_NM": "씨유수원대한대우점",
+		"INDUTYPE_NM": "유통업 영리-편 의 점",
+		"REFINE_ROADNM_ADDR": "",
+		"REFINE_LOTNO_ADDR": "경기도 수원시 팔달구 매산로2가 90번지 대한대우아파트 상가2동 1층 101호, 02호",
+		"TELNO": "",
+		"REFINE_ZIPNO": "16461",
+		"REFINE_WGS84_LAT": "37.2651522999",
+		"REFINE_WGS84_LOGT": "127.0050439498",
+		"DATA_STD_DE": "2020-08-18"
+	}
+]

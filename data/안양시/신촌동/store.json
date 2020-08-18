@@ -1,0 +1,122 @@
+[
+	{
+		"SIGUN_NM": "안양시",
+		"CMPNM_NM": "공간종합인테리어",
+		"INDUTYPE_NM": "건축자재-인테리어전문",
+		"REFINE_ROADNM_ADDR": "경기도 안양시 동안구 귀인로 152",
+		"REFINE_LOTNO_ADDR": "경기도 안양시 동안구 신촌동 1056번지 금호상가 112호",
+		"TELNO": "0313856900",
+		"REFINE_ZIPNO": "14099",
+		"REFINE_WGS84_LAT": "37.3837321856",
+		"REFINE_WGS84_LOGT": "126.9564049720",
+		"DATA_STD_DE": "2020-08-18"
+	},
+	{
+		"SIGUN_NM": "안양시",
+		"CMPNM_NM": "디자인애플미술학원",
+		"INDUTYPE_NM": "학원-예•체능계학원 ",
+		"REFINE_ROADNM_ADDR": "경기도 안양시 동안구 평촌대로 119",
+		"REFINE_LOTNO_ADDR": "경기도 안양시 동안구 신촌동 1065-5번지 원평비젼프라자 601-1",
+		"TELNO": "0313852951",
+		"REFINE_ZIPNO": "14099",
+		"REFINE_WGS84_LAT": "37.3826393181",
+		"REFINE_WGS84_LOGT": "126.9598580491",
+		"DATA_STD_DE": "2020-08-18"
+	},
+	{
+		"SIGUN_NM": "안양시",
+		"CMPNM_NM": "신촌어린이집[아이행복]",
+		"INDUTYPE_NM": "학원-유아원",
+		"REFINE_ROADNM_ADDR": "",
+		"REFINE_LOTNO_ADDR": "경기도 안양시 동안구 신촌동 1056-2번지 ,3",
+		"TELNO": "0313865858",
+		"REFINE_ZIPNO": "14099",
+		"REFINE_WGS84_LAT": "37.3817938808",
+		"REFINE_WGS84_LOGT": "126.9563285993",
+		"DATA_STD_DE": "2020-08-18"
+	},
+	{
+		"SIGUN_NM": "안양시",
+		"CMPNM_NM": "안양신기초등학교",
+		"INDUTYPE_NM": "학원-초중고교육기관",
+		"REFINE_ROADNM_ADDR": "경기도 안양시 동안구 동안로 26",
+		"REFINE_LOTNO_ADDR": "경기도 안양시 동안구 신촌동 1056-5번지 신기초등학교",
+		"TELNO": "0313810260",
+		"REFINE_ZIPNO": "14099",
+		"REFINE_WGS84_LAT": "37.3816434548",
+		"REFINE_WGS84_LOGT": "126.9569396449",
+		"DATA_STD_DE": "2020-08-18"
+	},
+	{
+		"SIGUN_NM": "안양시",
+		"CMPNM_NM": "올피스뮤직아카데미",
+		"INDUTYPE_NM": "학원-예•체능계학원 ",
+		"REFINE_ROADNM_ADDR": "경기도 안양시 동안구 평촌대로 129",
+		"REFINE_LOTNO_ADDR": "경기도 안양시 동안구 신촌동 1058-8번지 신흥빌딩 3층 302,303,304",
+		"TELNO": "0313884151",
+		"REFINE_ZIPNO": "14099",
+		"REFINE_WGS84_LAT": "37.3835564182",
+		"REFINE_WGS84_LOGT": "126.9593544539",
+		"DATA_STD_DE": "2020-08-18"
+	},
+	{
+		"SIGUN_NM": "안양시",
+		"CMPNM_NM": "이쌤수학박쌤영어학원",
+		"INDUTYPE_NM": "회원제형태-학원",
+		"REFINE_ROADNM_ADDR": "경기도 안양시 동안구 평촌대로 139",
+		"REFINE_LOTNO_ADDR": "경기도 안양시 동안구 신촌동 1058-1 신세대빌딩 7층 이쌤수학박쌤영어학원",
+		"TELNO": "0313822232",
+		"REFINE_ZIPNO": "14099",
+		"REFINE_WGS84_LAT": "37.3844466308",
+		"REFINE_WGS84_LOGT": "126.9588849275",
+		"DATA_STD_DE": "2020-08-18"
+	},
+	{
+		"SIGUN_NM": "안양시",
+		"CMPNM_NM": "정관장경기평촌학원가점",
+		"INDUTYPE_NM": "건강식품-홍삼제품",
+		"REFINE_ROADNM_ADDR": "경기도 안양시 동안구 평촌대로 133",
+		"REFINE_LOTNO_ADDR": "경기도 안양시 동안구 신촌동 1058-6 경한프라자102호",
+		"TELNO": "0313863304",
+		"REFINE_ZIPNO": "14099",
+		"REFINE_WGS84_LAT": "37.3838442286",
+		"REFINE_WGS84_LOGT": "126.9592168369",
+		"DATA_STD_DE": "2020-08-18"
+	},
+	{
+		"SIGUN_NM": "안양시",
+		"CMPNM_NM": "토종치킨",
+		"INDUTYPE_NM": "일반휴게음식-주점",
+		"REFINE_ROADNM_ADDR": "경기도 안양시 동안구 동안로 33",
+		"REFINE_LOTNO_ADDR": "경기도 안양시 동안구 신촌동 1055번지 무궁화상가 1층 1",
+		"TELNO": "0313829292",
+		"REFINE_ZIPNO": "14100",
+		"REFINE_WGS84_LAT": "37.3821956400",
+		"REFINE_WGS84_LOGT": "126.9554898222",
+		"DATA_STD_DE": "2020-08-18"
+	},
+	{
+		"SIGUN_NM": "안양시",
+		"CMPNM_NM": "평촌순복음교회",
+		"INDUTYPE_NM": "기타-기타 전문점",
+		"REFINE_ROADNM_ADDR": "경기도 안양시 동안구 경수대로610번길 31",
+		"REFINE_LOTNO_ADDR": "경기도 안양시 동안구 신촌동 1075번지 태영상가 304호",
+		"TELNO": "0314564456",
+		"REFINE_ZIPNO": "14108",
+		"REFINE_WGS84_LAT": "37.3777163918",
+		"REFINE_WGS84_LOGT": "126.9575778894",
+		"DATA_STD_DE": "2020-08-18"
+	},
+	{
+		"SIGUN_NM": "안양시",
+		"CMPNM_NM": "한국신용카드안양(주)",
+		"INDUTYPE_NM": "사무통신-통신기기",
+		"REFINE_ROADNM_ADDR": "경기도 안양시 동안구 귀인로172번길 26",
+		"REFINE_LOTNO_ADDR": "경기도 안양시 동안구 신촌동 1057번지 무궁화경남상가 지하 04호",
+		"TELNO": "0313822287",
+		"REFINE_ZIPNO": "14099",
+		"REFINE_WGS84_LAT": "37.3834457770",
+		"REFINE_WGS84_LOGT": "126.9588130490",
+		"DATA_STD_DE": "2020-08-18"
+	}
+]

@@ -1,0 +1,26 @@
+[
+	{
+		"SIGUN_NM": "동두천시",
+		"CMPNM_NM": "생연건강원",
+		"INDUTYPE_NM": "건강식품-기타건강식품",
+		"REFINE_ROADNM_ADDR": "",
+		"REFINE_LOTNO_ADDR": "경기도 동두천시 생연1동 537-10번지",
+		"TELNO": "",
+		"REFINE_ZIPNO": "11312",
+		"REFINE_WGS84_LAT": "37.9129623628",
+		"REFINE_WGS84_LOGT": "127.0580347353",
+		"DATA_STD_DE": "2020-08-18"
+	},
+	{
+		"SIGUN_NM": "동두천시",
+		"CMPNM_NM": "제일유리",
+		"INDUTYPE_NM": "건축자재-유리",
+		"REFINE_ROADNM_ADDR": "",
+		"REFINE_LOTNO_ADDR": "경기도 동두천시 생연1동 504번지",
+		"TELNO": "",
+		"REFINE_ZIPNO": "11312",
+		"REFINE_WGS84_LAT": "",
+		"REFINE_WGS84_LOGT": "",
+		"DATA_STD_DE": "2020-08-18"
+	}
+]

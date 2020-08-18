@@ -1,0 +1,26 @@
+[
+	{
+		"SIGUN_NM": "부천시",
+		"CMPNM_NM": "AVE 고시텔",
+		"INDUTYPE_NM": "학원-독서실",
+		"REFINE_ROADNM_ADDR": "경기도 부천시 부흥로307번길 54",
+		"REFINE_LOTNO_ADDR": "경기도 부천시 중동 1127-7번지 대원프라자 에이동비동2-3층",
+		"TELNO": "",
+		"REFINE_ZIPNO": "14582",
+		"REFINE_WGS84_LAT": "37.4969791071",
+		"REFINE_WGS84_LOGT": "126.7764687987",
+		"DATA_STD_DE": "2020-08-18"
+	},
+	{
+		"SIGUN_NM": "부천시",
+		"CMPNM_NM": "호치킨",
+		"INDUTYPE_NM": "일반휴게음식-스넥",
+		"REFINE_ROADNM_ADDR": "경기도 부천시 소향로 119",
+		"REFINE_LOTNO_ADDR": "경기도 부천시 중동 1161번지 에이동 102,103호",
+		"TELNO": "",
+		"REFINE_ZIPNO": "14546",
+		"REFINE_WGS84_LAT": "37.5025544871",
+		"REFINE_WGS84_LOGT": "126.7612660446",
+		"DATA_STD_DE": "2020-08-18"
+	}
+]

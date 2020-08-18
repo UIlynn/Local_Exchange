@@ -1,0 +1,26 @@
+[
+	{
+		"SIGUN_NM": "여주시",
+		"CMPNM_NM": "여주한샘",
+		"INDUTYPE_NM": "주방용구-주방용구",
+		"REFINE_ROADNM_ADDR": "경기도 여주시 주내로 347",
+		"REFINE_LOTNO_ADDR": "경기도 여주시 신진동 86번지",
+		"TELNO": "",
+		"REFINE_ZIPNO": "12654",
+		"REFINE_WGS84_LAT": "37.2758189934",
+		"REFINE_WGS84_LOGT": "127.6755144473",
+		"DATA_STD_DE": "2020-08-18"
+	},
+	{
+		"SIGUN_NM": "여주시",
+		"CMPNM_NM": "태신상재",
+		"INDUTYPE_NM": "직물-카페트,커튼,천막,지물",
+		"REFINE_ROADNM_ADDR": "경기도 여주시 주내로 347",
+		"REFINE_LOTNO_ADDR": "경기도 여주시 신진동 86번지",
+		"TELNO": "",
+		"REFINE_ZIPNO": "12654",
+		"REFINE_WGS84_LAT": "37.2758189934",
+		"REFINE_WGS84_LOGT": "127.6755144473",
+		"DATA_STD_DE": "2020-08-18"
+	}
+]

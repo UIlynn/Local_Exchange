@@ -1,0 +1,14 @@
+[
+	{
+		"SIGUN_NM": "안산시",
+		"CMPNM_NM": "지나헤어샵",
+		"INDUTYPE_NM": "보건위생-미용원",
+		"REFINE_ROADNM_ADDR": "경기도 안산시 상록구 안산대학로 16-1",
+		"REFINE_LOTNO_ADDR": "경기도 안산시 상록구 일동 661-12번지 상가정면우측",
+		"TELNO": "",
+		"REFINE_ZIPNO": "15517",
+		"REFINE_WGS84_LAT": "37.3040028221",
+		"REFINE_WGS84_LOGT": "126.8637179746",
+		"DATA_STD_DE": "2020-08-18"
+	}
+]

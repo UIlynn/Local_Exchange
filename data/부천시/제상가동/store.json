@@ -1,0 +1,110 @@
+[
+	{
+		"SIGUN_NM": "부천시",
+		"CMPNM_NM": "다정한 이화피아노",
+		"INDUTYPE_NM": "학원-예•체능계학원 ",
+		"REFINE_ROADNM_ADDR": "경기도 부천시 상동로 196",
+		"REFINE_LOTNO_ADDR": "경기도 부천시 상동 500-1번지 다정한마을상동뜨란채아파트 제상가동 102호",
+		"TELNO": "",
+		"REFINE_ZIPNO": "14506",
+		"REFINE_WGS84_LAT": "37.5151477095",
+		"REFINE_WGS84_LOGT": "126.7571814894",
+		"DATA_STD_DE": "2020-08-18"
+	},
+	{
+		"SIGUN_NM": "부천시",
+		"CMPNM_NM": "백야조명",
+		"INDUTYPE_NM": "건축자재-조명기구",
+		"REFINE_ROADNM_ADDR": "",
+		"REFINE_LOTNO_ADDR": "경기도 부천시 중동 1181번지 미리내마을아파트 제상가동 1층 113호",
+		"TELNO": "",
+		"REFINE_ZIPNO": "14579",
+		"REFINE_WGS84_LAT": "37.4995710759",
+		"REFINE_WGS84_LOGT": "126.7699726472",
+		"DATA_STD_DE": "2020-08-18"
+	},
+	{
+		"SIGUN_NM": "부천시",
+		"CMPNM_NM": "씨유중동미리내점",
+		"INDUTYPE_NM": "유통업 영리-편 의 점",
+		"REFINE_ROADNM_ADDR": "경기도 부천시 소향로 228",
+		"REFINE_LOTNO_ADDR": "경기도 부천시 중동 1179번지 미리내마을 제상가동 제1층 제108, 제109호",
+		"TELNO": "",
+		"REFINE_ZIPNO": "14579",
+		"REFINE_WGS84_LAT": "37.5005081183",
+		"REFINE_WGS84_LOGT": "126.7728371086",
+		"DATA_STD_DE": "2020-08-18"
+	},
+	{
+		"SIGUN_NM": "부천시",
+		"CMPNM_NM": "약초건강원",
+		"INDUTYPE_NM": "건강식품-기타건강식품",
+		"REFINE_ROADNM_ADDR": "",
+		"REFINE_LOTNO_ADDR": "경기 부천시 소사구 경인로3번길 282호 제상가동제1 성호아파트 (송내동,송내동성호아파트)",
+		"TELNO": "",
+		"REFINE_ZIPNO": "",
+		"REFINE_WGS84_LAT": "",
+		"REFINE_WGS84_LOGT": "",
+		"DATA_STD_DE": "2020-08-18"
+	},
+	{
+		"SIGUN_NM": "부천시",
+		"CMPNM_NM": "주식회사 집밥처럼",
+		"INDUTYPE_NM": "일반휴게음식-일반한식",
+		"REFINE_ROADNM_ADDR": "",
+		"REFINE_LOTNO_ADDR": "경기도 부천시 상동 394-1번지 한아름마을동원아파트 제상가동 지층 01호",
+		"TELNO": "",
+		"REFINE_ZIPNO": "14596",
+		"REFINE_WGS84_LAT": "37.4951983068",
+		"REFINE_WGS84_LOGT": "126.7539061902",
+		"DATA_STD_DE": "2020-08-18"
+	},
+	{
+		"SIGUN_NM": "부천시",
+		"CMPNM_NM": "청구철물",
+		"INDUTYPE_NM": "건축자재-목재•석재•철물",
+		"REFINE_ROADNM_ADDR": "",
+		"REFINE_LOTNO_ADDR": "경기도 부천시 상동 417번지 사랑마을아파트 제상가동 제지층 제비07호",
+		"TELNO": "",
+		"REFINE_ZIPNO": "14600",
+		"REFINE_WGS84_LAT": "37.4945947569",
+		"REFINE_WGS84_LOGT": "126.7582561649",
+		"DATA_STD_DE": "2020-08-18"
+	},
+	{
+		"SIGUN_NM": "부천시",
+		"CMPNM_NM": "하늘누에 위브",
+		"INDUTYPE_NM": "문화.취미-민예•공예품",
+		"REFINE_ROADNM_ADDR": "경기도 부천시 신흥로 170-1",
+		"REFINE_LOTNO_ADDR": "경기도 부천시 중동 1111번지 제3층 제상가동 6동 304-1,304-2호",
+		"TELNO": "",
+		"REFINE_ZIPNO": "14549",
+		"REFINE_WGS84_LAT": "37.4987587907",
+		"REFINE_WGS84_LOGT": "126.7786011093",
+		"DATA_STD_DE": "2020-08-18"
+	},
+	{
+		"SIGUN_NM": "부천시",
+		"CMPNM_NM": "한아름해법영어교습소",
+		"INDUTYPE_NM": "학원-외국어학원",
+		"REFINE_ROADNM_ADDR": "",
+		"REFINE_LOTNO_ADDR": "경기도 부천시 상동 394-1번지 한아름아파트 제상가동 제303호 제상가동 303호",
+		"TELNO": "",
+		"REFINE_ZIPNO": "14596",
+		"REFINE_WGS84_LAT": "37.4951983068",
+		"REFINE_WGS84_LOGT": "126.7539061902",
+		"DATA_STD_DE": "2020-08-18"
+	},
+	{
+		"SIGUN_NM": "부천시",
+		"CMPNM_NM": "해법영어수학중앙심원보습학원",
+		"INDUTYPE_NM": "학원-보습학원",
+		"REFINE_ROADNM_ADDR": "",
+		"REFINE_LOTNO_ADDR": "경기도 부천시 중동 1100번지 대원아파트 제상가동 제2층 제206,207,208,209호",
+		"TELNO": "",
+		"REFINE_ZIPNO": "14574",
+		"REFINE_WGS84_LAT": "37.4967216145",
+		"REFINE_WGS84_LOGT": "126.7800574274",
+		"DATA_STD_DE": "2020-08-18"
+	}
+]

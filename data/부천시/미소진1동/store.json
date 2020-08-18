@@ -1,0 +1,14 @@
+[
+	{
+		"SIGUN_NM": "부천시",
+		"CMPNM_NM": "안스헤어샵",
+		"INDUTYPE_NM": "보건위생-미용원",
+		"REFINE_ROADNM_ADDR": "경기도 부천시 삼작로221번길 46",
+		"REFINE_LOTNO_ADDR": "경기도 부천시 내동 339-7번지 미소진1동 101호",
+		"TELNO": "",
+		"REFINE_ZIPNO": "14456",
+		"REFINE_WGS84_LAT": "37.5221676977",
+		"REFINE_WGS84_LOGT": "126.7861729118",
+		"DATA_STD_DE": "2020-08-18"
+	}
+]

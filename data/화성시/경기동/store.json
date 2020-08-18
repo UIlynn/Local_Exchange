@@ -1,0 +1,38 @@
+[
+	{
+		"SIGUN_NM": "화성시",
+		"CMPNM_NM": "농민장터",
+		"INDUTYPE_NM": "유통업 영리-슈퍼마켓",
+		"REFINE_ROADNM_ADDR": "",
+		"REFINE_LOTNO_ADDR": "경기 화성시 경기동로317번나길 19동탄자이파밀리에 상가 1층 104호 동탄2지구 (장지동)",
+		"TELNO": "",
+		"REFINE_ZIPNO": "",
+		"REFINE_WGS84_LAT": "",
+		"REFINE_WGS84_LOGT": "",
+		"DATA_STD_DE": "2020-08-18"
+	},
+	{
+		"SIGUN_NM": "화성시",
+		"CMPNM_NM": "다온",
+		"INDUTYPE_NM": "자동차정비 유지-세차장",
+		"REFINE_ROADNM_ADDR": "",
+		"REFINE_LOTNO_ADDR": "경기 화성시 경기동로317번나길 45동탄2택지개발지구483블록901로트 101호 (장지동)",
+		"TELNO": "",
+		"REFINE_ZIPNO": "",
+		"REFINE_WGS84_LAT": "",
+		"REFINE_WGS84_LOGT": "",
+		"DATA_STD_DE": "2020-08-18"
+	},
+	{
+		"SIGUN_NM": "화성시",
+		"CMPNM_NM": "전라도한식뷔페",
+		"INDUTYPE_NM": "일반휴게음식-일반한식",
+		"REFINE_ROADNM_ADDR": "",
+		"REFINE_LOTNO_ADDR": "경기 화성시 경기동로 5331 (장지동)",
+		"TELNO": "",
+		"REFINE_ZIPNO": "",
+		"REFINE_WGS84_LAT": "",
+		"REFINE_WGS84_LOGT": "",
+		"DATA_STD_DE": "2020-08-18"
+	}
+]

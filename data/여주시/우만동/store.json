@@ -1,0 +1,50 @@
+[
+	{
+		"SIGUN_NM": "여주시",
+		"CMPNM_NM": "동원횟집",
+		"INDUTYPE_NM": "일반휴게음식-일반한식",
+		"REFINE_ROADNM_ADDR": "경기도 여주시 주내로 609",
+		"REFINE_LOTNO_ADDR": "경기도 여주시 우만동 192번지",
+		"TELNO": "",
+		"REFINE_ZIPNO": "12654",
+		"REFINE_WGS84_LAT": "37.2534890727",
+		"REFINE_WGS84_LOGT": "127.6769962382",
+		"DATA_STD_DE": "2020-08-18"
+	},
+	{
+		"SIGUN_NM": "여주시",
+		"CMPNM_NM": "봉평요업",
+		"INDUTYPE_NM": "문화.취미-민예•공예품",
+		"REFINE_ROADNM_ADDR": "경기도 여주시 주내로 550-17",
+		"REFINE_LOTNO_ADDR": "경기도 여주시 우만동 64번지",
+		"TELNO": "",
+		"REFINE_ZIPNO": "12654",
+		"REFINE_WGS84_LAT": "37.2592510650",
+		"REFINE_WGS84_LOGT": "127.6756338809",
+		"DATA_STD_DE": "2020-08-18"
+	},
+	{
+		"SIGUN_NM": "여주시",
+		"CMPNM_NM": "아름횟집",
+		"INDUTYPE_NM": "일반휴게음식-일식•회집",
+		"REFINE_ROADNM_ADDR": "경기도 여주시 주내로 524",
+		"REFINE_LOTNO_ADDR": "경기도 여주시 우만동 57-11번지",
+		"TELNO": "",
+		"REFINE_ZIPNO": "12654",
+		"REFINE_WGS84_LAT": "37.2605733636",
+		"REFINE_WGS84_LOGT": "127.6774864715",
+		"DATA_STD_DE": "2020-08-18"
+	},
+	{
+		"SIGUN_NM": "여주시",
+		"CMPNM_NM": "여주양평에어컨",
+		"INDUTYPE_NM": "용역 서비스-기타용역서비스",
+		"REFINE_ROADNM_ADDR": "경기도 여주시 우만2길 2",
+		"REFINE_LOTNO_ADDR": "경기도 여주시 우만동 126-12번지",
+		"TELNO": "",
+		"REFINE_ZIPNO": "12654",
+		"REFINE_WGS84_LAT": "37.2567179653",
+		"REFINE_WGS84_LOGT": "127.6757407696",
+		"DATA_STD_DE": "2020-08-18"
+	}
+]

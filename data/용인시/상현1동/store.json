@@ -1,0 +1,26 @@
+[
+	{
+		"SIGUN_NM": "용인시",
+		"CMPNM_NM": "보스톤치과",
+		"INDUTYPE_NM": "의원-치과의원",
+		"REFINE_ROADNM_ADDR": "",
+		"REFINE_LOTNO_ADDR": "경기 용인시 수지구 만현로 106302(상현1동,만현프라자)",
+		"TELNO": "",
+		"REFINE_ZIPNO": "",
+		"REFINE_WGS84_LAT": "",
+		"REFINE_WGS84_LOGT": "",
+		"DATA_STD_DE": "2020-08-18"
+	},
+	{
+		"SIGUN_NM": "용인시",
+		"CMPNM_NM": "지건사",
+		"INDUTYPE_NM": "건축자재-기타건축자재",
+		"REFINE_ROADNM_ADDR": "",
+		"REFINE_LOTNO_ADDR": "경기도 용인시 수지구 상현1동 511, 509-2",
+		"TELNO": "",
+		"REFINE_ZIPNO": "",
+		"REFINE_WGS84_LAT": "37.3005701700",
+		"REFINE_WGS84_LOGT": "127.0720778587",
+		"DATA_STD_DE": "2020-08-18"
+	}
+]

@@ -1,0 +1,38 @@
+[
+	{
+		"SIGUN_NM": "오산시",
+		"CMPNM_NM": "대호종합목재",
+		"INDUTYPE_NM": "건축자재-기타건축자재",
+		"REFINE_ROADNM_ADDR": "",
+		"REFINE_LOTNO_ADDR": "경기 오산시 경기동로 87(부산동)",
+		"TELNO": "031-372-8820",
+		"REFINE_ZIPNO": "",
+		"REFINE_WGS84_LAT": "",
+		"REFINE_WGS84_LOGT": "",
+		"DATA_STD_DE": "2020-08-18"
+	},
+	{
+		"SIGUN_NM": "오산시",
+		"CMPNM_NM": "오산화훼조경",
+		"INDUTYPE_NM": "문화.취미-화원",
+		"REFINE_ROADNM_ADDR": "",
+		"REFINE_LOTNO_ADDR": "경기 오산시 경기동로 139(부산동)",
+		"TELNO": "031-377-8022",
+		"REFINE_ZIPNO": "18148",
+		"REFINE_WGS84_LAT": "",
+		"REFINE_WGS84_LOGT": "",
+		"DATA_STD_DE": "2020-08-18"
+	},
+	{
+		"SIGUN_NM": "오산시",
+		"CMPNM_NM": "자연채친환경식품",
+		"INDUTYPE_NM": "음료식품-기타음료식품",
+		"REFINE_ROADNM_ADDR": "",
+		"REFINE_LOTNO_ADDR": "경기 오산시 경기동로186번길 78-3(부산동)",
+		"TELNO": "",
+		"REFINE_ZIPNO": "",
+		"REFINE_WGS84_LAT": "",
+		"REFINE_WGS84_LOGT": "",
+		"DATA_STD_DE": "2020-08-18"
+	}
+]

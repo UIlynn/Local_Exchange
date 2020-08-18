@@ -1,0 +1,14 @@
+[
+	{
+		"SIGUN_NM": "안산시",
+		"CMPNM_NM": "큰숲",
+		"INDUTYPE_NM": "서적문구-전문서적",
+		"REFINE_ROADNM_ADDR": "경기도 안산시 상록구 석호공원로 8",
+		"REFINE_LOTNO_ADDR": "경기도 안산시 상록구 사동 1584-1 안산동산교회아가페센타 302",
+		"TELNO": "",
+		"REFINE_ZIPNO": "15585",
+		"REFINE_WGS84_LAT": "37.3014877519",
+		"REFINE_WGS84_LOGT": "126.8438689356",
+		"DATA_STD_DE": "2020-08-18"
+	}
+]

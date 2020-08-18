@@ -1,0 +1,122 @@
+[
+	{
+		"SIGUN_NM": "오산시",
+		"CMPNM_NM": "(주)샘타코 BIOKOREA/원격지",
+		"INDUTYPE_NM": "기타-기타 전문점",
+		"REFINE_ROADNM_ADDR": "경기도 오산시 서랑로 105",
+		"REFINE_LOTNO_ADDR": "경기도 오산시 서랑동 77-1번지",
+		"TELNO": "031-372-3637",
+		"REFINE_ZIPNO": "18100",
+		"REFINE_WGS84_LAT": "37.1748340623",
+		"REFINE_WGS84_LOGT": "127.0098805376",
+		"DATA_STD_DE": "2020-08-18"
+	},
+	{
+		"SIGUN_NM": "오산시",
+		"CMPNM_NM": "(주)샘타코BIOKOREA",
+		"INDUTYPE_NM": "서적문구-과학기자재",
+		"REFINE_ROADNM_ADDR": "경기도 오산시 서랑로 105",
+		"REFINE_LOTNO_ADDR": "경기도 오산시 서랑동 77-1번지",
+		"TELNO": "031-372-3638",
+		"REFINE_ZIPNO": "18100",
+		"REFINE_WGS84_LAT": "37.1748340623",
+		"REFINE_WGS84_LOGT": "127.0098805376",
+		"DATA_STD_DE": "2020-08-18"
+	},
+	{
+		"SIGUN_NM": "오산시",
+		"CMPNM_NM": "삼성판유리",
+		"INDUTYPE_NM": "건축자재-유리",
+		"REFINE_ROADNM_ADDR": "경기도 오산시 서랑로 69",
+		"REFINE_LOTNO_ADDR": "경기도 오산시 서랑동 103-2번지",
+		"TELNO": "031-373-6288",
+		"REFINE_ZIPNO": "18100",
+		"REFINE_WGS84_LAT": "37.1727036620",
+		"REFINE_WGS84_LOGT": "127.0069655564",
+		"DATA_STD_DE": "2020-08-18"
+	},
+	{
+		"SIGUN_NM": "오산시",
+		"CMPNM_NM": "서랑동문화마을협동조합",
+		"INDUTYPE_NM": "레저업소-기타레져업소",
+		"REFINE_ROADNM_ADDR": "경기도 오산시 서랑로105번길 33",
+		"REFINE_LOTNO_ADDR": "경기도 오산시 서랑동 112-4번지 1층",
+		"TELNO": "",
+		"REFINE_ZIPNO": "18100",
+		"REFINE_WGS84_LAT": "37.1743418343",
+		"REFINE_WGS84_LOGT": "127.0063916802",
+		"DATA_STD_DE": "2020-08-18"
+	},
+	{
+		"SIGUN_NM": "오산시",
+		"CMPNM_NM": "제일정공",
+		"INDUTYPE_NM": "자동차정비 유지-자동차부품",
+		"REFINE_ROADNM_ADDR": "경기도 오산시 서랑로 95",
+		"REFINE_LOTNO_ADDR": "경기도 오산시 서랑동 74-4번지",
+		"TELNO": "031-372-5974",
+		"REFINE_ZIPNO": "18100",
+		"REFINE_WGS84_LAT": "37.1737127563",
+		"REFINE_WGS84_LOGT": "127.0090204108",
+		"DATA_STD_DE": "2020-08-18"
+	},
+	{
+		"SIGUN_NM": "오산시",
+		"CMPNM_NM": "좋은양파플러스",
+		"INDUTYPE_NM": "음료식품-농•축•수산품",
+		"REFINE_ROADNM_ADDR": "경기도 오산시 서랑로105번길 6",
+		"REFINE_LOTNO_ADDR": "경기도 오산시 서랑동 76-2번지",
+		"TELNO": "031-215-6960",
+		"REFINE_ZIPNO": "18100",
+		"REFINE_WGS84_LAT": "37.1740131045",
+		"REFINE_WGS84_LOGT": "127.0097168717",
+		"DATA_STD_DE": "2020-08-18"
+	},
+	{
+		"SIGUN_NM": "오산시",
+		"CMPNM_NM": "주식회사 윈나우",
+		"INDUTYPE_NM": "건축자재-유리",
+		"REFINE_ROADNM_ADDR": "경기도 오산시 서랑로 69",
+		"REFINE_LOTNO_ADDR": "경기도 오산시 서랑동 103-2번지 A동",
+		"TELNO": "",
+		"REFINE_ZIPNO": "18100",
+		"REFINE_WGS84_LAT": "37.1727036620",
+		"REFINE_WGS84_LOGT": "127.0069655564",
+		"DATA_STD_DE": "2020-08-18"
+	},
+	{
+		"SIGUN_NM": "오산시",
+		"CMPNM_NM": "주식회사 잇츠(EATS Inc.)",
+		"INDUTYPE_NM": "문화.취미-문화취미기타",
+		"REFINE_ROADNM_ADDR": "경기도 오산시 서랑로105번길 29-5",
+		"REFINE_LOTNO_ADDR": "경기도 오산시 서랑동 114-3번지",
+		"TELNO": "031-370-2500",
+		"REFINE_ZIPNO": "18100",
+		"REFINE_WGS84_LAT": "37.1737741507",
+		"REFINE_WGS84_LOGT": "127.0064404314",
+		"DATA_STD_DE": "2020-08-18"
+	},
+	{
+		"SIGUN_NM": "오산시",
+		"CMPNM_NM": "진종합건축",
+		"INDUTYPE_NM": "건축자재-인테리어전문",
+		"REFINE_ROADNM_ADDR": "",
+		"REFINE_LOTNO_ADDR": "경기도 오산시 서랑동 74번지",
+		"TELNO": "",
+		"REFINE_ZIPNO": "18100",
+		"REFINE_WGS84_LAT": "",
+		"REFINE_WGS84_LOGT": "",
+		"DATA_STD_DE": "2020-08-18"
+	},
+	{
+		"SIGUN_NM": "오산시",
+		"CMPNM_NM": "호수가에하얀집",
+		"INDUTYPE_NM": "일반휴게음식-일반한식",
+		"REFINE_ROADNM_ADDR": "경기도 오산시 서랑로 139",
+		"REFINE_LOTNO_ADDR": "경기도 오산시 서랑동 18-6번지",
+		"TELNO": "031-376-4053",
+		"REFINE_ZIPNO": "18100",
+		"REFINE_WGS84_LAT": "37.1737774724",
+		"REFINE_WGS84_LOGT": "127.0137848980",
+		"DATA_STD_DE": "2020-08-18"
+	}
+]

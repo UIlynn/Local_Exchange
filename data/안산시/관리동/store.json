@@ -1,0 +1,98 @@
+[
+	{
+		"SIGUN_NM": "안산시",
+		"CMPNM_NM": "시장약국",
+		"INDUTYPE_NM": "약국-약국",
+		"REFINE_ROADNM_ADDR": "경기도 안산시 상록구 충장로 312",
+		"REFINE_LOTNO_ADDR": "경기도 안산시 상록구 이동 528번지 농수산물도매시장 관리동 1층",
+		"TELNO": "",
+		"REFINE_ZIPNO": "15507",
+		"REFINE_WGS84_LAT": "37.3083155878",
+		"REFINE_WGS84_LOGT": "126.8561548614",
+		"DATA_STD_DE": "2020-08-18"
+	},
+	{
+		"SIGUN_NM": "안산시",
+		"CMPNM_NM": "신화유통",
+		"INDUTYPE_NM": "신변잡화-기타잡화",
+		"REFINE_ROADNM_ADDR": "경기도 안산시 상록구 충장로 312",
+		"REFINE_LOTNO_ADDR": "경기도 안산시 상록구 이동 528번지 1층 관리동",
+		"TELNO": "",
+		"REFINE_ZIPNO": "15507",
+		"REFINE_WGS84_LAT": "37.3083155878",
+		"REFINE_WGS84_LOGT": "126.8561548614",
+		"DATA_STD_DE": "2020-08-18"
+	},
+	{
+		"SIGUN_NM": "안산시",
+		"CMPNM_NM": "영광상회",
+		"INDUTYPE_NM": "음료식품-기타음료식품",
+		"REFINE_ROADNM_ADDR": "경기도 안산시 상록구 충장로 312",
+		"REFINE_LOTNO_ADDR": "경기도 안산시 상록구 이동 528번지 안산시농수산물도매시장 1층 관리동",
+		"TELNO": "",
+		"REFINE_ZIPNO": "15507",
+		"REFINE_WGS84_LAT": "37.3083155878",
+		"REFINE_WGS84_LOGT": "126.8561548614",
+		"DATA_STD_DE": "2020-08-18"
+	},
+	{
+		"SIGUN_NM": "안산시",
+		"CMPNM_NM": "큰숲 리빙아트(living ART)",
+		"INDUTYPE_NM": "문화.취미-문화취미기타",
+		"REFINE_ROADNM_ADDR": "경기도 안산시 상록구 삼리로 24",
+		"REFINE_LOTNO_ADDR": "경기도 안산시 상록구 사동 1553번지 숲속마을아파트 관리동 2층",
+		"TELNO": "",
+		"REFINE_ZIPNO": "15505",
+		"REFINE_WGS84_LAT": "37.3043932493",
+		"REFINE_WGS84_LOGT": "126.8427942874",
+		"DATA_STD_DE": "2020-08-18"
+	},
+	{
+		"SIGUN_NM": "안산시",
+		"CMPNM_NM": "푸르지오 아이숲 어린이집[아이행복]",
+		"INDUTYPE_NM": "학원-유아원",
+		"REFINE_ROADNM_ADDR": "경기도 안산시 상록구 해양1로 11",
+		"REFINE_LOTNO_ADDR": "경기도 안산시 상록구 사동 1512번지 안산고잔6차푸르지오 관리동",
+		"TELNO": "",
+		"REFINE_ZIPNO": "15594",
+		"REFINE_WGS84_LAT": "37.2942264105",
+		"REFINE_WGS84_LOGT": "126.8253047736",
+		"DATA_STD_DE": "2020-08-18"
+	},
+	{
+		"SIGUN_NM": "안산시",
+		"CMPNM_NM": "푸르지오7차어린이집[아이행복]",
+		"INDUTYPE_NM": "학원-유아원",
+		"REFINE_ROADNM_ADDR": "경기도 안산시 상록구 해양1로 30",
+		"REFINE_LOTNO_ADDR": "경기도 안산시 상록구 사동 1510 안산고잔7차푸르지오 관리동",
+		"TELNO": "",
+		"REFINE_ZIPNO": "15593",
+		"REFINE_WGS84_LAT": "37.2951863558",
+		"REFINE_WGS84_LOGT": "126.8182220534",
+		"DATA_STD_DE": "2020-08-18"
+	},
+	{
+		"SIGUN_NM": "안산시",
+		"CMPNM_NM": "해를담은어린이집[아이행복]",
+		"INDUTYPE_NM": "학원-유아원",
+		"REFINE_ROADNM_ADDR": "",
+		"REFINE_LOTNO_ADDR": "경기 안산시 상록구 중보로 22사호 ,  단지 관리동 (사동,늘푸른아파트)",
+		"TELNO": "031-502-1957 ",
+		"REFINE_ZIPNO": "",
+		"REFINE_WGS84_LAT": "",
+		"REFINE_WGS84_LOGT": "",
+		"DATA_STD_DE": "2020-08-18"
+	},
+	{
+		"SIGUN_NM": "안산시",
+		"CMPNM_NM": "화개장터",
+		"INDUTYPE_NM": "일반휴게음식-일반한식",
+		"REFINE_ROADNM_ADDR": "경기도 안산시 상록구 충장로 312",
+		"REFINE_LOTNO_ADDR": "경기도 안산시 상록구 이동 528번지 관리동 1층",
+		"TELNO": "031-486-4411",
+		"REFINE_ZIPNO": "15507",
+		"REFINE_WGS84_LAT": "37.3094686891",
+		"REFINE_WGS84_LOGT": "126.8576910306",
+		"DATA_STD_DE": "2020-08-18"
+	}
+]

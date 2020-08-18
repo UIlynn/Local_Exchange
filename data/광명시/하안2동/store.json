@@ -1,0 +1,74 @@
+[
+	{
+		"SIGUN_NM": "광명시",
+		"CMPNM_NM": "LG자동차정비기기",
+		"INDUTYPE_NM": "기타-기계공구",
+		"REFINE_ROADNM_ADDR": "경기도 광명시 하안로 284",
+		"REFINE_LOTNO_ADDR": "경기도 광명시 하안2동 110 고층주공@1208-1203 19/14",
+		"TELNO": "",
+		"REFINE_ZIPNO": "14306",
+		"REFINE_WGS84_LAT": "37.4615328297",
+		"REFINE_WGS84_LOGT": "126.8819474953",
+		"DATA_STD_DE": "2020-08-18"
+	},
+	{
+		"SIGUN_NM": "광명시",
+		"CMPNM_NM": "동양종합보수",
+		"INDUTYPE_NM": "직물-카페트,커튼,천막,지물",
+		"REFINE_ROADNM_ADDR": "경기도 광명시 안현로 22",
+		"REFINE_LOTNO_ADDR": "경기도 광명시 하안2동 650-1번지 3단지상가 102-1",
+		"TELNO": "",
+		"REFINE_ZIPNO": "14248",
+		"REFINE_WGS84_LAT": "37.4637023920",
+		"REFINE_WGS84_LOGT": "126.8745795398",
+		"DATA_STD_DE": "2020-08-18"
+	},
+	{
+		"SIGUN_NM": "광명시",
+		"CMPNM_NM": "시립푸른어린이집[아이행복]",
+		"INDUTYPE_NM": "학원-유아원",
+		"REFINE_ROADNM_ADDR": "",
+		"REFINE_LOTNO_ADDR": "경기 광명시 하안2동철망산길20 노인복지회관1층",
+		"TELNO": "",
+		"REFINE_ZIPNO": "14245",
+		"REFINE_WGS84_LAT": "",
+		"REFINE_WGS84_LOGT": "",
+		"DATA_STD_DE": "2020-08-18"
+	},
+	{
+		"SIGUN_NM": "광명시",
+		"CMPNM_NM": "신창수",
+		"INDUTYPE_NM": "연료판매점-기타연료",
+		"REFINE_ROADNM_ADDR": "",
+		"REFINE_LOTNO_ADDR": "경기도 광명시 하안2동 764 주공아파트 150-504",
+		"TELNO": "",
+		"REFINE_ZIPNO": "",
+		"REFINE_WGS84_LAT": "",
+		"REFINE_WGS84_LOGT": "",
+		"DATA_STD_DE": "2020-08-18"
+	},
+	{
+		"SIGUN_NM": "광명시",
+		"CMPNM_NM": "제이제이텔레콤",
+		"INDUTYPE_NM": "사무통신-통신기기",
+		"REFINE_ROADNM_ADDR": "",
+		"REFINE_LOTNO_ADDR": "경기도 광명시 하안2동 682-2",
+		"TELNO": "",
+		"REFINE_ZIPNO": "14245",
+		"REFINE_WGS84_LAT": "37.4648740236",
+		"REFINE_WGS84_LOGT": "126.8744289157",
+		"DATA_STD_DE": "2020-08-18"
+	},
+	{
+		"SIGUN_NM": "광명시",
+		"CMPNM_NM": "한성어린이집[아이행복]",
+		"INDUTYPE_NM": "",
+		"REFINE_ROADNM_ADDR": "경기도 광명시 하안로 361",
+		"REFINE_LOTNO_ADDR": "경기도 광명시 하안2동 681-4번지 교육센터 3층 한성어린이집",
+		"TELNO": "",
+		"REFINE_ZIPNO": "14245",
+		"REFINE_WGS84_LAT": "37.4667550064",
+		"REFINE_WGS84_LOGT": "126.8757188649",
+		"DATA_STD_DE": "2020-08-18"
+	}
+]

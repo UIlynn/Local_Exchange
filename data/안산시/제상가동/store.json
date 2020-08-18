@@ -1,0 +1,38 @@
+[
+	{
+		"SIGUN_NM": "안산시",
+		"CMPNM_NM": "엠앤에스학원",
+		"INDUTYPE_NM": "학원-보습학원",
+		"REFINE_ROADNM_ADDR": "경기도 안산시 상록구 해양로 14",
+		"REFINE_LOTNO_ADDR": "경기도 안산시 상록구 사동 1511번지 제상가동 305호,306호",
+		"TELNO": "",
+		"REFINE_ZIPNO": "15595",
+		"REFINE_WGS84_LAT": "37.2943540204",
+		"REFINE_WGS84_LOGT": "126.8208245183",
+		"DATA_STD_DE": "2020-08-18"
+	},
+	{
+		"SIGUN_NM": "안산시",
+		"CMPNM_NM": "푸른음악학원",
+		"INDUTYPE_NM": "학원-예•체능계학원 ",
+		"REFINE_ROADNM_ADDR": "경기도 안산시 상록구 광덕4로 460",
+		"REFINE_LOTNO_ADDR": "경기도 안산시 상록구 사동 1536번지 푸른마을5단지 제상가동 201-1호,202호",
+		"TELNO": "",
+		"REFINE_ZIPNO": "15502",
+		"REFINE_WGS84_LAT": "37.3037976677",
+		"REFINE_WGS84_LOGT": "126.8557871635",
+		"DATA_STD_DE": "2020-08-18"
+	},
+	{
+		"SIGUN_NM": "안산시",
+		"CMPNM_NM": "현대음향",
+		"INDUTYPE_NM": "전기제품-가전제품",
+		"REFINE_ROADNM_ADDR": "경기도 안산시 단원구 삼일로 401",
+		"REFINE_LOTNO_ADDR": "경기도 안산시 단원구 와동 736-1번지 제상가동 104호",
+		"TELNO": "031-401-4569",
+		"REFINE_ZIPNO": "15268",
+		"REFINE_WGS84_LAT": "37.3335820276",
+		"REFINE_WGS84_LOGT": "126.8224017924",
+		"DATA_STD_DE": "2020-08-18"
+	}
+]

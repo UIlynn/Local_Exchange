@@ -1,0 +1,14 @@
+[
+	{
+		"SIGUN_NM": "부천시",
+		"CMPNM_NM": "디아뜨크리닝",
+		"INDUTYPE_NM": "수리서비스-세탁소",
+		"REFINE_ROADNM_ADDR": "경기도 부천시 소향로 119",
+		"REFINE_LOTNO_ADDR": "경기도 부천시 중동 1161번지 외1필지디아뜨 2동 제에이동 104호",
+		"TELNO": "",
+		"REFINE_ZIPNO": "14546",
+		"REFINE_WGS84_LAT": "37.5025544871",
+		"REFINE_WGS84_LOGT": "126.7612660446",
+		"DATA_STD_DE": "2020-08-18"
+	}
+]

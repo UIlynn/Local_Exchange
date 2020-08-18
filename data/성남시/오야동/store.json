@@ -1,0 +1,98 @@
+[
+	{
+		"SIGUN_NM": "성남시",
+		"CMPNM_NM": "광릉불고기",
+		"INDUTYPE_NM": "음식점",
+		"REFINE_ROADNM_ADDR": "경기도 성남시 수정구 대왕판교로 1279",
+		"REFINE_LOTNO_ADDR": "경기도 성남시 수정구 오야동 223-5번지",
+		"TELNO": "",
+		"REFINE_ZIPNO": "13100",
+		"REFINE_WGS84_LAT": "37.4541649031",
+		"REFINE_WGS84_LOGT": "127.1063848738",
+		"DATA_STD_DE": "2020-08-18"
+	},
+	{
+		"SIGUN_NM": "성남시",
+		"CMPNM_NM": "더블 에이치",
+		"INDUTYPE_NM": "",
+		"REFINE_ROADNM_ADDR": "경기도 성남시 수정구 오야북로 10",
+		"REFINE_LOTNO_ADDR": "경기도 성남시 수정구 오야동 231-15번지",
+		"TELNO": "070-8785-0986",
+		"REFINE_ZIPNO": "13100",
+		"REFINE_WGS84_LAT": "37.4553888956",
+		"REFINE_WGS84_LOGT": "127.1058244312",
+		"DATA_STD_DE": "2020-08-18"
+	},
+	{
+		"SIGUN_NM": "성남시",
+		"CMPNM_NM": "더블에이치",
+		"INDUTYPE_NM": "",
+		"REFINE_ROADNM_ADDR": "경기도 성남시 수정구 오야북로 10-2",
+		"REFINE_LOTNO_ADDR": "경기도 성남시 수정구 오야동 231-3번지 3층",
+		"TELNO": "070-8785-0986",
+		"REFINE_ZIPNO": "13100",
+		"REFINE_WGS84_LAT": "37.4556235865",
+		"REFINE_WGS84_LOGT": "127.1059249601",
+		"DATA_STD_DE": "2020-08-18"
+	},
+	{
+		"SIGUN_NM": "성남시",
+		"CMPNM_NM": "똘똘이네",
+		"INDUTYPE_NM": "",
+		"REFINE_ROADNM_ADDR": "경기도 성남시 수정구 오야남로4번길 4",
+		"REFINE_LOTNO_ADDR": "경기도 성남시 수정구 오야동 245-13번지",
+		"TELNO": "031-723-7745",
+		"REFINE_ZIPNO": "13100",
+		"REFINE_WGS84_LAT": "37.4541368454",
+		"REFINE_WGS84_LOGT": "127.1060797452",
+		"DATA_STD_DE": "2020-08-18"
+	},
+	{
+		"SIGUN_NM": "성남시",
+		"CMPNM_NM": "모락",
+		"INDUTYPE_NM": "",
+		"REFINE_ROADNM_ADDR": "경기도 성남시 수정구 대왕판교로 1285",
+		"REFINE_LOTNO_ADDR": "경기도 성남시 수정구 오야동 225-12번지 1층",
+		"TELNO": "031-757-5002",
+		"REFINE_ZIPNO": "13100",
+		"REFINE_WGS84_LAT": "37.4547692986",
+		"REFINE_WGS84_LOGT": "127.1065286922",
+		"DATA_STD_DE": "2020-08-18"
+	},
+	{
+		"SIGUN_NM": "성남시",
+		"CMPNM_NM": "여울목",
+		"INDUTYPE_NM": "",
+		"REFINE_ROADNM_ADDR": "경기도 성남시 수정구 오야남로38번길 14-1",
+		"REFINE_LOTNO_ADDR": "경기도 성남시 수정구 오야동 280-2번지 1층",
+		"TELNO": "031-723-9608",
+		"REFINE_ZIPNO": "13100",
+		"REFINE_WGS84_LAT": "37.4546710897",
+		"REFINE_WGS84_LOGT": "127.1014299368",
+		"DATA_STD_DE": "2020-08-18"
+	},
+	{
+		"SIGUN_NM": "성남시",
+		"CMPNM_NM": "탑건(TOP GUN)",
+		"INDUTYPE_NM": "음식점",
+		"REFINE_ROADNM_ADDR": "경기도 성남시 수정구 대왕판교로 1279",
+		"REFINE_LOTNO_ADDR": "경기도 성남시 수정구 오야동 223-5번지 1층 101호",
+		"TELNO": "",
+		"REFINE_ZIPNO": "13100",
+		"REFINE_WGS84_LAT": "37.4541649031",
+		"REFINE_WGS84_LOGT": "127.1063848738",
+		"DATA_STD_DE": "2020-08-18"
+	},
+	{
+		"SIGUN_NM": "성남시",
+		"CMPNM_NM": "황제능이해신탕",
+		"INDUTYPE_NM": "",
+		"REFINE_ROADNM_ADDR": "경기도 성남시 수정구 오야남로 3",
+		"REFINE_LOTNO_ADDR": "경기도 성남시 수정구 오야동 301-24번지 2층",
+		"TELNO": "031-757-5282",
+		"REFINE_ZIPNO": "13100",
+		"REFINE_WGS84_LAT": "37.4537495654",
+		"REFINE_WGS84_LOGT": "127.1061722279",
+		"DATA_STD_DE": "2020-08-18"
+	}
+]

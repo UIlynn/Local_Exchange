@@ -1,0 +1,110 @@
+[
+	{
+		"SIGUN_NM": "평택시",
+		"CMPNM_NM": "거북헬스",
+		"INDUTYPE_NM": "레저업소-헬스클럽",
+		"REFINE_ROADNM_ADDR": "",
+		"REFINE_LOTNO_ADDR": "경기도 평택시 비전2동 828-9번지",
+		"TELNO": "",
+		"REFINE_ZIPNO": "",
+		"REFINE_WGS84_LAT": "",
+		"REFINE_WGS84_LOGT": "",
+		"DATA_STD_DE": "2020-08-18"
+	},
+	{
+		"SIGUN_NM": "평택시",
+		"CMPNM_NM": "스토리헤어샵",
+		"INDUTYPE_NM": "보건위생-미용원",
+		"REFINE_ROADNM_ADDR": "",
+		"REFINE_LOTNO_ADDR": "경기도 평택시 비전2동 853번지 까치둥지상가 1층",
+		"TELNO": "",
+		"REFINE_ZIPNO": "17900",
+		"REFINE_WGS84_LAT": "36.9920621920",
+		"REFINE_WGS84_LOGT": "127.1096106155",
+		"DATA_STD_DE": "2020-08-18"
+	},
+	{
+		"SIGUN_NM": "평택시",
+		"CMPNM_NM": "신명 떡 방아간",
+		"INDUTYPE_NM": "음료식품-제과점",
+		"REFINE_ROADNM_ADDR": "경기도 평택시 동부공원로 40",
+		"REFINE_LOTNO_ADDR": "경기도 평택시 비전2동 881번지 신명나리아파트 상가 101호",
+		"TELNO": "",
+		"REFINE_ZIPNO": "17873",
+		"REFINE_WGS84_LAT": "36.9932365866",
+		"REFINE_WGS84_LOGT": "127.1187073209",
+		"DATA_STD_DE": "2020-08-18"
+	},
+	{
+		"SIGUN_NM": "평택시",
+		"CMPNM_NM": "신명마트",
+		"INDUTYPE_NM": "유통업 영리-슈퍼마켓",
+		"REFINE_ROADNM_ADDR": "",
+		"REFINE_LOTNO_ADDR": "경기도 평택시 비전2동 881-785번지",
+		"TELNO": "",
+		"REFINE_ZIPNO": "17873",
+		"REFINE_WGS84_LAT": "",
+		"REFINE_WGS84_LOGT": "",
+		"DATA_STD_DE": "2020-08-18"
+	},
+	{
+		"SIGUN_NM": "평택시",
+		"CMPNM_NM": "쎄서미",
+		"INDUTYPE_NM": "의류-아동의류",
+		"REFINE_ROADNM_ADDR": "경기도 평택시 경기대로 269",
+		"REFINE_LOTNO_ADDR": "경기도 평택시 비전2동 830-3번지 씨마1020상가 10-9",
+		"TELNO": "",
+		"REFINE_ZIPNO": "17885",
+		"REFINE_WGS84_LAT": "36.9946873955",
+		"REFINE_WGS84_LOGT": "127.1129798723",
+		"DATA_STD_DE": "2020-08-18"
+	},
+	{
+		"SIGUN_NM": "평택시",
+		"CMPNM_NM": "작품피아노음악학원",
+		"INDUTYPE_NM": "학원-예•체능계학원 ",
+		"REFINE_ROADNM_ADDR": "",
+		"REFINE_LOTNO_ADDR": "경기도 평택시 비전2동 828-1태산신그린아파트상가106,107,202",
+		"TELNO": "",
+		"REFINE_ZIPNO": "",
+		"REFINE_WGS84_LAT": "",
+		"REFINE_WGS84_LOGT": "",
+		"DATA_STD_DE": "2020-08-18"
+	},
+	{
+		"SIGUN_NM": "평택시",
+		"CMPNM_NM": "코사지",
+		"INDUTYPE_NM": "의류-정장",
+		"REFINE_ROADNM_ADDR": "경기도 평택시 경기대로 271",
+		"REFINE_LOTNO_ADDR": "경기도 평택시 비전2동 830-2번지 씨마1020상가 9-56호",
+		"TELNO": "",
+		"REFINE_ZIPNO": "17885",
+		"REFINE_WGS84_LAT": "36.9950110282",
+		"REFINE_WGS84_LOGT": "127.1127085162",
+		"DATA_STD_DE": "2020-08-18"
+	},
+	{
+		"SIGUN_NM": "평택시",
+		"CMPNM_NM": "토끼어린이집[아이행복]",
+		"INDUTYPE_NM": "학원-유아원",
+		"REFINE_ROADNM_ADDR": "경기도 평택시 평택4로 124",
+		"REFINE_LOTNO_ADDR": "경기도 평택시 비전2동 813번지",
+		"TELNO": "",
+		"REFINE_ZIPNO": "17883",
+		"REFINE_WGS84_LAT": "36.9974104129",
+		"REFINE_WGS84_LOGT": "127.1049754827",
+		"DATA_STD_DE": "2020-08-18"
+	},
+	{
+		"SIGUN_NM": "평택시",
+		"CMPNM_NM": "하늘약국",
+		"INDUTYPE_NM": "약국-약국",
+		"REFINE_ROADNM_ADDR": "경기도 평택시 중앙로 165",
+		"REFINE_LOTNO_ADDR": "경기도 평택시 비전2동 761-4번지 ***연번지,5",
+		"TELNO": "",
+		"REFINE_ZIPNO": "17899",
+		"REFINE_WGS84_LAT": "36.9921969974",
+		"REFINE_WGS84_LOGT": "127.1013501767",
+		"DATA_STD_DE": "2020-08-18"
+	}
+]

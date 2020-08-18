@@ -1,0 +1,26 @@
+[
+	{
+		"SIGUN_NM": "수원시",
+		"CMPNM_NM": "성림상회",
+		"INDUTYPE_NM": "음료식품-농•축•수산품",
+		"REFINE_ROADNM_ADDR": "",
+		"REFINE_LOTNO_ADDR": "경기도 수원시 권선구 권선2동 1234-1번지",
+		"TELNO": "",
+		"REFINE_ZIPNO": "",
+		"REFINE_WGS84_LAT": "37.2529043576",
+		"REFINE_WGS84_LOGT": "127.0323350976",
+		"DATA_STD_DE": "2020-08-18"
+	},
+	{
+		"SIGUN_NM": "수원시",
+		"CMPNM_NM": "주경",
+		"INDUTYPE_NM": "음료식품-기타음료식품",
+		"REFINE_ROADNM_ADDR": "경기도 수원시 권선구 경수대로 270",
+		"REFINE_LOTNO_ADDR": "경기도 수원시 권선구 권선2동 1189 수원복합터미널1309-2303",
+		"TELNO": "",
+		"REFINE_ZIPNO": "16585",
+		"REFINE_WGS84_LAT": "37.2504974396",
+		"REFINE_WGS84_LOGT": "127.0208246964",
+		"DATA_STD_DE": "2020-08-18"
+	}
+]

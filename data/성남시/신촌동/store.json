@@ -1,0 +1,38 @@
+[
+	{
+		"SIGUN_NM": "성남시",
+		"CMPNM_NM": "세곡한우마을",
+		"INDUTYPE_NM": "",
+		"REFINE_ROADNM_ADDR": "경기도 성남시 수정구 신촌로4번길 9-3",
+		"REFINE_LOTNO_ADDR": "경기도 성남시 수정구 신촌동 182-1번지 1층",
+		"TELNO": "031-713-0111",
+		"REFINE_ZIPNO": "13101",
+		"REFINE_WGS84_LAT": "37.4605651792",
+		"REFINE_WGS84_LOGT": "127.1065548621",
+		"DATA_STD_DE": "2020-08-18"
+	},
+	{
+		"SIGUN_NM": "성남시",
+		"CMPNM_NM": "스몰하우스 우리집",
+		"INDUTYPE_NM": "",
+		"REFINE_ROADNM_ADDR": "경기도 성남시 수정구 대왕판교로 1333",
+		"REFINE_LOTNO_ADDR": "경기도 성남시 수정구 신촌동 108-2번지",
+		"TELNO": "031-753-9901",
+		"REFINE_ZIPNO": "13101",
+		"REFINE_WGS84_LAT": "37.4590801307",
+		"REFINE_WGS84_LOGT": "127.1072184632",
+		"DATA_STD_DE": "2020-08-18"
+	},
+	{
+		"SIGUN_NM": "성남시",
+		"CMPNM_NM": "풍년떡집",
+		"INDUTYPE_NM": "",
+		"REFINE_ROADNM_ADDR": "경기도 성남시 수정구 대왕판교로 1329",
+		"REFINE_LOTNO_ADDR": "경기도 성남시 수정구 신촌동 110-1번지 1층 일부호(103,104호)",
+		"TELNO": "02-445-1230",
+		"REFINE_ZIPNO": "13101",
+		"REFINE_WGS84_LAT": "37.4586202158",
+		"REFINE_WGS84_LOGT": "127.1071530256",
+		"DATA_STD_DE": "2020-08-18"
+	}
+]

@@ -1,0 +1,38 @@
+[
+	{
+		"SIGUN_NM": "안양시",
+		"CMPNM_NM": "디피아이안양점",
+		"INDUTYPE_NM": "건축자재-페인트",
+		"REFINE_ROADNM_ADDR": "",
+		"REFINE_LOTNO_ADDR": "경기도 안양시 만안구 안양5동 707-115번지",
+		"TELNO": "0314427744",
+		"REFINE_ZIPNO": "13998",
+		"REFINE_WGS84_LAT": "37.3940351595",
+		"REFINE_WGS84_LOGT": "126.9204048497",
+		"DATA_STD_DE": "2020-08-18"
+	},
+	{
+		"SIGUN_NM": "안양시",
+		"CMPNM_NM": "우리한의원",
+		"INDUTYPE_NM": "의원-한의원",
+		"REFINE_ROADNM_ADDR": "",
+		"REFINE_LOTNO_ADDR": "경기도 안양시 만안구 안양5동 707-115",
+		"TELNO": "0314693347",
+		"REFINE_ZIPNO": "13998",
+		"REFINE_WGS84_LAT": "37.3940351595",
+		"REFINE_WGS84_LOGT": "126.9204048497",
+		"DATA_STD_DE": "2020-08-18"
+	},
+	{
+		"SIGUN_NM": "안양시",
+		"CMPNM_NM": "토종옻닭9995",
+		"INDUTYPE_NM": "일반휴게음식-일반한식",
+		"REFINE_ROADNM_ADDR": "경기도 안양시 만안구 장내로120번길 30",
+		"REFINE_LOTNO_ADDR": "경기도 안양시 만안구 안양5동 627-80.81번지1층",
+		"TELNO": "0314684490",
+		"REFINE_ZIPNO": "13997",
+		"REFINE_WGS84_LAT": "37.3955396173",
+		"REFINE_WGS84_LOGT": "126.9220766097",
+		"DATA_STD_DE": "2020-08-18"
+	}
+]

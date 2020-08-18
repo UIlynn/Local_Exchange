@@ -1,0 +1,62 @@
+[
+	{
+		"SIGUN_NM": "의왕시",
+		"CMPNM_NM": "대우예원어린이집[아이행복]",
+		"INDUTYPE_NM": "학원-유아원",
+		"REFINE_ROADNM_ADDR": "경기도 의왕시 부곡복지관길 41",
+		"REFINE_LOTNO_ADDR": "경기도 의왕시 삼동 462-20번지 부곡대우아파트 1층 관리동",
+		"TELNO": "",
+		"REFINE_ZIPNO": "16083",
+		"REFINE_WGS84_LAT": "37.3227373457",
+		"REFINE_WGS84_LOGT": "126.9547565843",
+		"DATA_STD_DE": "2020-08-18"
+	},
+	{
+		"SIGUN_NM": "의왕시",
+		"CMPNM_NM": "대우예원어린이집[아이행복]",
+		"INDUTYPE_NM": "학원-유아원",
+		"REFINE_ROADNM_ADDR": "경기도 의왕시 부곡복지관길 41",
+		"REFINE_LOTNO_ADDR": "경기도 의왕시 삼동 462-20번지 대우이안아파트 관리동 1층",
+		"TELNO": "",
+		"REFINE_ZIPNO": "16083",
+		"REFINE_WGS84_LAT": "37.3227373457",
+		"REFINE_WGS84_LOGT": "126.9547565843",
+		"DATA_STD_DE": "2020-08-18"
+	},
+	{
+		"SIGUN_NM": "의왕시",
+		"CMPNM_NM": "대호체육관",
+		"INDUTYPE_NM": "학원-예•체능계학원 ",
+		"REFINE_ROADNM_ADDR": "경기도 의왕시 부곡복지관길 20",
+		"REFINE_LOTNO_ADDR": "경기도 의왕시 삼동 277-5번지 대우장미아파트 관리동 3층",
+		"TELNO": "",
+		"REFINE_ZIPNO": "16084",
+		"REFINE_WGS84_LAT": "37.3219400773",
+		"REFINE_WGS84_LOGT": "126.9558345718",
+		"DATA_STD_DE": "2020-08-18"
+	},
+	{
+		"SIGUN_NM": "의왕시",
+		"CMPNM_NM": "미래몬테소리어린이집[아이행복]",
+		"INDUTYPE_NM": "학원-유아원",
+		"REFINE_ROADNM_ADDR": "",
+		"REFINE_LOTNO_ADDR": "경기도 의왕시 삼동 대우장미아파트 관리동2층",
+		"TELNO": "",
+		"REFINE_ZIPNO": "",
+		"REFINE_WGS84_LAT": "",
+		"REFINE_WGS84_LOGT": "",
+		"DATA_STD_DE": "2020-08-18"
+	},
+	{
+		"SIGUN_NM": "의왕시",
+		"CMPNM_NM": "푸른솔어린이집[아이행복]",
+		"INDUTYPE_NM": "학원-유아원",
+		"REFINE_ROADNM_ADDR": "경기도 의왕시 부곡복지관길 32",
+		"REFINE_LOTNO_ADDR": "경기도 의왕시 삼동 462-32번지 대우장미아파트 관리동 2층",
+		"TELNO": "",
+		"REFINE_ZIPNO": "16084",
+		"REFINE_WGS84_LAT": "37.3229081040",
+		"REFINE_WGS84_LOGT": "126.9566063775",
+		"DATA_STD_DE": "2020-08-18"
+	}
+]

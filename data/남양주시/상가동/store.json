@@ -1,0 +1,62 @@
+[
+	{
+		"SIGUN_NM": "남양주시",
+		"CMPNM_NM": "다산스타프로태권도체육관",
+		"INDUTYPE_NM": "학원-예•체능계학원 ",
+		"REFINE_ROADNM_ADDR": "",
+		"REFINE_LOTNO_ADDR": "경기도 남양주시 미금로56번길 19도농한신아파트 상가동 208호, 209호, 210호",
+		"TELNO": "",
+		"REFINE_ZIPNO": "",
+		"REFINE_WGS84_LAT": "",
+		"REFINE_WGS84_LOGT": "",
+		"DATA_STD_DE": "2020-08-18"
+	},
+	{
+		"SIGUN_NM": "남양주시",
+		"CMPNM_NM": "닭장수후라이드 다산점",
+		"INDUTYPE_NM": "일반휴게음식-주점",
+		"REFINE_ROADNM_ADDR": "",
+		"REFINE_LOTNO_ADDR": "경기 남양주시 다산지금로16번길 86다산지금센트럴에일린의뜰 상가동 B218호(다산동)",
+		"TELNO": "",
+		"REFINE_ZIPNO": "",
+		"REFINE_WGS84_LAT": "",
+		"REFINE_WGS84_LOGT": "",
+		"DATA_STD_DE": "2020-08-18"
+	},
+	{
+		"SIGUN_NM": "남양주시",
+		"CMPNM_NM": "열두정성합격하는국어논술학원",
+		"INDUTYPE_NM": "학원-보습학원",
+		"REFINE_ROADNM_ADDR": "",
+		"REFINE_LOTNO_ADDR": "경기 남양주시 도농로 32주 상가동 405 (다산동)",
+		"TELNO": "",
+		"REFINE_ZIPNO": "",
+		"REFINE_WGS84_LAT": "",
+		"REFINE_WGS84_LOGT": "",
+		"DATA_STD_DE": "2020-08-18"
+	},
+	{
+		"SIGUN_NM": "남양주시",
+		"CMPNM_NM": "진헤어샵",
+		"INDUTYPE_NM": "보건위생-미용원",
+		"REFINE_ROADNM_ADDR": "",
+		"REFINE_LOTNO_ADDR": "경기 남양주시 천마산로14번길 81층 103호 상가동 (호평동,임광그대가아파트)",
+		"TELNO": "",
+		"REFINE_ZIPNO": "",
+		"REFINE_WGS84_LAT": "",
+		"REFINE_WGS84_LOGT": "",
+		"DATA_STD_DE": "2020-08-18"
+	},
+	{
+		"SIGUN_NM": "남양주시",
+		"CMPNM_NM": "효성할인마트",
+		"INDUTYPE_NM": "유통업 영리-슈퍼마켓",
+		"REFINE_ROADNM_ADDR": "",
+		"REFINE_LOTNO_ADDR": "경기 남양주시 경춘로2248번길 42108동 201~202호(화도 효서해링턴 플레이스 상가동)",
+		"TELNO": "",
+		"REFINE_ZIPNO": "",
+		"REFINE_WGS84_LAT": "",
+		"REFINE_WGS84_LOGT": "",
+		"DATA_STD_DE": "2020-08-18"
+	}
+]

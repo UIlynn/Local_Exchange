@@ -1,0 +1,14 @@
+[
+	{
+		"SIGUN_NM": "성남시",
+		"CMPNM_NM": "공항소플러스",
+		"INDUTYPE_NM": "",
+		"REFINE_ROADNM_ADDR": "경기도 성남시 수정구 심곡로 8",
+		"REFINE_LOTNO_ADDR": "경기도 성남시 수정구 심곡동 257-4번지",
+		"TELNO": "031-755-8238",
+		"REFINE_ZIPNO": "13103",
+		"REFINE_WGS84_LAT": "37.4492367983",
+		"REFINE_WGS84_LOGT": "127.1043982700",
+		"DATA_STD_DE": "2020-08-18"
+	}
+]

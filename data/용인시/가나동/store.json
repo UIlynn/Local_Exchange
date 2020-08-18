@@ -1,0 +1,14 @@
+[
+	{
+		"SIGUN_NM": "용인시",
+		"CMPNM_NM": "아쿠아 100 소파",
+		"INDUTYPE_NM": "가구-일반가구",
+		"REFINE_ROADNM_ADDR": "경기도 용인시 기흥구 언동로125번길 4",
+		"REFINE_LOTNO_ADDR": "경기도 용인시 기흥구 중동 668-15번지 가나동",
+		"TELNO": "",
+		"REFINE_ZIPNO": "16985",
+		"REFINE_WGS84_LAT": "37.2843369051",
+		"REFINE_WGS84_LOGT": "127.1407758695",
+		"DATA_STD_DE": "2020-08-18"
+	}
+]

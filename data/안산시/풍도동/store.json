@@ -1,0 +1,14 @@
+[
+	{
+		"SIGUN_NM": "안산시",
+		"CMPNM_NM": "풍도어촌체험마을",
+		"INDUTYPE_NM": "레저업소-기타레져업소",
+		"REFINE_ROADNM_ADDR": "경기도 안산시 단원구 풍도길 10-1",
+		"REFINE_LOTNO_ADDR": "경기도 안산시 단원구 풍도동 산3번지",
+		"TELNO": "032-858-3317",
+		"REFINE_ZIPNO": "15654",
+		"REFINE_WGS84_LAT": "37.1129586371",
+		"REFINE_WGS84_LOGT": "126.3926881613",
+		"DATA_STD_DE": "2020-08-18"
+	}
+]

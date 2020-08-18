@@ -1,0 +1,26 @@
+[
+	{
+		"SIGUN_NM": "안산시",
+		"CMPNM_NM": "매표소",
+		"INDUTYPE_NM": "신변잡화-기타잡화",
+		"REFINE_ROADNM_ADDR": "",
+		"REFINE_LOTNO_ADDR": "경기도 안산시 단원구 호수동 167-506, 중앙역광장앞",
+		"TELNO": "",
+		"REFINE_ZIPNO": "",
+		"REFINE_WGS84_LAT": "",
+		"REFINE_WGS84_LOGT": "",
+		"DATA_STD_DE": "2020-08-18"
+	},
+	{
+		"SIGUN_NM": "안산시",
+		"CMPNM_NM": "아모스안산점",
+		"INDUTYPE_NM": "보건위생-미용재료",
+		"REFINE_ROADNM_ADDR": "경기도 안산시 단원구 이삭2길 55-6",
+		"REFINE_LOTNO_ADDR": "경기도 안산시 단원구 호수동 740-7번지",
+		"TELNO": "",
+		"REFINE_ZIPNO": "15466",
+		"REFINE_WGS84_LAT": "37.3128268413",
+		"REFINE_WGS84_LOGT": "126.8373491317",
+		"DATA_STD_DE": "2020-08-18"
+	}
+]

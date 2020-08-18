@@ -1,0 +1,62 @@
+[
+	{
+		"SIGUN_NM": "파주시",
+		"CMPNM_NM": "도라산 전망대 카페",
+		"INDUTYPE_NM": "일반휴게음식-서양음식",
+		"REFINE_ROADNM_ADDR": "경기도 파주시 장단면 제3땅굴로 310",
+		"REFINE_LOTNO_ADDR": "경기도 파주시 장단면 도라산리 75-2번지 외3필지",
+		"TELNO": "",
+		"REFINE_ZIPNO": "10800",
+		"REFINE_WGS84_LAT": "37.9089054894",
+		"REFINE_WGS84_LOGT": "126.7048144148",
+		"DATA_STD_DE": "2020-08-18"
+	},
+	{
+		"SIGUN_NM": "파주시",
+		"CMPNM_NM": "도라산식당",
+		"INDUTYPE_NM": "일반휴게음식-일반한식",
+		"REFINE_ROADNM_ADDR": "",
+		"REFINE_LOTNO_ADDR": "경기도 파주시 장단면 도라산리108-38",
+		"TELNO": "",
+		"REFINE_ZIPNO": "10800",
+		"REFINE_WGS84_LAT": "",
+		"REFINE_WGS84_LOGT": "",
+		"DATA_STD_DE": "2020-08-18"
+	},
+	{
+		"SIGUN_NM": "파주시",
+		"CMPNM_NM": "디엠제트산채랑약초랑영농조합법인",
+		"INDUTYPE_NM": "건강식품-인삼제품",
+		"REFINE_ROADNM_ADDR": "",
+		"REFINE_LOTNO_ADDR": "경기도 파주시 장단면 거곡리 산59번지",
+		"TELNO": "",
+		"REFINE_ZIPNO": "",
+		"REFINE_WGS84_LAT": "37.8742394655",
+		"REFINE_WGS84_LOGT": "126.7133166455",
+		"DATA_STD_DE": "2020-08-18"
+	},
+	{
+		"SIGUN_NM": "파주시",
+		"CMPNM_NM": "애니타임",
+		"INDUTYPE_NM": "신변잡화-기념품점",
+		"REFINE_ROADNM_ADDR": "경기도 파주시 장단면 희망로 277",
+		"REFINE_LOTNO_ADDR": "경기도 파주시 장단면 도라산리108",
+		"TELNO": "",
+		"REFINE_ZIPNO": "10800",
+		"REFINE_WGS84_LAT": "37.9031036384",
+		"REFINE_WGS84_LOGT": "126.7090193650",
+		"DATA_STD_DE": "2020-08-18"
+	},
+	{
+		"SIGUN_NM": "파주시",
+		"CMPNM_NM": "참살이DMZ사과뜨락",
+		"INDUTYPE_NM": "음료식품-농•축•수산품",
+		"REFINE_ROADNM_ADDR": "경기도 파주시 장단면 희망로 287",
+		"REFINE_LOTNO_ADDR": "경기도 파주시 장단면 노상리 550번지",
+		"TELNO": "",
+		"REFINE_ZIPNO": "10800",
+		"REFINE_WGS84_LAT": "37.8994339349",
+		"REFINE_WGS84_LOGT": "126.7103076506",
+		"DATA_STD_DE": "2020-08-18"
+	}
+]

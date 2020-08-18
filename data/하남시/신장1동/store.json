@@ -1,0 +1,62 @@
+[
+	{
+		"SIGUN_NM": "하남시",
+		"CMPNM_NM": "공덕상회",
+		"INDUTYPE_NM": "의류-내의판매",
+		"REFINE_ROADNM_ADDR": "",
+		"REFINE_LOTNO_ADDR": "경기도 하남시 신장1동 427-41번지",
+		"TELNO": "",
+		"REFINE_ZIPNO": "12957",
+		"REFINE_WGS84_LAT": "",
+		"REFINE_WGS84_LOGT": "",
+		"DATA_STD_DE": "2020-08-18"
+	},
+	{
+		"SIGUN_NM": "하남시",
+		"CMPNM_NM": "당기자당구장",
+		"INDUTYPE_NM": "레저업소-당 구 장",
+		"REFINE_ROADNM_ADDR": "경기도 하남시 신평로 75",
+		"REFINE_LOTNO_ADDR": "경기도 하남시 신장1동 427-246번지",
+		"TELNO": "",
+		"REFINE_ZIPNO": "12967",
+		"REFINE_WGS84_LAT": "37.5402556129",
+		"REFINE_WGS84_LOGT": "127.2060312072",
+		"DATA_STD_DE": "2020-08-18"
+	},
+	{
+		"SIGUN_NM": "하남시",
+		"CMPNM_NM": "대신상가18호인순양품",
+		"INDUTYPE_NM": "의류-정장",
+		"REFINE_ROADNM_ADDR": "",
+		"REFINE_LOTNO_ADDR": "경기도 하남시 신장1동 410~445",
+		"TELNO": "",
+		"REFINE_ZIPNO": "",
+		"REFINE_WGS84_LAT": "",
+		"REFINE_WGS84_LOGT": "",
+		"DATA_STD_DE": "2020-08-18"
+	},
+	{
+		"SIGUN_NM": "하남시",
+		"CMPNM_NM": "성남식품",
+		"INDUTYPE_NM": "회원제형태-기타4",
+		"REFINE_ROADNM_ADDR": "경기도 하남시 신장1로3번길 72",
+		"REFINE_LOTNO_ADDR": "경기도 하남시 신장1동 427-175번지",
+		"TELNO": "",
+		"REFINE_ZIPNO": "12957",
+		"REFINE_WGS84_LAT": "37.5384786022",
+		"REFINE_WGS84_LOGT": "127.2054948591",
+		"DATA_STD_DE": "2020-08-18"
+	},
+	{
+		"SIGUN_NM": "하남시",
+		"CMPNM_NM": "약속의땅",
+		"INDUTYPE_NM": "일반휴게음식-서양음식",
+		"REFINE_ROADNM_ADDR": "",
+		"REFINE_LOTNO_ADDR": "경기도 하남시 신장1동 419-13번지",
+		"TELNO": "",
+		"REFINE_ZIPNO": "",
+		"REFINE_WGS84_LAT": "",
+		"REFINE_WGS84_LOGT": "",
+		"DATA_STD_DE": "2020-08-18"
+	}
+]

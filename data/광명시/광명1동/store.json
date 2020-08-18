@@ -1,0 +1,26 @@
+[
+	{
+		"SIGUN_NM": "광명시",
+		"CMPNM_NM": "사랑이가득한어린이집[아이행복]",
+		"INDUTYPE_NM": "학원-유아원",
+		"REFINE_ROADNM_ADDR": "경기도 광명시 광일로30번길 4",
+		"REFINE_LOTNO_ADDR": "경기도 광명시 광명1동 대림하이츠빌라 101호",
+		"TELNO": "",
+		"REFINE_ZIPNO": "14212",
+		"REFINE_WGS84_LAT": "37.4843548250",
+		"REFINE_WGS84_LOGT": "126.8598728528",
+		"DATA_STD_DE": "2020-08-18"
+	},
+	{
+		"SIGUN_NM": "광명시",
+		"CMPNM_NM": "소망연세의원",
+		"INDUTYPE_NM": "",
+		"REFINE_ROADNM_ADDR": "경기도 광명시 광일로 45-1",
+		"REFINE_LOTNO_ADDR": "경기도 광명시 광명1동 19-6번지 2,3층",
+		"TELNO": "",
+		"REFINE_ZIPNO": "14208",
+		"REFINE_WGS84_LAT": "37.4853475361",
+		"REFINE_WGS84_LOGT": "126.8617646463",
+		"DATA_STD_DE": "2020-08-18"
+	}
+]

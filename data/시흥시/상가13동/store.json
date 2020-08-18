@@ -1,0 +1,26 @@
+[
+	{
+		"SIGUN_NM": "시흥시",
+		"CMPNM_NM": "신현타이거즈태권도",
+		"INDUTYPE_NM": "교육서비스업",
+		"REFINE_ROADNM_ADDR": "경기도 시흥시 신현로38번길 21",
+		"REFINE_LOTNO_ADDR": "경기도 시흥시 포동 13-3번지 태산아파트 상가13동 302호",
+		"TELNO": "",
+		"REFINE_ZIPNO": "14957",
+		"REFINE_WGS84_LAT": "37.4070791461",
+		"REFINE_WGS84_LOGT": "126.7840686151",
+		"DATA_STD_DE": "2020-08-18"
+	},
+	{
+		"SIGUN_NM": "시흥시",
+		"CMPNM_NM": "헤어코디",
+		"INDUTYPE_NM": "개인서비스업",
+		"REFINE_ROADNM_ADDR": "경기도 시흥시 신현로38번길 21",
+		"REFINE_LOTNO_ADDR": "경기도 시흥시 포동 13-3번지 태산아파트 상가13동 13동 106호",
+		"TELNO": "",
+		"REFINE_ZIPNO": "14957",
+		"REFINE_WGS84_LAT": "37.4070791461",
+		"REFINE_WGS84_LOGT": "126.7840686151",
+		"DATA_STD_DE": "2020-08-18"
+	}
+]

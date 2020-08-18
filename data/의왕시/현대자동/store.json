@@ -1,0 +1,14 @@
+[
+	{
+		"SIGUN_NM": "의왕시",
+		"CMPNM_NM": "주식회사 오성상사",
+		"INDUTYPE_NM": "서적문구-문구용품",
+		"REFINE_ROADNM_ADDR": "경기도 의왕시 철도박물관로 37",
+		"REFINE_LOTNO_ADDR": "경기도 의왕시 삼동 576번지 현대자동차그룹의왕연구소 지하2층",
+		"TELNO": "",
+		"REFINE_ZIPNO": "16082",
+		"REFINE_WGS84_LAT": "37.3250709609",
+		"REFINE_WGS84_LOGT": "126.9525951795",
+		"DATA_STD_DE": "2020-08-18"
+	}
+]

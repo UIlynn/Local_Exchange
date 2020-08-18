@@ -1,0 +1,62 @@
+[
+	{
+		"SIGUN_NM": "안산시",
+		"CMPNM_NM": "구반월(최고)대리운전",
+		"INDUTYPE_NM": "보건위생-기타대인서비스",
+		"REFINE_ROADNM_ADDR": "경기도 안산시 상록구 오목로14길 4-4",
+		"REFINE_LOTNO_ADDR": "경기도 안산시 상록구 본오2동 739-4번지 삼익한마을맨션 103동 102호",
+		"TELNO": "",
+		"REFINE_ZIPNO": "15547",
+		"REFINE_WGS84_LAT": "37.2938250207",
+		"REFINE_WGS84_LOGT": "126.8770491932",
+		"DATA_STD_DE": "2020-08-18"
+	},
+	{
+		"SIGUN_NM": "안산시",
+		"CMPNM_NM": "상록이비인후과",
+		"INDUTYPE_NM": "의원-의원",
+		"REFINE_ROADNM_ADDR": "경기도 안산시 상록구 샘골로 140",
+		"REFINE_LOTNO_ADDR": "경기도 안산시 상록구 본오2동 871-3번지 1층 103,104,105호",
+		"TELNO": "",
+		"REFINE_ZIPNO": "15541",
+		"REFINE_WGS84_LAT": "37.2962217576",
+		"REFINE_WGS84_LOGT": "126.8633209306",
+		"DATA_STD_DE": "2020-08-18"
+	},
+	{
+		"SIGUN_NM": "안산시",
+		"CMPNM_NM": "성영진스튜디오",
+		"INDUTYPE_NM": "광학제품-사진관",
+		"REFINE_ROADNM_ADDR": "",
+		"REFINE_LOTNO_ADDR": "경기도 안산시 상록구 본오2동 871-1,201번지",
+		"TELNO": "",
+		"REFINE_ZIPNO": "15541",
+		"REFINE_WGS84_LAT": "37.2966096988",
+		"REFINE_WGS84_LOGT": "126.8633853575",
+		"DATA_STD_DE": "2020-08-18"
+	},
+	{
+		"SIGUN_NM": "안산시",
+		"CMPNM_NM": "신안상회",
+		"INDUTYPE_NM": "의류-내의판매",
+		"REFINE_ROADNM_ADDR": "경기도 안산시 상록구 반석로 44",
+		"REFINE_LOTNO_ADDR": "경기도 안산시 상록구 본오2동 871번지 신안프라자 165호 BYC",
+		"TELNO": "",
+		"REFINE_ZIPNO": "15541",
+		"REFINE_WGS84_LAT": "37.2951306668",
+		"REFINE_WGS84_LOGT": "126.8649209658",
+		"DATA_STD_DE": "2020-08-18"
+	},
+	{
+		"SIGUN_NM": "안산시",
+		"CMPNM_NM": "현대공조",
+		"INDUTYPE_NM": "전기제품-냉열기기",
+		"REFINE_ROADNM_ADDR": "경기도 안산시 상록구 각골로 106",
+		"REFINE_LOTNO_ADDR": "경기도 안산시 상록구 본오2동 759-4번지 1층 102,103호",
+		"TELNO": "",
+		"REFINE_ZIPNO": "15546",
+		"REFINE_WGS84_LAT": "37.2988699025",
+		"REFINE_WGS84_LOGT": "126.8730923480",
+		"DATA_STD_DE": "2020-08-18"
+	}
+]

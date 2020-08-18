@@ -1,0 +1,26 @@
+[
+	{
+		"SIGUN_NM": "성남시",
+		"CMPNM_NM": "용문상회",
+		"INDUTYPE_NM": "",
+		"REFINE_ROADNM_ADDR": "경기도 성남시 수정구 수정로 109",
+		"REFINE_LOTNO_ADDR": "경기도 성남시 수정구 태평3동 3681",
+		"TELNO": "031-000-0000",
+		"REFINE_ZIPNO": "13305",
+		"REFINE_WGS84_LAT": "37.4414032743",
+		"REFINE_WGS84_LOGT": "127.1321131586",
+		"DATA_STD_DE": "2020-08-18"
+	},
+	{
+		"SIGUN_NM": "성남시",
+		"CMPNM_NM": "우리생선",
+		"INDUTYPE_NM": "",
+		"REFINE_ROADNM_ADDR": "경기도 성남시 수정구 수정로 109",
+		"REFINE_LOTNO_ADDR": "경기도 성남시 수정구 태평3동 3681",
+		"TELNO": "031-755-3976",
+		"REFINE_ZIPNO": "13305",
+		"REFINE_WGS84_LAT": "37.4414032743",
+		"REFINE_WGS84_LOGT": "127.1321131586",
+		"DATA_STD_DE": "2020-08-18"
+	}
+]

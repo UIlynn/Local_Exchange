@@ -1,0 +1,74 @@
+[
+	{
+		"SIGUN_NM": "수원시",
+		"CMPNM_NM": "두죤아이",
+		"INDUTYPE_NM": "보건위생-미용재료",
+		"REFINE_ROADNM_ADDR": "경기도 수원시 영통구 매영로 84",
+		"REFINE_LOTNO_ADDR": "경기도 수원시 영통구 매탄4동 1217-7번지 한국2차아파트 112동 502",
+		"TELNO": "",
+		"REFINE_ZIPNO": "16542",
+		"REFINE_WGS84_LAT": "37.2673370787",
+		"REFINE_WGS84_LOGT": "127.0511248108",
+		"DATA_STD_DE": "2020-08-18"
+	},
+	{
+		"SIGUN_NM": "수원시",
+		"CMPNM_NM": "미쳐버린파닭",
+		"INDUTYPE_NM": "일반휴게음식-주점",
+		"REFINE_ROADNM_ADDR": "경기도 수원시 영통구 매영로 84",
+		"REFINE_LOTNO_ADDR": "경기도 수원시 영통구 매탄4동 1217번지 한국2차아파트 상가 119호",
+		"TELNO": "",
+		"REFINE_ZIPNO": "16542",
+		"REFINE_WGS84_LAT": "37.2682317690",
+		"REFINE_WGS84_LOGT": "127.0493600342",
+		"DATA_STD_DE": "2020-08-18"
+	},
+	{
+		"SIGUN_NM": "수원시",
+		"CMPNM_NM": "성일세탁소",
+		"INDUTYPE_NM": "수리서비스-세탁소",
+		"REFINE_ROADNM_ADDR": "경기도 수원시 영통구 인계로 239",
+		"REFINE_LOTNO_ADDR": "경기도 수원시 영통구 매탄4동 810-4번지 매탄성일아파트 성일상가 104호",
+		"TELNO": "",
+		"REFINE_ZIPNO": "16537",
+		"REFINE_WGS84_LAT": "37.2649890460",
+		"REFINE_WGS84_LOGT": "127.0429057047",
+		"DATA_STD_DE": "2020-08-18"
+	},
+	{
+		"SIGUN_NM": "수원시",
+		"CMPNM_NM": "아쿠아한일토탈",
+		"INDUTYPE_NM": "전기제품-가전제품",
+		"REFINE_ROADNM_ADDR": "",
+		"REFINE_LOTNO_ADDR": "경기도 수원시 영통구 매탄4동 205-59,103번지",
+		"TELNO": "",
+		"REFINE_ZIPNO": "16540",
+		"REFINE_WGS84_LAT": "37.2665233569",
+		"REFINE_WGS84_LOGT": "127.0481070375",
+		"DATA_STD_DE": "2020-08-18"
+	},
+	{
+		"SIGUN_NM": "수원시",
+		"CMPNM_NM": "오토오아시스",
+		"INDUTYPE_NM": "자동차정비 유지-자동차정비",
+		"REFINE_ROADNM_ADDR": "",
+		"REFINE_LOTNO_ADDR": "경기도 수원시 영통구 매탄4동 825-5번지",
+		"TELNO": "",
+		"REFINE_ZIPNO": "16541",
+		"REFINE_WGS84_LAT": "",
+		"REFINE_WGS84_LOGT": "",
+		"DATA_STD_DE": "2020-08-18"
+	},
+	{
+		"SIGUN_NM": "수원시",
+		"CMPNM_NM": "혜원어린이집[아이행복]",
+		"INDUTYPE_NM": "학원-유아원",
+		"REFINE_ROADNM_ADDR": "경기도 수원시 영통구 동수원로 432",
+		"REFINE_LOTNO_ADDR": "경기도 수원시 영통구 매탄4동 810-2번지 동남아파트관리동",
+		"TELNO": "",
+		"REFINE_ZIPNO": "16537",
+		"REFINE_WGS84_LAT": "37.2661476312",
+		"REFINE_WGS84_LOGT": "127.0441505946",
+		"DATA_STD_DE": "2020-08-18"
+	}
+]

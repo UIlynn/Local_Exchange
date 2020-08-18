@@ -1,0 +1,62 @@
+[
+	{
+		"SIGUN_NM": "수원시",
+		"CMPNM_NM": "동수원초등학교병설유치원[아이행복]",
+		"INDUTYPE_NM": "학원-유치원",
+		"REFINE_ROADNM_ADDR": "경기도 수원시 영통구 인계로189번길 83",
+		"REFINE_LOTNO_ADDR": "경기도 수원시 영통구 매탄1동 898",
+		"TELNO": "",
+		"REFINE_ZIPNO": "16535",
+		"REFINE_WGS84_LAT": "37.2695317692",
+		"REFINE_WGS84_LOGT": "127.0404984147",
+		"DATA_STD_DE": "2020-08-18"
+	},
+	{
+		"SIGUN_NM": "수원시",
+		"CMPNM_NM": "소천한의원",
+		"INDUTYPE_NM": "의원-한의원",
+		"REFINE_ROADNM_ADDR": "경기도 수원시 영통구 중부대로246번길 47",
+		"REFINE_LOTNO_ADDR": "경기도 수원시 영통구 매탄1동 172-68번지소천한의원2층",
+		"TELNO": "",
+		"REFINE_ZIPNO": "16531",
+		"REFINE_WGS84_LAT": "37.2728993532",
+		"REFINE_WGS84_LOGT": "127.0418878633",
+		"DATA_STD_DE": "2020-08-18"
+	},
+	{
+		"SIGUN_NM": "수원시",
+		"CMPNM_NM": "영생슈퍼",
+		"INDUTYPE_NM": "유통업 영리-슈퍼마켓",
+		"REFINE_ROADNM_ADDR": "",
+		"REFINE_LOTNO_ADDR": "경기도 수원시 영통구 매탄1동 907-1번지 주공4단지상가 6",
+		"TELNO": "",
+		"REFINE_ZIPNO": "",
+		"REFINE_WGS84_LAT": "37.2701024709",
+		"REFINE_WGS84_LOGT": "127.0412259630",
+		"DATA_STD_DE": "2020-08-18"
+	},
+	{
+		"SIGUN_NM": "수원시",
+		"CMPNM_NM": "월드그린",
+		"INDUTYPE_NM": "신변잡화-기타잡화",
+		"REFINE_ROADNM_ADDR": "경기도 수원시 영통구 동수원로 491-11",
+		"REFINE_LOTNO_ADDR": "경기도 수원시 영통구 매탄1동 101-56선우장미연립103-206",
+		"TELNO": "",
+		"REFINE_ZIPNO": "16531",
+		"REFINE_WGS84_LAT": "37.2720240642",
+		"REFINE_WGS84_LOGT": "127.0439798167",
+		"DATA_STD_DE": "2020-08-18"
+	},
+	{
+		"SIGUN_NM": "수원시",
+		"CMPNM_NM": "자연어린이집[아이행복]",
+		"INDUTYPE_NM": "학원-유아원",
+		"REFINE_ROADNM_ADDR": "경기도 수원시 영통구 인계로 165",
+		"REFINE_LOTNO_ADDR": "경기도 수원시 영통구 매탄1동 897번지 매탄주공5단지아파트 518동 102호",
+		"TELNO": "",
+		"REFINE_ZIPNO": "16535",
+		"REFINE_WGS84_LAT": "37.2684817009",
+		"REFINE_WGS84_LOGT": "127.0370422475",
+		"DATA_STD_DE": "2020-08-18"
+	}
+]

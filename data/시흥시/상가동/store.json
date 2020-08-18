@@ -1,0 +1,50 @@
+[
+	{
+		"SIGUN_NM": "시흥시",
+		"CMPNM_NM": "나눔공인중개사",
+		"INDUTYPE_NM": "개인서비스업",
+		"REFINE_ROADNM_ADDR": "경기도 시흥시 신현로14번길 2",
+		"REFINE_LOTNO_ADDR": "경기도 시흥시 포동 2번지 태헌신관2차아파트 상가동 1층 101호",
+		"TELNO": "",
+		"REFINE_ZIPNO": "14957",
+		"REFINE_WGS84_LAT": "37.4080823924",
+		"REFINE_WGS84_LOGT": "126.7875053908",
+		"DATA_STD_DE": "2020-08-18"
+	},
+	{
+		"SIGUN_NM": "시흥시",
+		"CMPNM_NM": "성문스터디학원",
+		"INDUTYPE_NM": "교육서비스업",
+		"REFINE_ROADNM_ADDR": "경기도 시흥시 신현로12번길 30",
+		"REFINE_LOTNO_ADDR": "경기도 시흥시 포동 1-63번지 서강아파트 상가동 201호",
+		"TELNO": "",
+		"REFINE_ZIPNO": "14957",
+		"REFINE_WGS84_LAT": "37.4087336724",
+		"REFINE_WGS84_LOGT": "126.7849003338",
+		"DATA_STD_DE": "2020-08-18"
+	},
+	{
+		"SIGUN_NM": "시흥시",
+		"CMPNM_NM": "풍천파장어",
+		"INDUTYPE_NM": "음식점업",
+		"REFINE_ROADNM_ADDR": "경기도 시흥시 신현로14번길 2",
+		"REFINE_LOTNO_ADDR": "경기도 시흥시 포동 2번지 태헌신관2차아파트 상가동 1층 101호",
+		"TELNO": "",
+		"REFINE_ZIPNO": "14957",
+		"REFINE_WGS84_LAT": "37.4080823924",
+		"REFINE_WGS84_LOGT": "126.7875053908",
+		"DATA_STD_DE": "2020-08-18"
+	},
+	{
+		"SIGUN_NM": "시흥시",
+		"CMPNM_NM": "해나무한의원",
+		"INDUTYPE_NM": "보건업",
+		"REFINE_ROADNM_ADDR": "경기도 시흥시 신현로14번길 2",
+		"REFINE_LOTNO_ADDR": "경기도 시흥시 포동 2번지 상가동 201호",
+		"TELNO": "",
+		"REFINE_ZIPNO": "14957",
+		"REFINE_WGS84_LAT": "37.4080823924",
+		"REFINE_WGS84_LOGT": "126.7875053908",
+		"DATA_STD_DE": "2020-08-18"
+	}
+]

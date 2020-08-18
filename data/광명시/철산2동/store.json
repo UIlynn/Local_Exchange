@@ -1,0 +1,110 @@
+[
+	{
+		"SIGUN_NM": "광명시",
+		"CMPNM_NM": "김밥하우스",
+		"INDUTYPE_NM": "일반휴게음식-스넥",
+		"REFINE_ROADNM_ADDR": "경기도 광명시 연서로 4",
+		"REFINE_LOTNO_ADDR": "경기도 광명시 철산2동 163-5 1층",
+		"TELNO": "",
+		"REFINE_ZIPNO": "14215",
+		"REFINE_WGS84_LAT": "37.4807629746",
+		"REFINE_WGS84_LOGT": "126.8640544140",
+		"DATA_STD_DE": "2020-08-18"
+	},
+	{
+		"SIGUN_NM": "광명시",
+		"CMPNM_NM": "럭키화장품",
+		"INDUTYPE_NM": "보건위생-화장품",
+		"REFINE_ROADNM_ADDR": "",
+		"REFINE_LOTNO_ADDR": "경기도 광명시 철산2동 주공10단지가상가 116호",
+		"TELNO": "",
+		"REFINE_ZIPNO": "",
+		"REFINE_WGS84_LAT": "",
+		"REFINE_WGS84_LOGT": "",
+		"DATA_STD_DE": "2020-08-18"
+	},
+	{
+		"SIGUN_NM": "광명시",
+		"CMPNM_NM": "본전숯불갈비",
+		"INDUTYPE_NM": "일반휴게음식-일반한식",
+		"REFINE_ROADNM_ADDR": "",
+		"REFINE_LOTNO_ADDR": "경기도 광명시 철산2동 91-33번지",
+		"TELNO": "",
+		"REFINE_ZIPNO": "14226",
+		"REFINE_WGS84_LAT": "",
+		"REFINE_WGS84_LOGT": "",
+		"DATA_STD_DE": "2020-08-18"
+	},
+	{
+		"SIGUN_NM": "광명시",
+		"CMPNM_NM": "싸마트",
+		"INDUTYPE_NM": "유통업 영리-슈퍼마켓",
+		"REFINE_ROADNM_ADDR": "경기도 광명시 연서일로9번길 15",
+		"REFINE_LOTNO_ADDR": "경기도 광명시 철산2동 167번지 도덕파크타운제가상가동 3층 303호",
+		"TELNO": "",
+		"REFINE_ZIPNO": "14215",
+		"REFINE_WGS84_LAT": "37.4814748908",
+		"REFINE_WGS84_LOGT": "126.8640257592",
+		"DATA_STD_DE": "2020-08-18"
+	},
+	{
+		"SIGUN_NM": "광명시",
+		"CMPNM_NM": "안양대교식당",
+		"INDUTYPE_NM": "일반휴게음식-일반한식",
+		"REFINE_ROADNM_ADDR": "",
+		"REFINE_LOTNO_ADDR": "경기도 광명시 철산2동 단독필지210-5",
+		"TELNO": "",
+		"REFINE_ZIPNO": "14216",
+		"REFINE_WGS84_LAT": "37.4799356519",
+		"REFINE_WGS84_LOGT": "126.8637870216",
+		"DATA_STD_DE": "2020-08-18"
+	},
+	{
+		"SIGUN_NM": "광명시",
+		"CMPNM_NM": "인스튜디오광명점",
+		"INDUTYPE_NM": "광학제품-사진관",
+		"REFINE_ROADNM_ADDR": "경기도 광명시 오리로 902",
+		"REFINE_LOTNO_ADDR": "경기도 광명시 철산2동 220-2번지 금산빌딩 701",
+		"TELNO": "",
+		"REFINE_ZIPNO": "14222",
+		"REFINE_WGS84_LAT": "37.4772863957",
+		"REFINE_WGS84_LOGT": "126.8628737193",
+		"DATA_STD_DE": "2020-08-18"
+	},
+	{
+		"SIGUN_NM": "광명시",
+		"CMPNM_NM": "자르지오",
+		"INDUTYPE_NM": "보건위생-미용원",
+		"REFINE_ROADNM_ADDR": "경기도 광명시 시청로 11",
+		"REFINE_LOTNO_ADDR": "경기도 광명시 철산2동 463-16번지 동원빌딩 1층 1호",
+		"TELNO": "",
+		"REFINE_ZIPNO": "14216",
+		"REFINE_WGS84_LAT": "37.4780012382",
+		"REFINE_WGS84_LOGT": "126.8633879097",
+		"DATA_STD_DE": "2020-08-18"
+	},
+	{
+		"SIGUN_NM": "광명시",
+		"CMPNM_NM": "철산(백양)상회",
+		"INDUTYPE_NM": "의류-내의판매",
+		"REFINE_ROADNM_ADDR": "",
+		"REFINE_LOTNO_ADDR": "경기도 광명시 철산2동 주공10단지상가 114호",
+		"TELNO": "",
+		"REFINE_ZIPNO": "",
+		"REFINE_WGS84_LAT": "",
+		"REFINE_WGS84_LOGT": "",
+		"DATA_STD_DE": "2020-08-18"
+	},
+	{
+		"SIGUN_NM": "광명시",
+		"CMPNM_NM": "행복꽃집",
+		"INDUTYPE_NM": "문화.취미-화원",
+		"REFINE_ROADNM_ADDR": "",
+		"REFINE_LOTNO_ADDR": "경기도 광명시 철산2동 155-3번지 10단지상가",
+		"TELNO": "",
+		"REFINE_ZIPNO": "",
+		"REFINE_WGS84_LAT": "",
+		"REFINE_WGS84_LOGT": "",
+		"DATA_STD_DE": "2020-08-18"
+	}
+]

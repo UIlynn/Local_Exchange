@@ -1,0 +1,86 @@
+[
+	{
+		"SIGUN_NM": "여주시",
+		"CMPNM_NM": "대한예수교장로회광주본양교회",
+		"INDUTYPE_NM": "회원제형태-기타4",
+		"REFINE_ROADNM_ADDR": "",
+		"REFINE_LOTNO_ADDR": "경기도 여주시 하거동 485-17",
+		"TELNO": "",
+		"REFINE_ZIPNO": "12658",
+		"REFINE_WGS84_LAT": "37.2325061377",
+		"REFINE_WGS84_LOGT": "127.6266140064",
+		"DATA_STD_DE": "2020-08-18"
+	},
+	{
+		"SIGUN_NM": "여주시",
+		"CMPNM_NM": "미락골",
+		"INDUTYPE_NM": "일반휴게음식-일반한식",
+		"REFINE_ROADNM_ADDR": "경기도 여주시 가여로 490",
+		"REFINE_LOTNO_ADDR": "경기도 여주시 하거동 481-5번지",
+		"TELNO": "",
+		"REFINE_ZIPNO": "12658",
+		"REFINE_WGS84_LAT": "37.2308291314",
+		"REFINE_WGS84_LOGT": "127.6267101662",
+		"DATA_STD_DE": "2020-08-18"
+	},
+	{
+		"SIGUN_NM": "여주시",
+		"CMPNM_NM": "지미당",
+		"INDUTYPE_NM": "음료식품-기타음료식품",
+		"REFINE_ROADNM_ADDR": "경기도 여주시 하거1길 4",
+		"REFINE_LOTNO_ADDR": "경기도 여주시 하거동 183-1번지",
+		"TELNO": "",
+		"REFINE_ZIPNO": "12658",
+		"REFINE_WGS84_LAT": "37.2314710681",
+		"REFINE_WGS84_LOGT": "127.6409493343",
+		"DATA_STD_DE": "2020-08-18"
+	},
+	{
+		"SIGUN_NM": "여주시",
+		"CMPNM_NM": "카페2B",
+		"INDUTYPE_NM": "일반휴게음식-서양음식",
+		"REFINE_ROADNM_ADDR": "경기도 여주시 하거3길 61-70",
+		"REFINE_LOTNO_ADDR": "경기도 여주시 하거동 405번지",
+		"TELNO": "",
+		"REFINE_ZIPNO": "12658",
+		"REFINE_WGS84_LAT": "37.2232154223",
+		"REFINE_WGS84_LOGT": "127.6398969457",
+		"DATA_STD_DE": "2020-08-18"
+	},
+	{
+		"SIGUN_NM": "여주시",
+		"CMPNM_NM": "클론엔에스",
+		"INDUTYPE_NM": "사무통신-컴퓨터",
+		"REFINE_ROADNM_ADDR": "경기도 여주시 북벌로 53",
+		"REFINE_LOTNO_ADDR": "경기도 여주시 하거동 588-14번지",
+		"TELNO": "",
+		"REFINE_ZIPNO": "12658",
+		"REFINE_WGS84_LAT": "37.2363570125",
+		"REFINE_WGS84_LOGT": "127.6328750006",
+		"DATA_STD_DE": "2020-08-18"
+	},
+	{
+		"SIGUN_NM": "여주시",
+		"CMPNM_NM": "하거농원",
+		"INDUTYPE_NM": "음료식품-농•축•수산품",
+		"REFINE_ROADNM_ADDR": "",
+		"REFINE_LOTNO_ADDR": "경기도 여주시 하거동 497-1번지 .2.3",
+		"TELNO": "",
+		"REFINE_ZIPNO": "12658",
+		"REFINE_WGS84_LAT": "37.2301414994",
+		"REFINE_WGS84_LOGT": "127.6307750293",
+		"DATA_STD_DE": "2020-08-18"
+	},
+	{
+		"SIGUN_NM": "여주시",
+		"CMPNM_NM": "하거리집",
+		"INDUTYPE_NM": "일반휴게음식-일반한식",
+		"REFINE_ROADNM_ADDR": "경기도 여주시 북벌로 18-1",
+		"REFINE_LOTNO_ADDR": "경기도 여주시 하거동 570-6번지",
+		"TELNO": "",
+		"REFINE_ZIPNO": "12658",
+		"REFINE_WGS84_LAT": "37.2342897034",
+		"REFINE_WGS84_LOGT": "127.6355995965",
+		"DATA_STD_DE": "2020-08-18"
+	}
+]

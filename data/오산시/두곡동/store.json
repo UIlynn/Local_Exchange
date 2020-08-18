@@ -1,0 +1,110 @@
+[
+	{
+		"SIGUN_NM": "오산시",
+		"CMPNM_NM": "(주)에스지티",
+		"INDUTYPE_NM": "용역 서비스-기타용역서비스",
+		"REFINE_ROADNM_ADDR": "경기도 오산시 두곡로 18-17",
+		"REFINE_LOTNO_ADDR": "경기도 오산시 두곡동 67-8번지 2층",
+		"TELNO": "031-375-2800",
+		"REFINE_ZIPNO": "18128",
+		"REFINE_WGS84_LAT": "37.1316303739",
+		"REFINE_WGS84_LOGT": "127.0463435246",
+		"DATA_STD_DE": "2020-08-18"
+	},
+	{
+		"SIGUN_NM": "오산시",
+		"CMPNM_NM": "까막셀프주유소",
+		"INDUTYPE_NM": "연료판매점-현대정유(오일뱅크)",
+		"REFINE_ROADNM_ADDR": "경기도 오산시 남부대로 40",
+		"REFINE_LOTNO_ADDR": "경기도 오산시 두곡동 산11-3번지 1층",
+		"TELNO": "031-374-5154",
+		"REFINE_ZIPNO": "18128",
+		"REFINE_WGS84_LAT": "37.1349321779",
+		"REFINE_WGS84_LOGT": "127.0400076226",
+		"DATA_STD_DE": "2020-08-18"
+	},
+	{
+		"SIGUN_NM": "오산시",
+		"CMPNM_NM": "대명산업개발자원",
+		"INDUTYPE_NM": "용역 서비스-종합용역",
+		"REFINE_ROADNM_ADDR": "경기도 오산시 두곡로 26",
+		"REFINE_LOTNO_ADDR": "경기도 오산시 두곡동 70번지",
+		"TELNO": "",
+		"REFINE_ZIPNO": "18128",
+		"REFINE_WGS84_LAT": "37.1317239137",
+		"REFINE_WGS84_LOGT": "127.0472323744",
+		"DATA_STD_DE": "2020-08-18"
+	},
+	{
+		"SIGUN_NM": "오산시",
+		"CMPNM_NM": "대명자동차공업사",
+		"INDUTYPE_NM": "자동차정비 유지-자동차정비",
+		"REFINE_ROADNM_ADDR": "",
+		"REFINE_LOTNO_ADDR": "경기 오산시 서부로2번길 83(두곡동)",
+		"TELNO": "031-378-8552",
+		"REFINE_ZIPNO": "",
+		"REFINE_WGS84_LAT": "",
+		"REFINE_WGS84_LOGT": "",
+		"DATA_STD_DE": "2020-08-18"
+	},
+	{
+		"SIGUN_NM": "오산시",
+		"CMPNM_NM": "디앤씨전산",
+		"INDUTYPE_NM": "사무통신-사무용 OA기기",
+		"REFINE_ROADNM_ADDR": "",
+		"REFINE_LOTNO_ADDR": "경기 오산시 서부로2번길 47(두곡동)",
+		"TELNO": "031-375-1009",
+		"REFINE_ZIPNO": "",
+		"REFINE_WGS84_LAT": "",
+		"REFINE_WGS84_LOGT": "",
+		"DATA_STD_DE": "2020-08-18"
+	},
+	{
+		"SIGUN_NM": "오산시",
+		"CMPNM_NM": "백두산",
+		"INDUTYPE_NM": "일반휴게음식-일반한식",
+		"REFINE_ROADNM_ADDR": "경기도 오산시 남부대로 44",
+		"REFINE_LOTNO_ADDR": "경기도 오산시 두곡동 8-1번지 1층",
+		"TELNO": "",
+		"REFINE_ZIPNO": "18128",
+		"REFINE_WGS84_LAT": "37.1345565611",
+		"REFINE_WGS84_LOGT": "127.0407754914",
+		"DATA_STD_DE": "2020-08-18"
+	},
+	{
+		"SIGUN_NM": "오산시",
+		"CMPNM_NM": "제이앤에스(J&S)풋볼아카데미",
+		"INDUTYPE_NM": "학원-예•체능계학원 ",
+		"REFINE_ROADNM_ADDR": "경기도 오산시 서부로 31-28",
+		"REFINE_LOTNO_ADDR": "경기도 오산시 두곡동 148-2번지",
+		"TELNO": "",
+		"REFINE_ZIPNO": "18128",
+		"REFINE_WGS84_LAT": "37.1294907277",
+		"REFINE_WGS84_LOGT": "127.0408061030",
+		"DATA_STD_DE": "2020-08-18"
+	},
+	{
+		"SIGUN_NM": "오산시",
+		"CMPNM_NM": "주식회사 금광모터스",
+		"INDUTYPE_NM": "자동차정비 유지-자동차정비",
+		"REFINE_ROADNM_ADDR": "경기도 오산시 남부대로 46",
+		"REFINE_LOTNO_ADDR": "경기도 오산시 두곡동 8-3번지 B동",
+		"TELNO": "031-373-0831",
+		"REFINE_ZIPNO": "18128",
+		"REFINE_WGS84_LAT": "37.1343135337",
+		"REFINE_WGS84_LOGT": "127.0408670298",
+		"DATA_STD_DE": "2020-08-18"
+	},
+	{
+		"SIGUN_NM": "오산시",
+		"CMPNM_NM": "카인",
+		"INDUTYPE_NM": "자동차정비 유지-카인테리어",
+		"REFINE_ROADNM_ADDR": "",
+		"REFINE_LOTNO_ADDR": "경기 오산시 서부로2번길 83(두곡동)",
+		"TELNO": "031-378-8450",
+		"REFINE_ZIPNO": "",
+		"REFINE_WGS84_LAT": "",
+		"REFINE_WGS84_LOGT": "",
+		"DATA_STD_DE": "2020-08-18"
+	}
+]

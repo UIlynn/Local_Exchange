@@ -1,0 +1,26 @@
+[
+	{
+		"SIGUN_NM": "수원시",
+		"CMPNM_NM": "법무법인 홍재",
+		"INDUTYPE_NM": "용역 서비스-법률회계서비스(법인)",
+		"REFINE_ROADNM_ADDR": "경기도 수원시 영통구 광교중앙로248번길 7-2",
+		"REFINE_LOTNO_ADDR": "경기도 수원시 영통구 하동 989번지 제비동 801호,802호",
+		"TELNO": "",
+		"REFINE_ZIPNO": "16512",
+		"REFINE_WGS84_LAT": "37.2910295210",
+		"REFINE_WGS84_LOGT": "127.0666661168",
+		"DATA_STD_DE": "2020-08-18"
+	},
+	{
+		"SIGUN_NM": "수원시",
+		"CMPNM_NM": "법무법인 홍재",
+		"INDUTYPE_NM": "용역 서비스-법률회계서비스(법인)",
+		"REFINE_ROADNM_ADDR": "경기도 수원시 영통구 광교중앙로248번길 7-2",
+		"REFINE_LOTNO_ADDR": "경기도 수원시 영통구 하동 989번지 제비동 801,802호",
+		"TELNO": "",
+		"REFINE_ZIPNO": "16512",
+		"REFINE_WGS84_LAT": "37.2910295210",
+		"REFINE_WGS84_LOGT": "127.0666661168",
+		"DATA_STD_DE": "2020-08-18"
+	}
+]

@@ -1,0 +1,98 @@
+[
+	{
+		"SIGUN_NM": "고양시",
+		"CMPNM_NM": "동화상사",
+		"INDUTYPE_NM": "레져용품-스포츠•레져용품",
+		"REFINE_ROADNM_ADDR": "경기도 고양시 일산서구 대산로 116",
+		"REFINE_LOTNO_ADDR": "경기도 고양시 일산서구 주엽1동 35번지 유화프라자 504호",
+		"TELNO": "",
+		"REFINE_ZIPNO": "10375",
+		"REFINE_WGS84_LAT": "37.6743972184",
+		"REFINE_WGS84_LOGT": "126.7647025006",
+		"DATA_STD_DE": "2020-08-18"
+	},
+	{
+		"SIGUN_NM": "고양시",
+		"CMPNM_NM": "마이센스미용실",
+		"INDUTYPE_NM": "보건위생-미용원",
+		"REFINE_ROADNM_ADDR": "",
+		"REFINE_LOTNO_ADDR": "경기도 고양시 일산서구 주엽1동 우성2-207",
+		"TELNO": "",
+		"REFINE_ZIPNO": "",
+		"REFINE_WGS84_LAT": "",
+		"REFINE_WGS84_LOGT": "",
+		"DATA_STD_DE": "2020-08-18"
+	},
+	{
+		"SIGUN_NM": "고양시",
+		"CMPNM_NM": "삼천리신일산점",
+		"INDUTYPE_NM": "레져용품-스포츠•레져용품",
+		"REFINE_ROADNM_ADDR": "",
+		"REFINE_LOTNO_ADDR": "경기도 고양시 일산서구 주엽1동 14단지",
+		"TELNO": "",
+		"REFINE_ZIPNO": "",
+		"REFINE_WGS84_LAT": "",
+		"REFINE_WGS84_LOGT": "",
+		"DATA_STD_DE": "2020-08-18"
+	},
+	{
+		"SIGUN_NM": "고양시",
+		"CMPNM_NM": "이노샹",
+		"INDUTYPE_NM": "의류-정장",
+		"REFINE_ROADNM_ADDR": "경기도 고양시 일산서구 중앙로 1388",
+		"REFINE_LOTNO_ADDR": "경기도 고양시 일산서구 주엽1동 73번지 태영 2층 A동 242호",
+		"TELNO": "",
+		"REFINE_ZIPNO": "10366",
+		"REFINE_WGS84_LAT": "37.6683580559",
+		"REFINE_WGS84_LOGT": "126.7661000623",
+		"DATA_STD_DE": "2020-08-18"
+	},
+	{
+		"SIGUN_NM": "고양시",
+		"CMPNM_NM": "지그재그",
+		"INDUTYPE_NM": "의류-정장",
+		"REFINE_ROADNM_ADDR": "경기도 고양시 일산서구 중앙로 1388",
+		"REFINE_LOTNO_ADDR": "경기도 고양시 일산서구 주엽1동 73번지 태영프라자 243-1",
+		"TELNO": "",
+		"REFINE_ZIPNO": "10366",
+		"REFINE_WGS84_LAT": "37.6683555154",
+		"REFINE_WGS84_LOGT": "126.7656918920",
+		"DATA_STD_DE": "2020-08-18"
+	},
+	{
+		"SIGUN_NM": "고양시",
+		"CMPNM_NM": "청구약국",
+		"INDUTYPE_NM": "약국-약국",
+		"REFINE_ROADNM_ADDR": "",
+		"REFINE_LOTNO_ADDR": "경기도 고양시 일산서구 주엽1동 883번지 청구아파트상가 111",
+		"TELNO": "",
+		"REFINE_ZIPNO": "",
+		"REFINE_WGS84_LAT": "",
+		"REFINE_WGS84_LOGT": "",
+		"DATA_STD_DE": "2020-08-18"
+	},
+	{
+		"SIGUN_NM": "고양시",
+		"CMPNM_NM": "태양프라자(쉬즈)",
+		"INDUTYPE_NM": "의류-정장",
+		"REFINE_ROADNM_ADDR": "경기도 고양시 일산서구 중앙로 1388",
+		"REFINE_LOTNO_ADDR": "경기도 고양시 일산서구 주엽1동 73번지 태영프라자 224-2",
+		"TELNO": "",
+		"REFINE_ZIPNO": "10366",
+		"REFINE_WGS84_LAT": "37.6683555154",
+		"REFINE_WGS84_LOGT": "126.7656918920",
+		"DATA_STD_DE": "2020-08-18"
+	},
+	{
+		"SIGUN_NM": "고양시",
+		"CMPNM_NM": "폴마들렌",
+		"INDUTYPE_NM": "신변잡화-액세서리",
+		"REFINE_ROADNM_ADDR": "경기도 고양시 일산서구 주화로 42",
+		"REFINE_LOTNO_ADDR": "경기도 고양시 일산서구 주엽1동 102-1",
+		"TELNO": "",
+		"REFINE_ZIPNO": "10386",
+		"REFINE_WGS84_LAT": "37.6685635048",
+		"REFINE_WGS84_LOGT": "126.7629118399",
+		"DATA_STD_DE": "2020-08-18"
+	}
+]

@@ -1,0 +1,14 @@
+[
+	{
+		"SIGUN_NM": "부천시",
+		"CMPNM_NM": "행복세탁소",
+		"INDUTYPE_NM": "수리서비스-세탁소",
+		"REFINE_ROADNM_ADDR": "경기도 부천시 상일로 72",
+		"REFINE_LOTNO_ADDR": "경기도 부천시 상동 399번지 신라극동 상가 119호",
+		"TELNO": "",
+		"REFINE_ZIPNO": "14598",
+		"REFINE_WGS84_LAT": "37.4913472020",
+		"REFINE_WGS84_LOGT": "126.7506866638",
+		"DATA_STD_DE": "2020-08-18"
+	}
+]

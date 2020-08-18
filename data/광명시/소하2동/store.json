@@ -1,0 +1,110 @@
+[
+	{
+		"SIGUN_NM": "광명시",
+		"CMPNM_NM": "대명셀프세탁소",
+		"INDUTYPE_NM": "수리서비스-세탁소",
+		"REFINE_ROADNM_ADDR": "경기도 광명시 영당안로 36",
+		"REFINE_LOTNO_ADDR": "경기도 광명시 소하2동 927-8번지",
+		"TELNO": "",
+		"REFINE_ZIPNO": "14333",
+		"REFINE_WGS84_LAT": "37.4355518108",
+		"REFINE_WGS84_LOGT": "126.8777867140",
+		"DATA_STD_DE": "2020-08-18"
+	},
+	{
+		"SIGUN_NM": "광명시",
+		"CMPNM_NM": "럭키지물포",
+		"INDUTYPE_NM": "직물-카페트,커튼,천막,지물",
+		"REFINE_ROADNM_ADDR": "",
+		"REFINE_LOTNO_ADDR": "경기도 광명시 소하2동 920-5번지",
+		"TELNO": "",
+		"REFINE_ZIPNO": "14333",
+		"REFINE_WGS84_LAT": "37.4357307883",
+		"REFINE_WGS84_LOGT": "126.8792547043",
+		"DATA_STD_DE": "2020-08-18"
+	},
+	{
+		"SIGUN_NM": "광명시",
+		"CMPNM_NM": "명지보습학원",
+		"INDUTYPE_NM": "",
+		"REFINE_ROADNM_ADDR": "",
+		"REFINE_LOTNO_ADDR": "경기도 광명시 소하2동 893-9번지 대도상가 402호",
+		"TELNO": "",
+		"REFINE_ZIPNO": "14326",
+		"REFINE_WGS84_LAT": "37.4370762771",
+		"REFINE_WGS84_LOGT": "126.8811543384",
+		"DATA_STD_DE": "2020-08-18"
+	},
+	{
+		"SIGUN_NM": "광명시",
+		"CMPNM_NM": "새로나목재",
+		"INDUTYPE_NM": "건축자재-기타건축자재",
+		"REFINE_ROADNM_ADDR": "경기도 광명시 오리로 420-1",
+		"REFINE_LOTNO_ADDR": "경기도 광명시 소하2동 322-7번지 321-2",
+		"TELNO": "",
+		"REFINE_ZIPNO": "14326",
+		"REFINE_WGS84_LAT": "37.4398666145",
+		"REFINE_WGS84_LOGT": "126.8789831529",
+		"DATA_STD_DE": "2020-08-18"
+	},
+	{
+		"SIGUN_NM": "광명시",
+		"CMPNM_NM": "소화동물병원",
+		"INDUTYPE_NM": "",
+		"REFINE_ROADNM_ADDR": "",
+		"REFINE_LOTNO_ADDR": "경기도 광명시 소하2동 920-5번지",
+		"TELNO": "",
+		"REFINE_ZIPNO": "14333",
+		"REFINE_WGS84_LAT": "37.4357307883",
+		"REFINE_WGS84_LOGT": "126.8792547043",
+		"DATA_STD_DE": "2020-08-18"
+	},
+	{
+		"SIGUN_NM": "광명시",
+		"CMPNM_NM": "스위티PC방",
+		"INDUTYPE_NM": "레저업소-기타레져업소",
+		"REFINE_ROADNM_ADDR": "경기도 광명시 오리로 351",
+		"REFINE_LOTNO_ADDR": "경기도 광명시 소하2동 1075-5번지 동림프라자 4층",
+		"TELNO": "",
+		"REFINE_ZIPNO": "14333",
+		"REFINE_WGS84_LAT": "37.4340531984",
+		"REFINE_WGS84_LOGT": "126.8790537951",
+		"DATA_STD_DE": "2020-08-18"
+	},
+	{
+		"SIGUN_NM": "광명시",
+		"CMPNM_NM": "시립한울어린이집[아이행복]",
+		"INDUTYPE_NM": "학원-유아원",
+		"REFINE_ROADNM_ADDR": "",
+		"REFINE_LOTNO_ADDR": "경기도 광명시 소하2동 1373 광명역세권휴먼시아(아) 1단지 관리동 1층",
+		"TELNO": "",
+		"REFINE_ZIPNO": "",
+		"REFINE_WGS84_LAT": "",
+		"REFINE_WGS84_LOGT": "",
+		"DATA_STD_DE": "2020-08-18"
+	},
+	{
+		"SIGUN_NM": "광명시",
+		"CMPNM_NM": "오성가구",
+		"INDUTYPE_NM": "가구-일반가구",
+		"REFINE_ROADNM_ADDR": "",
+		"REFINE_LOTNO_ADDR": "경기도 광명시 소하2동 1001번지",
+		"TELNO": "",
+		"REFINE_ZIPNO": "",
+		"REFINE_WGS84_LAT": "37.4313586770",
+		"REFINE_WGS84_LOGT": "126.8848694925",
+		"DATA_STD_DE": "2020-08-18"
+	},
+	{
+		"SIGUN_NM": "광명시",
+		"CMPNM_NM": "우리아이어린이집[아이행복]",
+		"INDUTYPE_NM": "학원-유아원",
+		"REFINE_ROADNM_ADDR": "경기도 광명시 영당로22번길 5",
+		"REFINE_LOTNO_ADDR": "경기도 광명시 소하2동 성원아파트 936 102동 104호",
+		"TELNO": "",
+		"REFINE_ZIPNO": "14333",
+		"REFINE_WGS84_LAT": "37.4355406548",
+		"REFINE_WGS84_LOGT": "126.8773798767",
+		"DATA_STD_DE": "2020-08-18"
+	}
+]

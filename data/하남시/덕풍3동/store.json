@@ -1,0 +1,38 @@
+[
+	{
+		"SIGUN_NM": "하남시",
+		"CMPNM_NM": "대성아쿠아테크",
+		"INDUTYPE_NM": "문화.취미-수족관",
+		"REFINE_ROADNM_ADDR": "",
+		"REFINE_LOTNO_ADDR": "경기도 하남시 덕풍3동 103-4번지",
+		"TELNO": "",
+		"REFINE_ZIPNO": "",
+		"REFINE_WGS84_LAT": "37.5566216304",
+		"REFINE_WGS84_LOGT": "127.2028367970",
+		"DATA_STD_DE": "2020-08-18"
+	},
+	{
+		"SIGUN_NM": "하남시",
+		"CMPNM_NM": "덕풍식품",
+		"INDUTYPE_NM": "음료식품-기타음료식품",
+		"REFINE_ROADNM_ADDR": "",
+		"REFINE_LOTNO_ADDR": "경기도 하남시 덕풍3동 320-23",
+		"TELNO": "",
+		"REFINE_ZIPNO": "12935",
+		"REFINE_WGS84_LAT": "",
+		"REFINE_WGS84_LOGT": "",
+		"DATA_STD_DE": "2020-08-18"
+	},
+	{
+		"SIGUN_NM": "하남시",
+		"CMPNM_NM": "투데이호프",
+		"INDUTYPE_NM": "일반휴게음식-주점",
+		"REFINE_ROADNM_ADDR": "",
+		"REFINE_LOTNO_ADDR": "경기도 하남시 덕풍3동 1번지",
+		"TELNO": "",
+		"REFINE_ZIPNO": "",
+		"REFINE_WGS84_LAT": "",
+		"REFINE_WGS84_LOGT": "",
+		"DATA_STD_DE": "2020-08-18"
+	}
+]

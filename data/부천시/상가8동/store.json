@@ -1,0 +1,26 @@
+[
+	{
+		"SIGUN_NM": "부천시",
+		"CMPNM_NM": "도도식탁",
+		"INDUTYPE_NM": "일반휴게음식-일반한식",
+		"REFINE_ROADNM_ADDR": "경기도 부천시 신흥로 150-1",
+		"REFINE_LOTNO_ADDR": "경기도 부천시 중동 1112번지 위브더스데이트 상가8동 105,106호",
+		"TELNO": "",
+		"REFINE_ZIPNO": "14574",
+		"REFINE_WGS84_LAT": "37.4974899672",
+		"REFINE_WGS84_LOGT": "126.7789413890",
+		"DATA_STD_DE": "2020-08-18"
+	},
+	{
+		"SIGUN_NM": "부천시",
+		"CMPNM_NM": "에끌로헤어",
+		"INDUTYPE_NM": "보건위생-미용원",
+		"REFINE_ROADNM_ADDR": "경기도 부천시 신흥로 150-1",
+		"REFINE_LOTNO_ADDR": "경기도 부천시 중동 1112번지 위브더스테이트 상가8동 204호,205호",
+		"TELNO": "",
+		"REFINE_ZIPNO": "14574",
+		"REFINE_WGS84_LAT": "37.4974899672",
+		"REFINE_WGS84_LOGT": "126.7789413890",
+		"DATA_STD_DE": "2020-08-18"
+	}
+]

@@ -1,0 +1,14 @@
+[
+	{
+		"SIGUN_NM": "성남시",
+		"CMPNM_NM": "유영피아노",
+		"INDUTYPE_NM": "서비스업",
+		"REFINE_ROADNM_ADDR": "경기도 성남시 수정구 탄리로132번길 13-8",
+		"REFINE_LOTNO_ADDR": "경기도 성남시 수정구 태평2동 898",
+		"TELNO": "",
+		"REFINE_ZIPNO": "13284",
+		"REFINE_WGS84_LAT": "37.4480731682",
+		"REFINE_WGS84_LOGT": "127.1349408166",
+		"DATA_STD_DE": "2020-08-18"
+	}
+]

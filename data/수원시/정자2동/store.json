@@ -1,0 +1,98 @@
+[
+	{
+		"SIGUN_NM": "수원시",
+		"CMPNM_NM": "금강산사우나",
+		"INDUTYPE_NM": "의류-기타의류",
+		"REFINE_ROADNM_ADDR": "경기도 수원시 장안구 송정로76번길 45",
+		"REFINE_LOTNO_ADDR": "경기도 수원시 장안구 정자2동 13번지 기산아파트 금강산찜질방 지하층 13호",
+		"TELNO": "",
+		"REFINE_ZIPNO": "16311",
+		"REFINE_WGS84_LAT": "37.2943664655",
+		"REFINE_WGS84_LOGT": "127.0072219375",
+		"DATA_STD_DE": "2020-08-18"
+	},
+	{
+		"SIGUN_NM": "수원시",
+		"CMPNM_NM": "금호당",
+		"INDUTYPE_NM": "신변잡화-시계",
+		"REFINE_ROADNM_ADDR": "경기도 수원시 장안구 수성로261번길 6",
+		"REFINE_LOTNO_ADDR": "경기도 수원시 장안구 정자2동 76-1번지 성집빌딩 1층",
+		"TELNO": "",
+		"REFINE_ZIPNO": "16314",
+		"REFINE_WGS84_LAT": "37.2902211384",
+		"REFINE_WGS84_LOGT": "127.0010213722",
+		"DATA_STD_DE": "2020-08-18"
+	},
+	{
+		"SIGUN_NM": "수원시",
+		"CMPNM_NM": "명성다육",
+		"INDUTYPE_NM": "문화.취미-화원",
+		"REFINE_ROADNM_ADDR": "경기도 수원시 장안구 화산로 84",
+		"REFINE_LOTNO_ADDR": "경기도 수원시 장안구 정자2동 758번지",
+		"TELNO": "",
+		"REFINE_ZIPNO": "16420",
+		"REFINE_WGS84_LAT": "37.2915878162",
+		"REFINE_WGS84_LOGT": "126.9834122917",
+		"DATA_STD_DE": "2020-08-18"
+	},
+	{
+		"SIGUN_NM": "수원시",
+		"CMPNM_NM": "이화어린이집[아이행복]",
+		"INDUTYPE_NM": "학원-유아원",
+		"REFINE_ROADNM_ADDR": "경기도 수원시 장안구 대평로51번길 56",
+		"REFINE_LOTNO_ADDR": "경기도 수원시 장안구 정자2동 882-5번지 노을마을한국아파트 관리동 1층",
+		"TELNO": "",
+		"REFINE_ZIPNO": "16319",
+		"REFINE_WGS84_LAT": "37.2919502331",
+		"REFINE_WGS84_LOGT": "126.9900775572",
+		"DATA_STD_DE": "2020-08-18"
+	},
+	{
+		"SIGUN_NM": "수원시",
+		"CMPNM_NM": "이화어린이집[아이행복]",
+		"INDUTYPE_NM": "학원-유아원",
+		"REFINE_ROADNM_ADDR": "",
+		"REFINE_LOTNO_ADDR": "경기도 수원시 장안구 정자2동 꽃뫼노을마을 한국@ 관리동내",
+		"TELNO": "",
+		"REFINE_ZIPNO": "",
+		"REFINE_WGS84_LAT": "",
+		"REFINE_WGS84_LOGT": "",
+		"DATA_STD_DE": "2020-08-18"
+	},
+	{
+		"SIGUN_NM": "수원시",
+		"CMPNM_NM": "조은장식",
+		"INDUTYPE_NM": "직물-카페트,커튼,천막,지물",
+		"REFINE_ROADNM_ADDR": "",
+		"REFINE_LOTNO_ADDR": "경기도 수원시 장안구 정자2동 36-23번지 상가 B-2호",
+		"TELNO": "",
+		"REFINE_ZIPNO": "16311",
+		"REFINE_WGS84_LAT": "37.2956585031",
+		"REFINE_WGS84_LOGT": "127.0057918890",
+		"DATA_STD_DE": "2020-08-18"
+	},
+	{
+		"SIGUN_NM": "수원시",
+		"CMPNM_NM": "한길종합목재",
+		"INDUTYPE_NM": "건축자재-기타건축자재",
+		"REFINE_ROADNM_ADDR": "",
+		"REFINE_LOTNO_ADDR": "경기도 수원시 장안구 정자2동 2-5번지",
+		"TELNO": "",
+		"REFINE_ZIPNO": "16311",
+		"REFINE_WGS84_LAT": "37.2938198424",
+		"REFINE_WGS84_LOGT": "127.0101702165",
+		"DATA_STD_DE": "2020-08-18"
+	},
+	{
+		"SIGUN_NM": "수원시",
+		"CMPNM_NM": "효원산부인과",
+		"INDUTYPE_NM": "의원-의원",
+		"REFINE_ROADNM_ADDR": "경기도 수원시 장안구 정조로 985",
+		"REFINE_LOTNO_ADDR": "경기도 수원시 장안구 정자2동 1-9번지",
+		"TELNO": "",
+		"REFINE_ZIPNO": "16311",
+		"REFINE_WGS84_LAT": "37.2948801821",
+		"REFINE_WGS84_LOGT": "127.0093735603",
+		"DATA_STD_DE": "2020-08-18"
+	}
+]

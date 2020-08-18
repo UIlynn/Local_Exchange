@@ -1,0 +1,14 @@
+[
+	{
+		"SIGUN_NM": "용인시",
+		"CMPNM_NM": "동백와이즈만영재학원",
+		"INDUTYPE_NM": "학원-보습학원",
+		"REFINE_ROADNM_ADDR": "경기도 용인시 기흥구 동백중앙로 193",
+		"REFINE_LOTNO_ADDR": "경기도 용인시 기흥구 중동 849-1번지 동창프라자 중동동 8층 801호,802,803,804",
+		"TELNO": "",
+		"REFINE_ZIPNO": "17006",
+		"REFINE_WGS84_LAT": "37.2710316097",
+		"REFINE_WGS84_LOGT": "127.1526257305",
+		"DATA_STD_DE": "2020-08-18"
+	}
+]

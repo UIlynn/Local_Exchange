@@ -1,0 +1,110 @@
+[
+	{
+		"SIGUN_NM": "안양시",
+		"CMPNM_NM": "GS25평촌프라자점",
+		"INDUTYPE_NM": "유통업 영리-편 의 점",
+		"REFINE_ROADNM_ADDR": "",
+		"REFINE_LOTNO_ADDR": "경기 안양시 동안구 평촌대로 130101,102호(귀인동900-9,신세기프라자)",
+		"TELNO": "0805552525",
+		"REFINE_ZIPNO": "",
+		"REFINE_WGS84_LAT": "",
+		"REFINE_WGS84_LOGT": "",
+		"DATA_STD_DE": "2020-08-18"
+	},
+	{
+		"SIGUN_NM": "안양시",
+		"CMPNM_NM": "강원농특산물",
+		"INDUTYPE_NM": "음료식품-미곡상",
+		"REFINE_ROADNM_ADDR": "경기도 안양시 동안구 흥안대로 313",
+		"REFINE_LOTNO_ADDR": "경기도 안양시 동안구 귀인동 934-1번지 농수산물도매시장 47",
+		"TELNO": "0314232365",
+		"REFINE_ZIPNO": "14104",
+		"REFINE_WGS84_LAT": "37.3831019563",
+		"REFINE_WGS84_LOGT": "126.9704727553",
+		"DATA_STD_DE": "2020-08-18"
+	},
+	{
+		"SIGUN_NM": "안양시",
+		"CMPNM_NM": "거림통상",
+		"INDUTYPE_NM": "직물-옷감•직물",
+		"REFINE_ROADNM_ADDR": "",
+		"REFINE_LOTNO_ADDR": "경기도 안양시 동안구 귀인동 932-2번지",
+		"TELNO": "0313871479",
+		"REFINE_ZIPNO": "14102",
+		"REFINE_WGS84_LAT": "37.3848082393",
+		"REFINE_WGS84_LOGT": "126.9650612548",
+		"DATA_STD_DE": "2020-08-18"
+	},
+	{
+		"SIGUN_NM": "안양시",
+		"CMPNM_NM": "경기쌀농산",
+		"INDUTYPE_NM": "음료식품-미곡상",
+		"REFINE_ROADNM_ADDR": "",
+		"REFINE_LOTNO_ADDR": "경기도 안양시 동안구 귀인동 934번지 안양농산물도매시장관련상가 4",
+		"TELNO": "0314256124",
+		"REFINE_ZIPNO": "",
+		"REFINE_WGS84_LAT": "37.3827218777",
+		"REFINE_WGS84_LOGT": "126.9675857772",
+		"DATA_STD_DE": "2020-08-18"
+	},
+	{
+		"SIGUN_NM": "안양시",
+		"CMPNM_NM": "금산인삼",
+		"INDUTYPE_NM": "건강식품-인삼제품",
+		"REFINE_ROADNM_ADDR": "경기도 안양시 동안구 흥안대로 313",
+		"REFINE_LOTNO_ADDR": "경기도 안양시 동안구 귀인동 934-1번지 도매시장터널상가지 27",
+		"TELNO": "0314247796",
+		"REFINE_ZIPNO": "14104",
+		"REFINE_WGS84_LAT": "37.3831019563",
+		"REFINE_WGS84_LOGT": "126.9704727553",
+		"DATA_STD_DE": "2020-08-18"
+	},
+	{
+		"SIGUN_NM": "안양시",
+		"CMPNM_NM": "명월경양식",
+		"INDUTYPE_NM": "일반휴게음식-서양음식",
+		"REFINE_ROADNM_ADDR": "",
+		"REFINE_LOTNO_ADDR": "경기도 안양시 동안구 귀인동 358번지",
+		"TELNO": "031834359",
+		"REFINE_ZIPNO": "14103",
+		"REFINE_WGS84_LAT": "",
+		"REFINE_WGS84_LOGT": "",
+		"DATA_STD_DE": "2020-08-18"
+	},
+	{
+		"SIGUN_NM": "안양시",
+		"CMPNM_NM": "산성주방",
+		"INDUTYPE_NM": "주방용구-주방용구",
+		"REFINE_ROADNM_ADDR": "경기도 안양시 동안구 흥안대로 313",
+		"REFINE_LOTNO_ADDR": "경기도 안양시 동안구 귀인동 934-1번지 농수산물상가동 32",
+		"TELNO": "0314238387",
+		"REFINE_ZIPNO": "14104",
+		"REFINE_WGS84_LAT": "37.3831019563",
+		"REFINE_WGS84_LOGT": "126.9704727553",
+		"DATA_STD_DE": "2020-08-18"
+	},
+	{
+		"SIGUN_NM": "안양시",
+		"CMPNM_NM": "아이뜰 어린이집[아이행복]",
+		"INDUTYPE_NM": "학원-유아원",
+		"REFINE_ROADNM_ADDR": "경기도 안양시 동안구 귀인로 208",
+		"REFINE_LOTNO_ADDR": "경기도 안양시 동안구 귀인동 314 현대홈타운 105-102 (전용)",
+		"TELNO": "0313867807",
+		"REFINE_ZIPNO": "14103",
+		"REFINE_WGS84_LAT": "37.3848688228",
+		"REFINE_WGS84_LOGT": "126.9625192164",
+		"DATA_STD_DE": "2020-08-18"
+	},
+	{
+		"SIGUN_NM": "안양시",
+		"CMPNM_NM": "테리우스",
+		"INDUTYPE_NM": "의류-기타의류",
+		"REFINE_ROADNM_ADDR": "경기도 안양시 동안구 귀인로 208",
+		"REFINE_LOTNO_ADDR": "경기도 안양시 동안구 귀인동 314번지 현대홈타운아파트 101동 1703호",
+		"TELNO": "0313410387",
+		"REFINE_ZIPNO": "14103",
+		"REFINE_WGS84_LAT": "37.3849439811",
+		"REFINE_WGS84_LOGT": "126.9612083386",
+		"DATA_STD_DE": "2020-08-18"
+	}
+]

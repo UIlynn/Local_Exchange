@@ -1,0 +1,50 @@
+[
+	{
+		"SIGUN_NM": "부천시",
+		"CMPNM_NM": "로이스타코",
+		"INDUTYPE_NM": "일반휴게음식-일반한식",
+		"REFINE_ROADNM_ADDR": "경기도 부천시 신흥로 178",
+		"REFINE_LOTNO_ADDR": "경기도 부천시 중동 1109번지 위브더스테이트 상가3동 124-125호",
+		"TELNO": "",
+		"REFINE_ZIPNO": "14549",
+		"REFINE_WGS84_LAT": "37.4995373872",
+		"REFINE_WGS84_LOGT": "126.7776885640",
+		"DATA_STD_DE": "2020-08-18"
+	},
+	{
+		"SIGUN_NM": "부천시",
+		"CMPNM_NM": "술그리다",
+		"INDUTYPE_NM": "일반휴게음식-일반한식",
+		"REFINE_ROADNM_ADDR": "경기도 부천시 신흥로 178",
+		"REFINE_LOTNO_ADDR": "경기도 부천시 중동 1109번지 상가3동 115호,116호",
+		"TELNO": "",
+		"REFINE_ZIPNO": "14549",
+		"REFINE_WGS84_LAT": "37.4995373872",
+		"REFINE_WGS84_LOGT": "126.7776885640",
+		"DATA_STD_DE": "2020-08-18"
+	},
+	{
+		"SIGUN_NM": "부천시",
+		"CMPNM_NM": "스시노백쉐프 부천중동위브점",
+		"INDUTYPE_NM": "일반휴게음식-일식•회집",
+		"REFINE_ROADNM_ADDR": "경기도 부천시 신흥로 178",
+		"REFINE_LOTNO_ADDR": "경기도 부천시 중동 1109번지 외3필지 위브더스테이트 상가3동 209호210호",
+		"TELNO": "",
+		"REFINE_ZIPNO": "14549",
+		"REFINE_WGS84_LAT": "37.4995373872",
+		"REFINE_WGS84_LOGT": "126.7776885640",
+		"DATA_STD_DE": "2020-08-18"
+	},
+	{
+		"SIGUN_NM": "부천시",
+		"CMPNM_NM": "커피플레닛",
+		"INDUTYPE_NM": "일반휴게음식-서양음식",
+		"REFINE_ROADNM_ADDR": "경기도 부천시 신흥로 178",
+		"REFINE_LOTNO_ADDR": "경기도 부천시 중동 1109번지 위브더스테이트 상가3동 119,120호",
+		"TELNO": "",
+		"REFINE_ZIPNO": "14549",
+		"REFINE_WGS84_LAT": "37.4995373872",
+		"REFINE_WGS84_LOGT": "126.7776885640",
+		"DATA_STD_DE": "2020-08-18"
+	}
+]

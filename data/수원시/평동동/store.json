@@ -1,0 +1,26 @@
+[
+	{
+		"SIGUN_NM": "수원시",
+		"CMPNM_NM": "동남마트",
+		"INDUTYPE_NM": "유통업 영리-슈퍼마켓",
+		"REFINE_ROADNM_ADDR": "경기도 수원시 권선구 권선로436번길 21",
+		"REFINE_LOTNO_ADDR": "경기도 수원시 권선구 평동 151번지 평동동남아파트 상가 101호",
+		"TELNO": "",
+		"REFINE_ZIPNO": "16595",
+		"REFINE_WGS84_LAT": "37.2617957204",
+		"REFINE_WGS84_LOGT": "126.9999458651",
+		"DATA_STD_DE": "2020-08-18"
+	},
+	{
+		"SIGUN_NM": "수원시",
+		"CMPNM_NM": "동남헤어",
+		"INDUTYPE_NM": "보건위생-미용원",
+		"REFINE_ROADNM_ADDR": "경기도 수원시 권선구 권선로436번길 21",
+		"REFINE_LOTNO_ADDR": "경기도 수원시 권선구 평동 151번지 평동동남아파트 104호",
+		"TELNO": "",
+		"REFINE_ZIPNO": "16595",
+		"REFINE_WGS84_LAT": "37.2626425305",
+		"REFINE_WGS84_LOGT": "126.9998274886",
+		"DATA_STD_DE": "2020-08-18"
+	}
+]

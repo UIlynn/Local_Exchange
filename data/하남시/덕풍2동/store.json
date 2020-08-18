@@ -1,0 +1,50 @@
+[
+	{
+		"SIGUN_NM": "하남시",
+		"CMPNM_NM": "삼익악기하남특약점",
+		"INDUTYPE_NM": "레져용품-악기점",
+		"REFINE_ROADNM_ADDR": "",
+		"REFINE_LOTNO_ADDR": "경기도 하남시 덕풍2동 356-28번지",
+		"TELNO": "",
+		"REFINE_ZIPNO": "",
+		"REFINE_WGS84_LAT": "",
+		"REFINE_WGS84_LOGT": "",
+		"DATA_STD_DE": "2020-08-18"
+	},
+	{
+		"SIGUN_NM": "하남시",
+		"CMPNM_NM": "시민약국",
+		"INDUTYPE_NM": "약국-약국",
+		"REFINE_ROADNM_ADDR": "",
+		"REFINE_LOTNO_ADDR": "경기도 하남시 덕풍2동 331-43번지",
+		"TELNO": "",
+		"REFINE_ZIPNO": "12971",
+		"REFINE_WGS84_LAT": "",
+		"REFINE_WGS84_LOGT": "",
+		"DATA_STD_DE": "2020-08-18"
+	},
+	{
+		"SIGUN_NM": "하남시",
+		"CMPNM_NM": "유천칡냉면",
+		"INDUTYPE_NM": "일반휴게음식-일반한식",
+		"REFINE_ROADNM_ADDR": "",
+		"REFINE_LOTNO_ADDR": "경기도 하남시 덕풍2동 357-1번지",
+		"TELNO": "",
+		"REFINE_ZIPNO": "12974",
+		"REFINE_WGS84_LAT": "37.5416277387",
+		"REFINE_WGS84_LOGT": "127.1996867684",
+		"DATA_STD_DE": "2020-08-18"
+	},
+	{
+		"SIGUN_NM": "하남시",
+		"CMPNM_NM": "하남청년회의소",
+		"INDUTYPE_NM": "기타-비영리/대상",
+		"REFINE_ROADNM_ADDR": "",
+		"REFINE_LOTNO_ADDR": "경기도 하남시 덕풍2동 산39-1번지",
+		"TELNO": "",
+		"REFINE_ZIPNO": "",
+		"REFINE_WGS84_LAT": "37.5422665514",
+		"REFINE_WGS84_LOGT": "127.1988947258",
+		"DATA_STD_DE": "2020-08-18"
+	}
+]

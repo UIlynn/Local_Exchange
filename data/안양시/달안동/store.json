@@ -1,0 +1,110 @@
+[
+	{
+		"SIGUN_NM": "안양시",
+		"CMPNM_NM": "꼬꼬마을",
+		"INDUTYPE_NM": "일반휴게음식-주점",
+		"REFINE_ROADNM_ADDR": "",
+		"REFINE_LOTNO_ADDR": "경기도 안양시 동안구 달안동 1101-2번지 평촌스포트센터 1층",
+		"TELNO": "0313823989",
+		"REFINE_ZIPNO": "14043",
+		"REFINE_WGS84_LAT": "37.3963116613",
+		"REFINE_WGS84_LOGT": "126.9497614391",
+		"DATA_STD_DE": "2020-08-18"
+	},
+	{
+		"SIGUN_NM": "안양시",
+		"CMPNM_NM": "눈큰아이스튜디오",
+		"INDUTYPE_NM": "광학제품-사진관",
+		"REFINE_ROADNM_ADDR": "경기도 안양시 동안구 달안로 63",
+		"REFINE_LOTNO_ADDR": "경기도 안양시 동안구 달안동 1101-2번지 샛별아파트상가 지하 7호",
+		"TELNO": "0313841974",
+		"REFINE_ZIPNO": "14043",
+		"REFINE_WGS84_LAT": "37.3959695723",
+		"REFINE_WGS84_LOGT": "126.9498543215",
+		"DATA_STD_DE": "2020-08-18"
+	},
+	{
+		"SIGUN_NM": "안양시",
+		"CMPNM_NM": "돌체피아노학원",
+		"INDUTYPE_NM": "학원-예•체능계학원 ",
+		"REFINE_ROADNM_ADDR": "경기도 안양시 동안구 동안로 194",
+		"REFINE_LOTNO_ADDR": "경기도 안양시 동안구 달안동 1101-2번지 한양스포츠센터 203호",
+		"TELNO": "0313827858",
+		"REFINE_ZIPNO": "14043",
+		"REFINE_WGS84_LAT": "37.3958400710",
+		"REFINE_WGS84_LOGT": "126.9491435145",
+		"DATA_STD_DE": "2020-08-18"
+	},
+	{
+		"SIGUN_NM": "안양시",
+		"CMPNM_NM": "샛별화장품",
+		"INDUTYPE_NM": "보건위생-화장품",
+		"REFINE_ROADNM_ADDR": "경기도 안양시 동안구 달안로 73",
+		"REFINE_LOTNO_ADDR": "경기도 안양시 동안구 달안동 1101-8번지 샛별한양C상가 101호",
+		"TELNO": "0313832807",
+		"REFINE_ZIPNO": "14043",
+		"REFINE_WGS84_LAT": "37.3963716755",
+		"REFINE_WGS84_LOGT": "126.9510376466",
+		"DATA_STD_DE": "2020-08-18"
+	},
+	{
+		"SIGUN_NM": "안양시",
+		"CMPNM_NM": "안양촌숯불구이",
+		"INDUTYPE_NM": "일반휴게음식-일반한식",
+		"REFINE_ROADNM_ADDR": "",
+		"REFINE_LOTNO_ADDR": "경기도 안양시 동안구 달안동 1101-2번지 평촌스포츠센터 1층 144호",
+		"TELNO": "0313833354",
+		"REFINE_ZIPNO": "14043",
+		"REFINE_WGS84_LAT": "37.3963116613",
+		"REFINE_WGS84_LOGT": "126.9497614391",
+		"DATA_STD_DE": "2020-08-18"
+	},
+	{
+		"SIGUN_NM": "안양시",
+		"CMPNM_NM": "평촌경희한의원",
+		"INDUTYPE_NM": "의원-한의원",
+		"REFINE_ROADNM_ADDR": "경기도 안양시 동안구 동안로 194",
+		"REFINE_LOTNO_ADDR": "경기도 안양시 동안구 달안동 1101-2번지 한양스포츠센터 211호",
+		"TELNO": "0313838344",
+		"REFINE_ZIPNO": "14043",
+		"REFINE_WGS84_LAT": "37.3958400710",
+		"REFINE_WGS84_LOGT": "126.9491435145",
+		"DATA_STD_DE": "2020-08-18"
+	},
+	{
+		"SIGUN_NM": "안양시",
+		"CMPNM_NM": "하나상사",
+		"INDUTYPE_NM": "기타-기계공구",
+		"REFINE_ROADNM_ADDR": "",
+		"REFINE_LOTNO_ADDR": "경기도 안양시 동안구 달안동 618동102호",
+		"TELNO": "0222744541",
+		"REFINE_ZIPNO": "",
+		"REFINE_WGS84_LAT": "",
+		"REFINE_WGS84_LOGT": "",
+		"DATA_STD_DE": "2020-08-18"
+	},
+	{
+		"SIGUN_NM": "안양시",
+		"CMPNM_NM": "햇살약국",
+		"INDUTYPE_NM": "약국-약국",
+		"REFINE_ROADNM_ADDR": "",
+		"REFINE_LOTNO_ADDR": "경기도 안양시 동안구 달안동 1101-2번지 평촌한양스포츠센터 210호",
+		"TELNO": "0314760117",
+		"REFINE_ZIPNO": "14043",
+		"REFINE_WGS84_LAT": "37.3963116613",
+		"REFINE_WGS84_LOGT": "126.9497614391",
+		"DATA_STD_DE": "2020-08-18"
+	},
+	{
+		"SIGUN_NM": "안양시",
+		"CMPNM_NM": "현대종합인테리어",
+		"INDUTYPE_NM": "기타-기계공구",
+		"REFINE_ROADNM_ADDR": "",
+		"REFINE_LOTNO_ADDR": "경기도 안양시 동안구 달안동 1102번지 관악타운상가 110",
+		"TELNO": "0313822727",
+		"REFINE_ZIPNO": "14044",
+		"REFINE_WGS84_LAT": "37.3956650431",
+		"REFINE_WGS84_LOGT": "126.9425695651",
+		"DATA_STD_DE": "2020-08-18"
+	}
+]

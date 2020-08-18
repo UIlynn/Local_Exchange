@@ -1,0 +1,62 @@
+[
+	{
+		"SIGUN_NM": "고양시",
+		"CMPNM_NM": "씨유행신리치빌점",
+		"INDUTYPE_NM": "유통업 영리-편 의 점",
+		"REFINE_ROADNM_ADDR": "",
+		"REFINE_LOTNO_ADDR": "경기도 고양시 덕양구 행신2동 713.731-1지엘리치빌2차104호중1/2(북동쪽)",
+		"TELNO": "",
+		"REFINE_ZIPNO": "",
+		"REFINE_WGS84_LAT": "",
+		"REFINE_WGS84_LOGT": "",
+		"DATA_STD_DE": "2020-08-18"
+	},
+	{
+		"SIGUN_NM": "고양시",
+		"CMPNM_NM": "씨유행신소만점",
+		"INDUTYPE_NM": "유통업 영리-편 의 점",
+		"REFINE_ROADNM_ADDR": "경기도 고양시 덕양구 충경로 136",
+		"REFINE_LOTNO_ADDR": "경기도 고양시 덕양구 행신2동 799번지 시영아파트상가 101호",
+		"TELNO": "",
+		"REFINE_ZIPNO": "10531",
+		"REFINE_WGS84_LAT": "37.6157424414",
+		"REFINE_WGS84_LOGT": "126.8448452679",
+		"DATA_STD_DE": "2020-08-18"
+	},
+	{
+		"SIGUN_NM": "고양시",
+		"CMPNM_NM": "정상득이비인후과의원",
+		"INDUTYPE_NM": "의원-의원",
+		"REFINE_ROADNM_ADDR": "경기도 고양시 덕양구 무원로 63",
+		"REFINE_LOTNO_ADDR": "경기도 고양시 덕양구 행신2동 692번지 무원마을 304호",
+		"TELNO": "",
+		"REFINE_ZIPNO": "10521",
+		"REFINE_WGS84_LAT": "37.6184351292",
+		"REFINE_WGS84_LOGT": "126.8299890814",
+		"DATA_STD_DE": "2020-08-18"
+	},
+	{
+		"SIGUN_NM": "고양시",
+		"CMPNM_NM": "지도농협무원지소",
+		"INDUTYPE_NM": "유통업 영리-상품권",
+		"REFINE_ROADNM_ADDR": "경기도 고양시 덕양구 무원로 19",
+		"REFINE_LOTNO_ADDR": "경기도 고양시 덕양구 행신2동 700번지 신안아파트단지내상가",
+		"TELNO": "",
+		"REFINE_ZIPNO": "10522",
+		"REFINE_WGS84_LAT": "37.6146887725",
+		"REFINE_WGS84_LOGT": "126.8321415279",
+		"DATA_STD_DE": "2020-08-18"
+	},
+	{
+		"SIGUN_NM": "고양시",
+		"CMPNM_NM": "지도농협무원지소",
+		"INDUTYPE_NM": "유통업 비영리-농,축협 직영매장",
+		"REFINE_ROADNM_ADDR": "경기도 고양시 덕양구 무원로 19",
+		"REFINE_LOTNO_ADDR": "경기도 고양시 덕양구 행신2동 700번지 신안아파트단지내상가",
+		"TELNO": "",
+		"REFINE_ZIPNO": "10522",
+		"REFINE_WGS84_LAT": "37.6146887725",
+		"REFINE_WGS84_LOGT": "126.8321415279",
+		"DATA_STD_DE": "2020-08-18"
+	}
+]

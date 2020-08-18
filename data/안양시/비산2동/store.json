@@ -1,0 +1,50 @@
+[
+	{
+		"SIGUN_NM": "안양시",
+		"CMPNM_NM": "깔끔이슈퍼",
+		"INDUTYPE_NM": "유통업 영리-슈퍼마켓",
+		"REFINE_ROADNM_ADDR": "",
+		"REFINE_LOTNO_ADDR": "경기도 안양시 동안구 비산2동 406-103번지",
+		"TELNO": "0313861943",
+		"REFINE_ZIPNO": "13953",
+		"REFINE_WGS84_LAT": "",
+		"REFINE_WGS84_LOGT": "",
+		"DATA_STD_DE": "2020-08-18"
+	},
+	{
+		"SIGUN_NM": "안양시",
+		"CMPNM_NM": "메가코치보습학원",
+		"INDUTYPE_NM": "학원-기타 교육기관",
+		"REFINE_ROADNM_ADDR": "경기도 안양시 동안구 관악대로 157",
+		"REFINE_LOTNO_ADDR": "경기도 안양시 동안구 비산2동 405-10두성프라자501.502",
+		"TELNO": "0313888999",
+		"REFINE_ZIPNO": "13926",
+		"REFINE_WGS84_LAT": "37.3991310959",
+		"REFINE_WGS84_LOGT": "126.9416739348",
+		"DATA_STD_DE": "2020-08-18"
+	},
+	{
+		"SIGUN_NM": "안양시",
+		"CMPNM_NM": "장난감나라",
+		"INDUTYPE_NM": "서적문구-완구점",
+		"REFINE_ROADNM_ADDR": "",
+		"REFINE_LOTNO_ADDR": "경기도 안양시 동안구 비산2동 405-16번지",
+		"TELNO": "0313873908",
+		"REFINE_ZIPNO": "13926",
+		"REFINE_WGS84_LAT": "",
+		"REFINE_WGS84_LOGT": "",
+		"DATA_STD_DE": "2020-08-18"
+	},
+	{
+		"SIGUN_NM": "안양시",
+		"CMPNM_NM": "주식회사 한국밴협회",
+		"INDUTYPE_NM": "별도관리-자체물품대금",
+		"REFINE_ROADNM_ADDR": "",
+		"REFINE_LOTNO_ADDR": "경기도 안양시 동안구 비산2동 577-1번지 진흥상가 2층",
+		"TELNO": "",
+		"REFINE_ZIPNO": "14039",
+		"REFINE_WGS84_LAT": "37.3923341948",
+		"REFINE_WGS84_LOGT": "126.9418680053",
+		"DATA_STD_DE": "2020-08-18"
+	}
+]

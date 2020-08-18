@@ -1,0 +1,86 @@
+[
+	{
+		"SIGUN_NM": "안양시",
+		"CMPNM_NM": "(주)백종상사",
+		"INDUTYPE_NM": "건축자재-보일러•펌프•샷시",
+		"REFINE_ROADNM_ADDR": "",
+		"REFINE_LOTNO_ADDR": "경기도 안양시 만안구 안양8동 591번지",
+		"TELNO": "0314418900",
+		"REFINE_ZIPNO": "",
+		"REFINE_WGS84_LAT": "",
+		"REFINE_WGS84_LOGT": "",
+		"DATA_STD_DE": "2020-08-18"
+	},
+	{
+		"SIGUN_NM": "안양시",
+		"CMPNM_NM": "3세대미용재료",
+		"INDUTYPE_NM": "보건위생-미용재료",
+		"REFINE_ROADNM_ADDR": "경기도 안양시 만안구 안양로 67",
+		"REFINE_LOTNO_ADDR": "경기도 안양시 만안구 안양8동 354-7번지 17-1",
+		"TELNO": "0314461114",
+		"REFINE_ZIPNO": "14095",
+		"REFINE_WGS84_LAT": "37.3814989145",
+		"REFINE_WGS84_LOGT": "126.9356938120",
+		"DATA_STD_DE": "2020-08-18"
+	},
+	{
+		"SIGUN_NM": "안양시",
+		"CMPNM_NM": "백산유치원[아이행복]",
+		"INDUTYPE_NM": "학원-유치원",
+		"REFINE_ROADNM_ADDR": "",
+		"REFINE_LOTNO_ADDR": "경기도 안양시 만안구 안양8동 349-34",
+		"TELNO": "0314427590",
+		"REFINE_ZIPNO": "14096",
+		"REFINE_WGS84_LAT": "",
+		"REFINE_WGS84_LOGT": "",
+		"DATA_STD_DE": "2020-08-18"
+	},
+	{
+		"SIGUN_NM": "안양시",
+		"CMPNM_NM": "성창상사",
+		"INDUTYPE_NM": "기타-기계공구",
+		"REFINE_ROADNM_ADDR": "",
+		"REFINE_LOTNO_ADDR": "경기도 안양시 만안구 안양8동 325-28번지",
+		"TELNO": "0312945966",
+		"REFINE_ZIPNO": "14036",
+		"REFINE_WGS84_LAT": "37.3796986739",
+		"REFINE_WGS84_LOGT": "126.9381131889",
+		"DATA_STD_DE": "2020-08-18"
+	},
+	{
+		"SIGUN_NM": "안양시",
+		"CMPNM_NM": "신안양대리점",
+		"INDUTYPE_NM": "음료식품-기타음료식품",
+		"REFINE_ROADNM_ADDR": "경기도 안양시 만안구 성결대학로 7",
+		"REFINE_LOTNO_ADDR": "경기도 안양시 만안구 안양8동 594-5번지 1층",
+		"TELNO": "0314483626",
+		"REFINE_ZIPNO": "14094",
+		"REFINE_WGS84_LAT": "37.3831632534",
+		"REFINE_WGS84_LOGT": "126.9331397928",
+		"DATA_STD_DE": "2020-08-18"
+	},
+	{
+		"SIGUN_NM": "안양시",
+		"CMPNM_NM": "아이리스플라워",
+		"INDUTYPE_NM": "문화.취미-화원",
+		"REFINE_ROADNM_ADDR": "",
+		"REFINE_LOTNO_ADDR": "경기도 안양시 만안구 안양8동 598-15번지",
+		"TELNO": "0314428342",
+		"REFINE_ZIPNO": "14094",
+		"REFINE_WGS84_LAT": "37.3828690250",
+		"REFINE_WGS84_LOGT": "126.9319333657",
+		"DATA_STD_DE": "2020-08-18"
+	},
+	{
+		"SIGUN_NM": "안양시",
+		"CMPNM_NM": "이홍구",
+		"INDUTYPE_NM": "용역 서비스-화물운송",
+		"REFINE_ROADNM_ADDR": "",
+		"REFINE_LOTNO_ADDR": "경기도 안양시 만안구 안양8동 463-5번지 연합연립",
+		"TELNO": "",
+		"REFINE_ZIPNO": "14091",
+		"REFINE_WGS84_LAT": "37.3841700156",
+		"REFINE_WGS84_LOGT": "126.9269533492",
+		"DATA_STD_DE": "2020-08-18"
+	}
+]

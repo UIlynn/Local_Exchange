@@ -1,0 +1,26 @@
+[
+	{
+		"SIGUN_NM": "광주시",
+		"CMPNM_NM": "블라인드나무",
+		"INDUTYPE_NM": "직물-카페트,커튼,천막,지물",
+		"REFINE_ROADNM_ADDR": "경기도 광주시 고불로 457",
+		"REFINE_LOTNO_ADDR": "경기도 광주시 삼동 504번지 우남아파트 상가동 201호",
+		"TELNO": "",
+		"REFINE_ZIPNO": "12767",
+		"REFINE_WGS84_LAT": "37.4097937995",
+		"REFINE_WGS84_LOGT": "127.1996940362",
+		"DATA_STD_DE": "2020-08-18"
+	},
+	{
+		"SIGUN_NM": "광주시",
+		"CMPNM_NM": "이편한명품세탁소",
+		"INDUTYPE_NM": "수리서비스-세탁소",
+		"REFINE_ROADNM_ADDR": "경기도 광주시 순암로36번길 61",
+		"REFINE_LOTNO_ADDR": "경기도 광주시 역동 246번지 이편한세상광주역4단지 상가동 103호",
+		"TELNO": "",
+		"REFINE_ZIPNO": "12777",
+		"REFINE_WGS84_LAT": "37.3994023555",
+		"REFINE_WGS84_LOGT": "127.2464992221",
+		"DATA_STD_DE": "2020-08-18"
+	}
+]

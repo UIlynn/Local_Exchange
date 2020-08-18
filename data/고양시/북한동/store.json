@@ -1,0 +1,38 @@
+[
+	{
+		"SIGUN_NM": "고양시",
+		"CMPNM_NM": "대한불교남산율종서암사",
+		"INDUTYPE_NM": "보건위생-기타대인서비스",
+		"REFINE_ROADNM_ADDR": "",
+		"REFINE_LOTNO_ADDR": "경기도 고양시 덕양구 북한동 529",
+		"TELNO": "",
+		"REFINE_ZIPNO": "10582",
+		"REFINE_WGS84_LAT": "37.6551317226",
+		"REFINE_WGS84_LOGT": "126.9547197214",
+		"DATA_STD_DE": "2020-08-18"
+	},
+	{
+		"SIGUN_NM": "고양시",
+		"CMPNM_NM": "수복장",
+		"INDUTYPE_NM": "일반휴게음식-일반한식",
+		"REFINE_ROADNM_ADDR": "",
+		"REFINE_LOTNO_ADDR": "경기도 고양시 덕양구 북한동 416-1번지",
+		"TELNO": "",
+		"REFINE_ZIPNO": "10582",
+		"REFINE_WGS84_LAT": "37.6509097711",
+		"REFINE_WGS84_LOGT": "126.9645243192",
+		"DATA_STD_DE": "2020-08-18"
+	},
+	{
+		"SIGUN_NM": "고양시",
+		"CMPNM_NM": "수복장",
+		"INDUTYPE_NM": "일반휴게음식-일반한식",
+		"REFINE_ROADNM_ADDR": "",
+		"REFINE_LOTNO_ADDR": "경기도 고양시 덕양구 북한동 416-1번지",
+		"TELNO": "",
+		"REFINE_ZIPNO": "10582",
+		"REFINE_WGS84_LAT": "37.6509097711",
+		"REFINE_WGS84_LOGT": "126.9645243192",
+		"DATA_STD_DE": "2020-08-18"
+	}
+]

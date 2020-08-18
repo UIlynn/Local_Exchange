@@ -1,0 +1,14 @@
+[
+	{
+		"SIGUN_NM": "안산시",
+		"CMPNM_NM": "코스모스장갑공장",
+		"INDUTYPE_NM": "기타-기계공구",
+		"REFINE_ROADNM_ADDR": "경기도 안산시 단원구 선부로 296",
+		"REFINE_LOTNO_ADDR": "경기도 안산시 단원구 와동 98-12번지 기아자동차카클리릭 G동 1층",
+		"TELNO": "",
+		"REFINE_ZIPNO": "15255",
+		"REFINE_WGS84_LAT": "37.3420402346",
+		"REFINE_WGS84_LOGT": "126.8277222018",
+		"DATA_STD_DE": "2020-08-18"
+	}
+]

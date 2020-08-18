@@ -1,0 +1,26 @@
+[
+	{
+		"SIGUN_NM": "의왕시",
+		"CMPNM_NM": "세븐일레븐의왕삼동본점",
+		"INDUTYPE_NM": "유통업 영리-편 의 점",
+		"REFINE_ROADNM_ADDR": "경기도 의왕시 장승길 2",
+		"REFINE_LOTNO_ADDR": "경기도 의왕시 삼동 208-28번지 우성자동차공업사 103호",
+		"TELNO": "",
+		"REFINE_ZIPNO": "16091",
+		"REFINE_WGS84_LAT": "37.3209445892",
+		"REFINE_WGS84_LOGT": "126.9549726923",
+		"DATA_STD_DE": "2020-08-18"
+	},
+	{
+		"SIGUN_NM": "의왕시",
+		"CMPNM_NM": "카페드모모(cafe de momo)",
+		"INDUTYPE_NM": "일반휴게음식-서양음식",
+		"REFINE_ROADNM_ADDR": "경기도 의왕시 장승길 2",
+		"REFINE_LOTNO_ADDR": "경기도 의왕시 삼동 208-28번지 우성자동차공업사 다동 1층",
+		"TELNO": "",
+		"REFINE_ZIPNO": "16091",
+		"REFINE_WGS84_LAT": "37.3209445892",
+		"REFINE_WGS84_LOGT": "126.9549726923",
+		"DATA_STD_DE": "2020-08-18"
+	}
+]

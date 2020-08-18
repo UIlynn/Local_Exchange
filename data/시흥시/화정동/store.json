@@ -1,0 +1,50 @@
+[
+	{
+		"SIGUN_NM": "시흥시",
+		"CMPNM_NM": "남한강 물고기",
+		"INDUTYPE_NM": "음식점업",
+		"REFINE_ROADNM_ADDR": "경기도 시흥시 능곡로73번길 2",
+		"REFINE_LOTNO_ADDR": "경기도 시흥시 화정동 670번지",
+		"TELNO": "",
+		"REFINE_ZIPNO": "14992",
+		"REFINE_WGS84_LAT": "37.3613040667",
+		"REFINE_WGS84_LOGT": "126.8154110367",
+		"DATA_STD_DE": "2020-08-18"
+	},
+	{
+		"SIGUN_NM": "시흥시",
+		"CMPNM_NM": "샬롬화원",
+		"INDUTYPE_NM": "소매업",
+		"REFINE_ROADNM_ADDR": "",
+		"REFINE_LOTNO_ADDR": "경기도 시흥시 화정동 670-3",
+		"TELNO": "",
+		"REFINE_ZIPNO": "14992",
+		"REFINE_WGS84_LAT": "37.3611701601",
+		"REFINE_WGS84_LOGT": "126.8151862457",
+		"DATA_STD_DE": "2020-08-18"
+	},
+	{
+		"SIGUN_NM": "시흥시",
+		"CMPNM_NM": "안산반품매장",
+		"INDUTYPE_NM": "소매업",
+		"REFINE_ROADNM_ADDR": "경기도 시흥시 능곡로76번길 7",
+		"REFINE_LOTNO_ADDR": "경기도 시흥시 화정동 655-2번지",
+		"TELNO": "",
+		"REFINE_ZIPNO": "14992",
+		"REFINE_WGS84_LAT": "37.3610937572",
+		"REFINE_WGS84_LOGT": "126.8164518469",
+		"DATA_STD_DE": "2020-08-18"
+	},
+	{
+		"SIGUN_NM": "시흥시",
+		"CMPNM_NM": "화정한우정육점",
+		"INDUTYPE_NM": "소매업",
+		"REFINE_ROADNM_ADDR": "경기도 시흥시 능곡로76번길 19",
+		"REFINE_LOTNO_ADDR": "경기도 시흥시 화정동 661번지",
+		"TELNO": "",
+		"REFINE_ZIPNO": "14992",
+		"REFINE_WGS84_LAT": "37.3601412242",
+		"REFINE_WGS84_LOGT": "126.8169573452",
+		"DATA_STD_DE": "2020-08-18"
+	}
+]

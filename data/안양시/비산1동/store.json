@@ -1,0 +1,122 @@
+[
+	{
+		"SIGUN_NM": "안양시",
+		"CMPNM_NM": "광제당한의원",
+		"INDUTYPE_NM": "의원-한의원",
+		"REFINE_ROADNM_ADDR": "",
+		"REFINE_LOTNO_ADDR": "경기도 안양시 동안구 비산1동 540~557",
+		"TELNO": "0314417654",
+		"REFINE_ZIPNO": "",
+		"REFINE_WGS84_LAT": "",
+		"REFINE_WGS84_LOGT": "",
+		"DATA_STD_DE": "2020-08-18"
+	},
+	{
+		"SIGUN_NM": "안양시",
+		"CMPNM_NM": "부부온누리약국",
+		"INDUTYPE_NM": "약국-약국",
+		"REFINE_ROADNM_ADDR": "",
+		"REFINE_LOTNO_ADDR": "경기도 안양시 동안구 비산1동 459-1 래미안아파트상가 201",
+		"TELNO": "0314491873",
+		"REFINE_ZIPNO": "13922",
+		"REFINE_WGS84_LAT": "",
+		"REFINE_WGS84_LOGT": "",
+		"DATA_STD_DE": "2020-08-18"
+	},
+	{
+		"SIGUN_NM": "안양시",
+		"CMPNM_NM": "삼성종합주방",
+		"INDUTYPE_NM": "주방용구-주방용구",
+		"REFINE_ROADNM_ADDR": "",
+		"REFINE_LOTNO_ADDR": "경기도 안양시 동안구 비산1동 103-1501호",
+		"TELNO": "0314433366",
+		"REFINE_ZIPNO": "13915",
+		"REFINE_WGS84_LAT": "",
+		"REFINE_WGS84_LOGT": "",
+		"DATA_STD_DE": "2020-08-18"
+	},
+	{
+		"SIGUN_NM": "안양시",
+		"CMPNM_NM": "샛별인테리어",
+		"INDUTYPE_NM": "직물-카페트,커튼,천막,지물",
+		"REFINE_ROADNM_ADDR": "경기도 안양시 동안구 달안로 63",
+		"REFINE_LOTNO_ADDR": "경기도 안양시 동안구 비산1동 1101-2샛별상가가-102",
+		"TELNO": "0313830560",
+		"REFINE_ZIPNO": "14043",
+		"REFINE_WGS84_LAT": "37.3959695723",
+		"REFINE_WGS84_LOGT": "126.9498543215",
+		"DATA_STD_DE": "2020-08-18"
+	},
+	{
+		"SIGUN_NM": "안양시",
+		"CMPNM_NM": "예인부부한의원",
+		"INDUTYPE_NM": "의원-한의원",
+		"REFINE_ROADNM_ADDR": "경기도 안양시 동안구 관악대로 135",
+		"REFINE_LOTNO_ADDR": "경기도 안양시 동안구 비산1동 425외1필지 삼성래미안 401호",
+		"TELNO": "0314447577",
+		"REFINE_ZIPNO": "13922",
+		"REFINE_WGS84_LAT": "37.4021821153",
+		"REFINE_WGS84_LOGT": "126.9387927468",
+		"DATA_STD_DE": "2020-08-18"
+	},
+	{
+		"SIGUN_NM": "안양시",
+		"CMPNM_NM": "임곡예솔어린이집[아이행복]",
+		"INDUTYPE_NM": "학원-유아원",
+		"REFINE_ROADNM_ADDR": "",
+		"REFINE_LOTNO_ADDR": "경기도 안양시 동안구 비산1동 임곡주공아파트 관리동",
+		"TELNO": "0314442299",
+		"REFINE_ZIPNO": "",
+		"REFINE_WGS84_LAT": "",
+		"REFINE_WGS84_LOGT": "",
+		"DATA_STD_DE": "2020-08-18"
+	},
+	{
+		"SIGUN_NM": "안양시",
+		"CMPNM_NM": "장수숯불갈비",
+		"INDUTYPE_NM": "일반휴게음식-일반한식",
+		"REFINE_ROADNM_ADDR": "",
+		"REFINE_LOTNO_ADDR": "경기도 안양시 동안구 비산1동 557-16번지",
+		"TELNO": "0314442689",
+		"REFINE_ZIPNO": "13956",
+		"REFINE_WGS84_LAT": "37.3987526093",
+		"REFINE_WGS84_LOGT": "126.9315404805",
+		"DATA_STD_DE": "2020-08-18"
+	},
+	{
+		"SIGUN_NM": "안양시",
+		"CMPNM_NM": "정코스메틱",
+		"INDUTYPE_NM": "보건위생-화장품",
+		"REFINE_ROADNM_ADDR": "",
+		"REFINE_LOTNO_ADDR": "경기도 안양시 동안구 비산1동 991-1번지 대맥프라자 4층",
+		"TELNO": "0313853305",
+		"REFINE_ZIPNO": "",
+		"REFINE_WGS84_LAT": "",
+		"REFINE_WGS84_LOGT": "",
+		"DATA_STD_DE": "2020-08-18"
+	},
+	{
+		"SIGUN_NM": "안양시",
+		"CMPNM_NM": "짱머리방",
+		"INDUTYPE_NM": "보건위생-미용원",
+		"REFINE_ROADNM_ADDR": "",
+		"REFINE_LOTNO_ADDR": "경기도 안양시 동안구 비산1동 삼성래미안아파트159동분구중심상가동101",
+		"TELNO": "0314415334",
+		"REFINE_ZIPNO": "",
+		"REFINE_WGS84_LAT": "",
+		"REFINE_WGS84_LOGT": "",
+		"DATA_STD_DE": "2020-08-18"
+	},
+	{
+		"SIGUN_NM": "안양시",
+		"CMPNM_NM": "프리피아",
+		"INDUTYPE_NM": "별도관리-자체물품대금",
+		"REFINE_ROADNM_ADDR": "경기도 안양시 동안구 관악대로 99",
+		"REFINE_LOTNO_ADDR": "경기도 안양시 동안구 비산1동 550-7번지 인보빌딩 1층",
+		"TELNO": "",
+		"REFINE_ZIPNO": "13923",
+		"REFINE_WGS84_LAT": "37.3990450827",
+		"REFINE_WGS84_LOGT": "126.9349521735",
+		"DATA_STD_DE": "2020-08-18"
+	}
+]

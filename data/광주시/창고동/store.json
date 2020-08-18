@@ -1,0 +1,14 @@
+[
+	{
+		"SIGUN_NM": "광주시",
+		"CMPNM_NM": "주식회사빌리브통상",
+		"INDUTYPE_NM": "음료식품-정육점",
+		"REFINE_ROADNM_ADDR": "경기도 광주시 순암로 536-7",
+		"REFINE_LOTNO_ADDR": "경기도 광주시 삼동 288-1번지 창고동 2층",
+		"TELNO": "",
+		"REFINE_ZIPNO": "12767",
+		"REFINE_WGS84_LAT": "37.4123287078",
+		"REFINE_WGS84_LOGT": "127.1969605571",
+		"DATA_STD_DE": "2020-08-18"
+	}
+]

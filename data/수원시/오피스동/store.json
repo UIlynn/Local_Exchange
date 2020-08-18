@@ -1,0 +1,26 @@
+[
+	{
+		"SIGUN_NM": "수원시",
+		"CMPNM_NM": "광교삼성내과",
+		"INDUTYPE_NM": "의원-의원",
+		"REFINE_ROADNM_ADDR": "",
+		"REFINE_LOTNO_ADDR": "경기 수원시 영통구 법조로 25업무5-1블록 SK VIEW LAKE 301호 (하동, 오피스동)",
+		"TELNO": "",
+		"REFINE_ZIPNO": "",
+		"REFINE_WGS84_LAT": "",
+		"REFINE_WGS84_LOGT": "",
+		"DATA_STD_DE": "2020-08-18"
+	},
+	{
+		"SIGUN_NM": "수원시",
+		"CMPNM_NM": "소민 세무회계",
+		"INDUTYPE_NM": "용역 서비스-법률회계서비스(개인)",
+		"REFINE_ROADNM_ADDR": "경기도 수원시 영통구 법조로 25",
+		"REFINE_LOTNO_ADDR": "경기도 수원시 영통구 하동 1016-1번지 오피스동 29층 1호",
+		"TELNO": "",
+		"REFINE_ZIPNO": "16514",
+		"REFINE_WGS84_LAT": "37.2874813120",
+		"REFINE_WGS84_LOGT": "127.0602221632",
+		"DATA_STD_DE": "2020-08-18"
+	}
+]

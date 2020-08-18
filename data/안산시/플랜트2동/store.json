@@ -1,0 +1,14 @@
+[
+	{
+		"SIGUN_NM": "안산시",
+		"CMPNM_NM": "한양대마이크로바이오칩센타",
+		"INDUTYPE_NM": "용역 서비스-사무서비스",
+		"REFINE_ROADNM_ADDR": "경기도 안산시 상록구 해안로 705",
+		"REFINE_LOTNO_ADDR": "경기도 안산시 상록구 사동 1271-11 플랜트2동1층110호,2층210호",
+		"TELNO": "",
+		"REFINE_ZIPNO": "15588",
+		"REFINE_WGS84_LAT": "37.2909269482",
+		"REFINE_WGS84_LOGT": "126.8299936629",
+		"DATA_STD_DE": "2020-08-18"
+	}
+]

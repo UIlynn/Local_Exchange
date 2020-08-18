@@ -1,0 +1,14 @@
+[
+	{
+		"SIGUN_NM": "수원시",
+		"CMPNM_NM": "벨로벨로자전거대여",
+		"INDUTYPE_NM": "레져용품-스포츠•레져용품",
+		"REFINE_ROADNM_ADDR": "경기도 수원시 영통구 광교호수로 84",
+		"REFINE_LOTNO_ADDR": "경기도 수원시 영통구 하동 1034번지 제상가동 1층 103호",
+		"TELNO": "",
+		"REFINE_ZIPNO": "16513",
+		"REFINE_WGS84_LAT": "37.2760067110",
+		"REFINE_WGS84_LOGT": "127.0675982298",
+		"DATA_STD_DE": "2020-08-18"
+	}
+]

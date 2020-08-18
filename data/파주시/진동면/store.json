@@ -1,0 +1,110 @@
+[
+	{
+		"SIGUN_NM": "파주시",
+		"CMPNM_NM": "DMZ한아름농원",
+		"INDUTYPE_NM": "음료식품-농•축•수산품",
+		"REFINE_ROADNM_ADDR": "경기도 파주시 진동면 높은음자리길 27",
+		"REFINE_LOTNO_ADDR": "경기도 파주시 진동면 동파리 1755-5번지",
+		"TELNO": "",
+		"REFINE_ZIPNO": "10800",
+		"REFINE_WGS84_LAT": "37.9261147848",
+		"REFINE_WGS84_LOGT": "126.7884752005",
+		"DATA_STD_DE": "2020-08-18"
+	},
+	{
+		"SIGUN_NM": "파주시",
+		"CMPNM_NM": "DMZ황금알농장",
+		"INDUTYPE_NM": "음료식품-농•축•수산품",
+		"REFINE_ROADNM_ADDR": "경기도 파주시 진동면 구암로 205",
+		"REFINE_LOTNO_ADDR": "경기도 파주시 진동면 하포리 산129번지",
+		"TELNO": "",
+		"REFINE_ZIPNO": "10800",
+		"REFINE_WGS84_LAT": "37.9285966171",
+		"REFINE_WGS84_LOGT": "126.8148497168",
+		"DATA_STD_DE": "2020-08-18"
+	},
+	{
+		"SIGUN_NM": "파주시",
+		"CMPNM_NM": "로샤",
+		"INDUTYPE_NM": "의류-내의판매",
+		"REFINE_ROADNM_ADDR": "경기도 파주시 진동면 높은음자리길 103",
+		"REFINE_LOTNO_ADDR": "경기도 파주시 진동면 동파리 1752-1번지",
+		"TELNO": "",
+		"REFINE_ZIPNO": "10800",
+		"REFINE_WGS84_LAT": "37.9272786048",
+		"REFINE_WGS84_LOGT": "126.7871782229",
+		"DATA_STD_DE": "2020-08-18"
+	},
+	{
+		"SIGUN_NM": "파주시",
+		"CMPNM_NM": "아뜰리에",
+		"INDUTYPE_NM": "학원-기타 교육기관",
+		"REFINE_ROADNM_ADDR": "경기도 파주시 진동면 높은음자리길 97-9",
+		"REFINE_LOTNO_ADDR": "경기도 파주시 진동면 동파리 1750-3번지",
+		"TELNO": "",
+		"REFINE_ZIPNO": "10800",
+		"REFINE_WGS84_LAT": "37.9273461520",
+		"REFINE_WGS84_LOGT": "126.7864265941",
+		"DATA_STD_DE": "2020-08-18"
+	},
+	{
+		"SIGUN_NM": "파주시",
+		"CMPNM_NM": "임진강6.15사과원",
+		"INDUTYPE_NM": "음료식품-농•축•수산품",
+		"REFINE_ROADNM_ADDR": "",
+		"REFINE_LOTNO_ADDR": "경기도 파주시 진동면 서곡리744",
+		"TELNO": "",
+		"REFINE_ZIPNO": "",
+		"REFINE_WGS84_LAT": "37.9525117863",
+		"REFINE_WGS84_LOGT": "126.7746431325",
+		"DATA_STD_DE": "2020-08-18"
+	},
+	{
+		"SIGUN_NM": "파주시",
+		"CMPNM_NM": "해마루유통",
+		"INDUTYPE_NM": "의류-정장",
+		"REFINE_ROADNM_ADDR": "경기도 파주시 진동면 높은음자리길 136",
+		"REFINE_LOTNO_ADDR": "경기도 파주시 진동면 동파리 1755-2번지 1층",
+		"TELNO": "",
+		"REFINE_ZIPNO": "10800",
+		"REFINE_WGS84_LAT": "37.9265392579",
+		"REFINE_WGS84_LOGT": "126.7886190280",
+		"DATA_STD_DE": "2020-08-18"
+	},
+	{
+		"SIGUN_NM": "파주시",
+		"CMPNM_NM": "해마루촌쉼터",
+		"INDUTYPE_NM": "신변잡화-기타잡화",
+		"REFINE_ROADNM_ADDR": "경기도 파주시 진동면 해마루길 80",
+		"REFINE_LOTNO_ADDR": "경기도 파주시 진동면 동파리 1762번지",
+		"TELNO": "",
+		"REFINE_ZIPNO": "10800",
+		"REFINE_WGS84_LAT": "37.9253519010",
+		"REFINE_WGS84_LOGT": "126.7890059459",
+		"DATA_STD_DE": "2020-08-18"
+	},
+	{
+		"SIGUN_NM": "파주시",
+		"CMPNM_NM": "해마루촌쉼터",
+		"INDUTYPE_NM": "일반휴게음식-일반한식",
+		"REFINE_ROADNM_ADDR": "경기도 파주시 진동면 해마루길 80",
+		"REFINE_LOTNO_ADDR": "경기도 파주시 진동면 동파리 1762번지 1층",
+		"TELNO": "",
+		"REFINE_ZIPNO": "10800",
+		"REFINE_WGS84_LAT": "37.9253519010",
+		"REFINE_WGS84_LOGT": "126.7890059459",
+		"DATA_STD_DE": "2020-08-18"
+	},
+	{
+		"SIGUN_NM": "파주시",
+		"CMPNM_NM": "해마루촌휴게소",
+		"INDUTYPE_NM": "일반휴게음식-일반한식",
+		"REFINE_ROADNM_ADDR": "경기도 파주시 진동면 해마루길 80",
+		"REFINE_LOTNO_ADDR": "경기도 파주시 진동면 동파리 1762번지 1층",
+		"TELNO": "",
+		"REFINE_ZIPNO": "10800",
+		"REFINE_WGS84_LAT": "37.9253519010",
+		"REFINE_WGS84_LOGT": "126.7890059459",
+		"DATA_STD_DE": "2020-08-18"
+	}
+]

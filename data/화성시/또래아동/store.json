@@ -1,0 +1,14 @@
+[
+	{
+		"SIGUN_NM": "화성시",
+		"CMPNM_NM": "또래아동도서 2동탄점",
+		"INDUTYPE_NM": "서적문구-일반서적",
+		"REFINE_ROADNM_ADDR": "경기도 화성시 왕배산2길 8-1",
+		"REFINE_LOTNO_ADDR": "경기도 화성시 목동 464-3번지 1층 또래아동도서",
+		"TELNO": "",
+		"REFINE_ZIPNO": "18490",
+		"REFINE_WGS84_LAT": "37.1802215461",
+		"REFINE_WGS84_LOGT": "127.1251484683",
+		"DATA_STD_DE": "2020-08-18"
+	}
+]

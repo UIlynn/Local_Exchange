@@ -1,0 +1,26 @@
+[
+	{
+		"SIGUN_NM": "화성시",
+		"CMPNM_NM": "김선생에듀원학원",
+		"INDUTYPE_NM": "학원-보습학원",
+		"REFINE_ROADNM_ADDR": "경기도 화성시 10용사로 286",
+		"REFINE_LOTNO_ADDR": "경기도 화성시 능동 1039번지 서동탄역우남퍼스트빌아파트 제상가동 302호",
+		"TELNO": "",
+		"REFINE_ZIPNO": "18418",
+		"REFINE_WGS84_LAT": "37.1987449832",
+		"REFINE_WGS84_LOGT": "127.0499199119",
+		"DATA_STD_DE": "2020-08-18"
+	},
+	{
+		"SIGUN_NM": "화성시",
+		"CMPNM_NM": "씨유병점성호점",
+		"INDUTYPE_NM": "유통업 영리-편 의 점",
+		"REFINE_ROADNM_ADDR": "경기도 화성시 10용사로 225",
+		"REFINE_LOTNO_ADDR": "경기도 화성시 능동 710-2번지 병점성호아파트 제상가동 1층 108호",
+		"TELNO": "",
+		"REFINE_ZIPNO": "18417",
+		"REFINE_WGS84_LAT": "37.1997637970",
+		"REFINE_WGS84_LOGT": "127.0429161686",
+		"DATA_STD_DE": "2020-08-18"
+	}
+]

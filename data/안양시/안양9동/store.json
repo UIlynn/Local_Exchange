@@ -1,0 +1,110 @@
+[
+	{
+		"SIGUN_NM": "안양시",
+		"CMPNM_NM": "노랑버스",
+		"INDUTYPE_NM": "서적문구-기타서적문구",
+		"REFINE_ROADNM_ADDR": "경기도 안양시 만안구 창박로 41",
+		"REFINE_LOTNO_ADDR": "경기도 안양시 만안구 안양9동 1088-1번지 포커스라인프라자 109호",
+		"TELNO": "0314717931",
+		"REFINE_ZIPNO": "14025",
+		"REFINE_WGS84_LAT": "37.3842124802",
+		"REFINE_WGS84_LOGT": "126.9027458869",
+		"DATA_STD_DE": "2020-08-18"
+	},
+	{
+		"SIGUN_NM": "안양시",
+		"CMPNM_NM": "병목안집",
+		"INDUTYPE_NM": "일반휴게음식-일반한식",
+		"REFINE_ROADNM_ADDR": "",
+		"REFINE_LOTNO_ADDR": "경기도 안양시 만안구 안양9동 1112번지 24통4반",
+		"TELNO": "0314667986",
+		"REFINE_ZIPNO": "14026",
+		"REFINE_WGS84_LAT": "37.3813814375",
+		"REFINE_WGS84_LOGT": "126.9061795760",
+		"DATA_STD_DE": "2020-08-18"
+	},
+	{
+		"SIGUN_NM": "안양시",
+		"CMPNM_NM": "사계절보리밥",
+		"INDUTYPE_NM": "일반휴게음식-일반한식",
+		"REFINE_ROADNM_ADDR": "",
+		"REFINE_LOTNO_ADDR": "경기도 안양시 만안구 안양9동 1054.2층",
+		"TELNO": "0314490726",
+		"REFINE_ZIPNO": "14025",
+		"REFINE_WGS84_LAT": "",
+		"REFINE_WGS84_LOGT": "",
+		"DATA_STD_DE": "2020-08-18"
+	},
+	{
+		"SIGUN_NM": "안양시",
+		"CMPNM_NM": "사랑어린이집[아이행복]",
+		"INDUTYPE_NM": "학원-유아원",
+		"REFINE_ROADNM_ADDR": "경기도 안양시 만안구 병목안로130번길 64-3",
+		"REFINE_LOTNO_ADDR": "경기도 안양시 만안구 안양9동 976번지",
+		"TELNO": "0314422082",
+		"REFINE_ZIPNO": "14019",
+		"REFINE_WGS84_LAT": "37.3923937698",
+		"REFINE_WGS84_LOGT": "126.9056973163",
+		"DATA_STD_DE": "2020-08-18"
+	},
+	{
+		"SIGUN_NM": "안양시",
+		"CMPNM_NM": "씨유안양병목안점",
+		"INDUTYPE_NM": "유통업 영리-편 의 점",
+		"REFINE_ROADNM_ADDR": "경기도 안양시 만안구 병목안로 126",
+		"REFINE_LOTNO_ADDR": "경기도 안양시 만안구 안양9동 759-46번지 제6 7호",
+		"TELNO": "0314424554",
+		"REFINE_ZIPNO": "14020",
+		"REFINE_WGS84_LAT": "37.3926827914",
+		"REFINE_WGS84_LOGT": "126.9094118064",
+		"DATA_STD_DE": "2020-08-18"
+	},
+	{
+		"SIGUN_NM": "안양시",
+		"CMPNM_NM": "안양시시설관리공단",
+		"INDUTYPE_NM": "용역 서비스-종합용역",
+		"REFINE_ROADNM_ADDR": "",
+		"REFINE_LOTNO_ADDR": "경기도 안양시 만안구 안양9동 381-10번지 경무관캠핑장관리사무소",
+		"TELNO": "0314698642",
+		"REFINE_ZIPNO": "14032",
+		"REFINE_WGS84_LAT": "",
+		"REFINE_WGS84_LOGT": "",
+		"DATA_STD_DE": "2020-08-18"
+	},
+	{
+		"SIGUN_NM": "안양시",
+		"CMPNM_NM": "이석민피자",
+		"INDUTYPE_NM": "일반휴게음식-서양음식",
+		"REFINE_ROADNM_ADDR": "경기도 안양시 만안구 병목안로 103",
+		"REFINE_LOTNO_ADDR": "경기도 안양시 만안구 안양9동 762-2프라자상가103-1",
+		"TELNO": "0314465959",
+		"REFINE_ZIPNO": "14020",
+		"REFINE_WGS84_LAT": "37.3936979632",
+		"REFINE_WGS84_LOGT": "126.9123524455",
+		"DATA_STD_DE": "2020-08-18"
+	},
+	{
+		"SIGUN_NM": "안양시",
+		"CMPNM_NM": "작은뜰음악학원",
+		"INDUTYPE_NM": "학원-예•체능계학원 ",
+		"REFINE_ROADNM_ADDR": "경기도 안양시 만안구 창박로 41",
+		"REFINE_LOTNO_ADDR": "경기도 안양시 만안구 안양9동 1088-1번지 포커스라인프라자 3층",
+		"TELNO": "0314661436",
+		"REFINE_ZIPNO": "14025",
+		"REFINE_WGS84_LAT": "37.3842124802",
+		"REFINE_WGS84_LOGT": "126.9027458869",
+		"DATA_STD_DE": "2020-08-18"
+	},
+	{
+		"SIGUN_NM": "안양시",
+		"CMPNM_NM": "함흥집",
+		"INDUTYPE_NM": "일반휴게음식-일반한식",
+		"REFINE_ROADNM_ADDR": "",
+		"REFINE_LOTNO_ADDR": "경기도 안양시 만안구 안양9동 1248번지",
+		"TELNO": "0314435253",
+		"REFINE_ZIPNO": "",
+		"REFINE_WGS84_LAT": "37.3833020225",
+		"REFINE_WGS84_LOGT": "126.9083177294",
+		"DATA_STD_DE": "2020-08-18"
+	}
+]

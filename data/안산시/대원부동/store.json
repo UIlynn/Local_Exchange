@@ -1,0 +1,14 @@
+[
+	{
+		"SIGUN_NM": "안산시",
+		"CMPNM_NM": "도도한그녀",
+		"INDUTYPE_NM": "의류-정장",
+		"REFINE_ROADNM_ADDR": "경기도 안산시 단원구 와동공원로 113",
+		"REFINE_LOTNO_ADDR": "경기도 안산시 단원구 와동 812-4번지 대원부동산 102호",
+		"TELNO": "",
+		"REFINE_ZIPNO": "15251",
+		"REFINE_WGS84_LAT": "37.3417589037",
+		"REFINE_WGS84_LOGT": "126.8210751960",
+		"DATA_STD_DE": "2020-08-18"
+	}
+]

@@ -1,0 +1,122 @@
+[
+	{
+		"SIGUN_NM": "안양시",
+		"CMPNM_NM": "담댁글로벌",
+		"INDUTYPE_NM": "신변잡화-기타잡화",
+		"REFINE_ROADNM_ADDR": "경기도 안양시 만안구 양화로 153-1",
+		"REFINE_LOTNO_ADDR": "경기도 안양시 만안구 박달1동 14-11B1",
+		"TELNO": "0314669055",
+		"REFINE_ZIPNO": "13980",
+		"REFINE_WGS84_LAT": "37.4061608719",
+		"REFINE_WGS84_LOGT": "126.9081309096",
+		"DATA_STD_DE": "2020-08-18"
+	},
+	{
+		"SIGUN_NM": "안양시",
+		"CMPNM_NM": "백양씽크박달대리점",
+		"INDUTYPE_NM": "주방용구-주방용구",
+		"REFINE_ROADNM_ADDR": "",
+		"REFINE_LOTNO_ADDR": "경기도 안양시 만안구 박달1동 69번지",
+		"TELNO": "0314685327",
+		"REFINE_ZIPNO": "",
+		"REFINE_WGS84_LAT": "",
+		"REFINE_WGS84_LOGT": "",
+		"DATA_STD_DE": "2020-08-18"
+	},
+	{
+		"SIGUN_NM": "안양시",
+		"CMPNM_NM": "아이티IT텔레콤",
+		"INDUTYPE_NM": "사무통신-통신기기",
+		"REFINE_ROADNM_ADDR": "경기도 안양시 만안구 양화로135번길 9",
+		"REFINE_LOTNO_ADDR": "경기도 안양시 만안구 박달1동 46",
+		"TELNO": "07074050533",
+		"REFINE_ZIPNO": "13984",
+		"REFINE_WGS84_LAT": "37.4044601227",
+		"REFINE_WGS84_LOGT": "126.9086979364",
+		"DATA_STD_DE": "2020-08-18"
+	},
+	{
+		"SIGUN_NM": "안양시",
+		"CMPNM_NM": "제일고추집",
+		"INDUTYPE_NM": "음료식품-농•축•수산품",
+		"REFINE_ROADNM_ADDR": "경기도 안양시 만안구 양화로136번길 9",
+		"REFINE_LOTNO_ADDR": "경기도 안양시 만안구 박달1동 22-21",
+		"TELNO": "0314664418",
+		"REFINE_ZIPNO": "13986",
+		"REFINE_WGS84_LAT": "37.4050689279",
+		"REFINE_WGS84_LOGT": "126.9096761685",
+		"DATA_STD_DE": "2020-08-18"
+	},
+	{
+		"SIGUN_NM": "안양시",
+		"CMPNM_NM": "조이명품구제의류",
+		"INDUTYPE_NM": "의류-기타의류",
+		"REFINE_ROADNM_ADDR": "",
+		"REFINE_LOTNO_ADDR": "경기도 안양시 만안구 박달1동 56-18.2",
+		"TELNO": "0314696544",
+		"REFINE_ZIPNO": "",
+		"REFINE_WGS84_LAT": "",
+		"REFINE_WGS84_LOGT": "",
+		"DATA_STD_DE": "2020-08-18"
+	},
+	{
+		"SIGUN_NM": "안양시",
+		"CMPNM_NM": "천재어린이집[아이행복]",
+		"INDUTYPE_NM": "학원-유아원",
+		"REFINE_ROADNM_ADDR": "경기도 안양시 만안구 양화로 120-1",
+		"REFINE_LOTNO_ADDR": "경기도 안양시 만안구 박달1동 20-26번지",
+		"TELNO": "0314665673",
+		"REFINE_ZIPNO": "13987",
+		"REFINE_WGS84_LAT": "37.4034669228",
+		"REFINE_WGS84_LOGT": "126.9101632863",
+		"DATA_STD_DE": "2020-08-18"
+	},
+	{
+		"SIGUN_NM": "안양시",
+		"CMPNM_NM": "태양종합공사",
+		"INDUTYPE_NM": "건축자재-인테리어전문",
+		"REFINE_ROADNM_ADDR": "경기도 안양시 만안구 양화로 131-7",
+		"REFINE_LOTNO_ADDR": "경기도 안양시 만안구 박달1동 16-10",
+		"TELNO": "",
+		"REFINE_ZIPNO": "13984",
+		"REFINE_WGS84_LAT": "37.4043816008",
+		"REFINE_WGS84_LOGT": "126.9092183045",
+		"DATA_STD_DE": "2020-08-18"
+	},
+	{
+		"SIGUN_NM": "안양시",
+		"CMPNM_NM": "파브노래연습장",
+		"INDUTYPE_NM": "레저업소-노 래 방",
+		"REFINE_ROADNM_ADDR": "경기도 안양시 만안구 양화로 159",
+		"REFINE_LOTNO_ADDR": "경기도 안양시 만안구 박달1동 13-11지하1층",
+		"TELNO": "0314414972",
+		"REFINE_ZIPNO": "13980",
+		"REFINE_WGS84_LAT": "37.4065113168",
+		"REFINE_WGS84_LOGT": "126.9079134669",
+		"DATA_STD_DE": "2020-08-18"
+	},
+	{
+		"SIGUN_NM": "안양시",
+		"CMPNM_NM": "한우사랑",
+		"INDUTYPE_NM": "음료식품-정육점",
+		"REFINE_ROADNM_ADDR": "경기도 안양시 만안구 박달로498번길 38",
+		"REFINE_LOTNO_ADDR": "경기도 안양시 만안구 박달1동 85우성상가22-125",
+		"TELNO": "0314474621",
+		"REFINE_ZIPNO": "14008",
+		"REFINE_WGS84_LAT": "37.4008981603",
+		"REFINE_WGS84_LOGT": "126.9083869732",
+		"DATA_STD_DE": "2020-08-18"
+	},
+	{
+		"SIGUN_NM": "안양시",
+		"CMPNM_NM": "화장품세상",
+		"INDUTYPE_NM": "보건위생-화장품",
+		"REFINE_ROADNM_ADDR": "",
+		"REFINE_LOTNO_ADDR": "경기도 안양시 만안구 박달1동 21-32번지",
+		"TELNO": "0314426041",
+		"REFINE_ZIPNO": "13987",
+		"REFINE_WGS84_LAT": "",
+		"REFINE_WGS84_LOGT": "",
+		"DATA_STD_DE": "2020-08-18"
+	}
+]

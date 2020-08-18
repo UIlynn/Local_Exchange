@@ -1,0 +1,14 @@
+[
+	{
+		"SIGUN_NM": "부천시",
+		"CMPNM_NM": "일신풍력",
+		"INDUTYPE_NM": "건축자재-보일러•펌프•샷시",
+		"REFINE_ROADNM_ADDR": "경기도 부천시 수도로 153",
+		"REFINE_LOTNO_ADDR": "경기도 부천시 내동 202-5번지 유전빌딩 동관동 1층 102호",
+		"TELNO": "",
+		"REFINE_ZIPNO": "14490",
+		"REFINE_WGS84_LAT": "37.5179347936",
+		"REFINE_WGS84_LOGT": "126.7822752815",
+		"DATA_STD_DE": "2020-08-18"
+	}
+]

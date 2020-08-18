@@ -1,0 +1,38 @@
+[
+	{
+		"SIGUN_NM": "성남시",
+		"CMPNM_NM": "석운촌",
+		"INDUTYPE_NM": "한식",
+		"REFINE_ROADNM_ADDR": "경기도 성남시 분당구 석운로202번길 7",
+		"REFINE_LOTNO_ADDR": "경기도 성남시 분당구 석운동 7-7번지 석운촌 1층",
+		"TELNO": "",
+		"REFINE_ZIPNO": "13545",
+		"REFINE_WGS84_LAT": "37.3807133677",
+		"REFINE_WGS84_LOGT": "127.0463835636",
+		"DATA_STD_DE": "2020-08-18"
+	},
+	{
+		"SIGUN_NM": "성남시",
+		"CMPNM_NM": "소울앤보울",
+		"INDUTYPE_NM": "기타(도소매)",
+		"REFINE_ROADNM_ADDR": "경기도 성남시 분당구 석운로143번길 9",
+		"REFINE_LOTNO_ADDR": "경기도 성남시 분당구 석운동 60-43번지",
+		"TELNO": "",
+		"REFINE_ZIPNO": "13545",
+		"REFINE_WGS84_LAT": "37.3760908666",
+		"REFINE_WGS84_LOGT": "127.0444461158",
+		"DATA_STD_DE": "2020-08-18"
+	},
+	{
+		"SIGUN_NM": "성남시",
+		"CMPNM_NM": "헬로오드리",
+		"INDUTYPE_NM": "",
+		"REFINE_ROADNM_ADDR": "경기도 성남시 분당구 석운로202번길 12",
+		"REFINE_LOTNO_ADDR": "경기도 성남시 분당구 석운동 6-20번지 헬로오드리",
+		"TELNO": "031-8017-8746",
+		"REFINE_ZIPNO": "13545",
+		"REFINE_WGS84_LAT": "37.3799677094",
+		"REFINE_WGS84_LOGT": "127.0470318891",
+		"DATA_STD_DE": "2020-08-18"
+	}
+]

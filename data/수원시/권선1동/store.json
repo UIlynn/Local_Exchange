@@ -1,0 +1,50 @@
+[
+	{
+		"SIGUN_NM": "수원시",
+		"CMPNM_NM": "늘봄실버밸리",
+		"INDUTYPE_NM": "기타의료기관-기타의료기관 및 기타의료",
+		"REFINE_ROADNM_ADDR": "경기도 수원시 권선구 세지로126번길 47-22",
+		"REFINE_LOTNO_ADDR": "경기도 수원시 권선구 권선1동 945-1",
+		"TELNO": "",
+		"REFINE_ZIPNO": "16569",
+		"REFINE_WGS84_LAT": "37.2631074594",
+		"REFINE_WGS84_LOGT": "127.0229327184",
+		"DATA_STD_DE": "2020-08-18"
+	},
+	{
+		"SIGUN_NM": "수원시",
+		"CMPNM_NM": "수원우리밀.복음자리",
+		"INDUTYPE_NM": "음료식품-농•축•수산품",
+		"REFINE_ROADNM_ADDR": "경기도 수원시 권선구 세권로221번길 34",
+		"REFINE_LOTNO_ADDR": "경기도 수원시 권선구 권선1동 1042번지",
+		"TELNO": "",
+		"REFINE_ZIPNO": "16568",
+		"REFINE_WGS84_LAT": "37.2561196993",
+		"REFINE_WGS84_LOGT": "127.0292015868",
+		"DATA_STD_DE": "2020-08-18"
+	},
+	{
+		"SIGUN_NM": "수원시",
+		"CMPNM_NM": "스노우메이킹",
+		"INDUTYPE_NM": "농업-농기계",
+		"REFINE_ROADNM_ADDR": "경기도 수원시 권선구 매탄로 11",
+		"REFINE_LOTNO_ADDR": "경기도 수원시 권선구 권선1동 1240 권선현대아파트 204동 601호 33/12",
+		"TELNO": "",
+		"REFINE_ZIPNO": "16550",
+		"REFINE_WGS84_LAT": "37.2533880266",
+		"REFINE_WGS84_LOGT": "127.0359393233",
+		"DATA_STD_DE": "2020-08-18"
+	},
+	{
+		"SIGUN_NM": "수원시",
+		"CMPNM_NM": "활법수원시남부지부",
+		"INDUTYPE_NM": "레저업소-기타레져업소",
+		"REFINE_ROADNM_ADDR": "경기도 수원시 권선구 세권로165번길 20-21",
+		"REFINE_LOTNO_ADDR": "경기도 수원시 권선구 권선1동 1055-11번지 ,203호(권선동)",
+		"TELNO": "",
+		"REFINE_ZIPNO": "16566",
+		"REFINE_WGS84_LAT": "37.2569268168",
+		"REFINE_WGS84_LOGT": "127.0236595911",
+		"DATA_STD_DE": "2020-08-18"
+	}
+]

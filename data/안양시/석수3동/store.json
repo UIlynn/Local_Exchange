@@ -1,0 +1,74 @@
+[
+	{
+		"SIGUN_NM": "안양시",
+		"CMPNM_NM": "김흥걸",
+		"INDUTYPE_NM": "용역 서비스-화물운송",
+		"REFINE_ROADNM_ADDR": "경기도 안양시 만안구 와룡로4번길 28",
+		"REFINE_LOTNO_ADDR": "경기도 안양시 만안구 석수3동 792-7번지 신일3차 102호",
+		"TELNO": "",
+		"REFINE_ZIPNO": "13974",
+		"REFINE_WGS84_LAT": "37.4049847058",
+		"REFINE_WGS84_LOGT": "126.9001065555",
+		"DATA_STD_DE": "2020-08-18"
+	},
+	{
+		"SIGUN_NM": "안양시",
+		"CMPNM_NM": "세브란스치과의원",
+		"INDUTYPE_NM": "의원-치과의원",
+		"REFINE_ROADNM_ADDR": "경기도 안양시 만안구 충훈로 87",
+		"REFINE_LOTNO_ADDR": "경기도 안양시 만안구 석수3동 785-17번지",
+		"TELNO": "0314721454",
+		"REFINE_ZIPNO": "13974",
+		"REFINE_WGS84_LAT": "37.4075287012",
+		"REFINE_WGS84_LOGT": "126.8987529417",
+		"DATA_STD_DE": "2020-08-18"
+	},
+	{
+		"SIGUN_NM": "안양시",
+		"CMPNM_NM": "엄마방",
+		"INDUTYPE_NM": "가구-일반가구",
+		"REFINE_ROADNM_ADDR": "",
+		"REFINE_LOTNO_ADDR": "경기도 안양시 만안구 석수3동 758-14번지 복성상가 3호",
+		"TELNO": "0314413758",
+		"REFINE_ZIPNO": "",
+		"REFINE_WGS84_LAT": "",
+		"REFINE_WGS84_LOGT": "",
+		"DATA_STD_DE": "2020-08-18"
+	},
+	{
+		"SIGUN_NM": "안양시",
+		"CMPNM_NM": "엔젤어린이집[아이행복]",
+		"INDUTYPE_NM": "학원-유아원",
+		"REFINE_ROADNM_ADDR": "경기도 안양시 만안구 석수로178번길 21",
+		"REFINE_LOTNO_ADDR": "경기도 안양시 만안구 석수3동 763-12번지",
+		"TELNO": "0314728930",
+		"REFINE_ZIPNO": "13975",
+		"REFINE_WGS84_LAT": "37.4066174137",
+		"REFINE_WGS84_LOGT": "126.8968054511",
+		"DATA_STD_DE": "2020-08-18"
+	},
+	{
+		"SIGUN_NM": "안양시",
+		"CMPNM_NM": "정휘수",
+		"INDUTYPE_NM": "용역 서비스-화물운송",
+		"REFINE_ROADNM_ADDR": "",
+		"REFINE_LOTNO_ADDR": "경기도 안양시 만안구 석수3동 625-1번지 파크빌라",
+		"TELNO": "",
+		"REFINE_ZIPNO": "13972",
+		"REFINE_WGS84_LAT": "37.4099252051",
+		"REFINE_WGS84_LOGT": "126.9003044559",
+		"DATA_STD_DE": "2020-08-18"
+	},
+	{
+		"SIGUN_NM": "안양시",
+		"CMPNM_NM": "한신상회",
+		"INDUTYPE_NM": "음료식품-농•축•수산품",
+		"REFINE_ROADNM_ADDR": "경기도 안양시 만안구 와룡로28번길 10",
+		"REFINE_LOTNO_ADDR": "경기도 안양시 만안구 석수3동 781번지 1층",
+		"TELNO": "0314717083",
+		"REFINE_ZIPNO": "13974",
+		"REFINE_WGS84_LAT": "37.4067518897",
+		"REFINE_WGS84_LOGT": "126.8984314702",
+		"DATA_STD_DE": "2020-08-18"
+	}
+]

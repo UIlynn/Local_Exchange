@@ -1,0 +1,14 @@
+[
+	{
+		"SIGUN_NM": "안산시",
+		"CMPNM_NM": "안산서비스",
+		"INDUTYPE_NM": "자동차정비 유지-자동차부품",
+		"REFINE_ROADNM_ADDR": "경기도 안산시 단원구 삼일로 457",
+		"REFINE_LOTNO_ADDR": "경기도 안산시 단원구 와동 685-5번지 대우자동차안산올림픽영업소 101호",
+		"TELNO": "",
+		"REFINE_ZIPNO": "15270",
+		"REFINE_WGS84_LAT": "37.3306647511",
+		"REFINE_WGS84_LOGT": "126.8276994143",
+		"DATA_STD_DE": "2020-08-18"
+	}
+]

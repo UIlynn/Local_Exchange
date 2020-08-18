@@ -1,0 +1,62 @@
+[
+	{
+		"SIGUN_NM": "여주시",
+		"CMPNM_NM": "(주)썬앤토이",
+		"INDUTYPE_NM": "서적문구-완구점",
+		"REFINE_ROADNM_ADDR": "경기도 여주시 단현길 13",
+		"REFINE_LOTNO_ADDR": "경기도 여주시 단현동 56-5번지",
+		"TELNO": "",
+		"REFINE_ZIPNO": "12654",
+		"REFINE_WGS84_LAT": "37.2719350431",
+		"REFINE_WGS84_LOGT": "127.6807841234",
+		"DATA_STD_DE": "2020-08-18"
+	},
+	{
+		"SIGUN_NM": "여주시",
+		"CMPNM_NM": "농업회사법인주식회사올제",
+		"INDUTYPE_NM": "음료식품-농•축•수산품",
+		"REFINE_ROADNM_ADDR": "경기도 여주시 명성로 114-26",
+		"REFINE_LOTNO_ADDR": "경기도 여주시 단현동 329-7번지",
+		"TELNO": "",
+		"REFINE_ZIPNO": "12654",
+		"REFINE_WGS84_LAT": "37.2589602164",
+		"REFINE_WGS84_LOGT": "127.6647618654",
+		"DATA_STD_DE": "2020-08-18"
+	},
+	{
+		"SIGUN_NM": "여주시",
+		"CMPNM_NM": "로그인 편의점 강천보점",
+		"INDUTYPE_NM": "유통업 영리-편 의 점",
+		"REFINE_ROADNM_ADDR": "경기도 여주시 신단1길 83",
+		"REFINE_LOTNO_ADDR": "경기도 여주시 단현동 9번지",
+		"TELNO": "",
+		"REFINE_ZIPNO": "12654",
+		"REFINE_WGS84_LAT": "37.2800580554",
+		"REFINE_WGS84_LOGT": "127.6797760560",
+		"DATA_STD_DE": "2020-08-18"
+	},
+	{
+		"SIGUN_NM": "여주시",
+		"CMPNM_NM": "위치커피",
+		"INDUTYPE_NM": "일반휴게음식-서양음식",
+		"REFINE_ROADNM_ADDR": "경기도 여주시 신단1길 83",
+		"REFINE_LOTNO_ADDR": "경기도 여주시 단현동 9번지 1층",
+		"TELNO": "",
+		"REFINE_ZIPNO": "12654",
+		"REFINE_WGS84_LAT": "37.2800580554",
+		"REFINE_WGS84_LOGT": "127.6797760560",
+		"DATA_STD_DE": "2020-08-18"
+	},
+	{
+		"SIGUN_NM": "여주시",
+		"CMPNM_NM": "주식회사보아스",
+		"INDUTYPE_NM": "숙박업-여관/기타숙박업",
+		"REFINE_ROADNM_ADDR": "경기도 여주시 단현길 54",
+		"REFINE_LOTNO_ADDR": "경기도 여주시 단현동 69-3번지",
+		"TELNO": "",
+		"REFINE_ZIPNO": "12654",
+		"REFINE_WGS84_LAT": "37.2696538357",
+		"REFINE_WGS84_LOGT": "127.6812185469",
+		"DATA_STD_DE": "2020-08-18"
+	}
+]

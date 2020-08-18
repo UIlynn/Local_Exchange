@@ -1,0 +1,14 @@
+[
+	{
+		"SIGUN_NM": "성남시",
+		"CMPNM_NM": "강원",
+		"INDUTYPE_NM": "기타숙박업",
+		"REFINE_ROADNM_ADDR": "경기도 성남시 수정구 수정남로52번길 14-2",
+		"REFINE_LOTNO_ADDR": "경기도 성남시 수정구 수진1동 213",
+		"TELNO": "",
+		"REFINE_ZIPNO": "13329",
+		"REFINE_WGS84_LAT": "37.4393987933",
+		"REFINE_WGS84_LOGT": "127.1339090504",
+		"DATA_STD_DE": "2020-08-18"
+	}
+]
