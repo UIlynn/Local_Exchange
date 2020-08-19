@@ -172,8 +172,8 @@
         }
 
         // 마커 삭제 함수
-        function clearAllMarker(cityName,townName){
-            console.log(`>clearAllMarker(${cityName},${townName})`)
+        function clearMarkers(cityName,townName){
+            console.log(`>clearMarkers(${cityName},${townName})`)
             if (!markers){
                 markers[`${cityName}_${townName}`].forEach(element=>{
                     element.setMap(null);
@@ -184,7 +184,6 @@
                 // 마커가 다 사라진 경우 다시 로딩
                 drawMarkStore()
             }
-            
         }
 
 
@@ -280,35 +279,50 @@
         }
 
 
+        // 지역 명에 가져온 json으로 마커 함수 실행하기
+        function jsonToMarker(cityName, townName){
+            // $.getJSON(`./data/성남시/운중동/store.json`, function(data){
+                $.getJSON(`./data/${cityName}/${townName}/store.json`, function(data){
+                            // console.dir(data[0]); // json 데이터 예시 확인용
+                            
+                            // 지도에 해당 지역 마커 표시
+                            // drawMarker(data[0])
+
+                            // 만일 카테고리 선택한게 있다면 
+                            if (currentCategoryName){
+                                data.forEach(element=>{
+                                    if (element.INDUTYPE_NM.indexOf(currentCategoryName) > -1 || element.CMPNM_NM.indexOf(currentCategoryName) > -1){
+                                        // console.dir(element);
+                                        drawMarker(element,cityName,townName);
+                                    }
+                                })
+                            } else{
+                                // 마커 표시
+                                data.forEach(element=>{
+                                    // console.log(`drawMarker(${element},${cityName},${townName})`)
+                                    drawMarker(element,cityName,townName);
+                                })    
+                            }
+                        })
+        }
+
+
         // 지역 명에 해당하는 json 불러오기
         function getStoreJson(cityName,townName){
             // json 파일 가져오기
             cityName = `${cityName}`.split(' ')[0];
             // console.log("가져올 json > ", `./data/${cityName}.json`)
-            // $.getJSON(`./data/${cityName}.json`, function(data){
-            // $.getJSON(`./data/성남시/운중동/store.json`, function(data){
-            $.getJSON(`./data/${cityName}/${townName}/store.json`, function(data){
-                // console.dir(data[0]); // json 데이터 예시 확인용
-                
-                // 지도에 해당 지역 마커 표시
-                // drawMarker(data[0])
-
-                // 만일 카테고리 선택한게 있다면 
-                if (currentCategoryName){
-                    data.forEach(element=>{
-                        if (element.INDUTYPE_NM.indexOf(currentCategoryName) > -1 || element.CMPNM_NM.indexOf(currentCategoryName) > -1){
-                            console.dir(element);
-                            drawMarker(element,cityName,townName);
-                        }
-                    })
-                } else{
-                    // 마커 표시
-                    data.forEach(element=>{
-                        console.log(`drawMarker(${element},${cityName},${townName})`)
-                        drawMarker(element,cityName,townName);
-                    })    
+            
+            // 에러 처리를 위한 fetch api 사용해서 미리 오류 만들기
+            fetch(`./data/${cityName}/${townName}`).then(
+                response => {
+                    console.log(response)
+                    if (response.ok){ // 파일이 존재하지 않으면 skip
+                        console.log(`${cityName}/${townName}.json 가져와서 찍기 실행`)
+                        jsonToMarker(cityName, townName)
+                    }
                 }
-            })
+            ) 
         }
 
 
@@ -322,22 +336,27 @@
                 console.log("도시 변경 없음")
                 return
             }else{
+                // console.log(currentArea);
+                // console.log(result);
                 // 1. 기존 지역에서 새로 감지된 영역 리스트에 없다면 마커를 삭제
                 currentArea.forEach(current =>{
                     let chk = false;
                     result.forEach(r => {
                         // console.log(r.code===current.code) // 지역코드가 달라도 동이 같을 수 있음
-                        // if (r.code == current.code){
-                        if (r.region_1depth_name == current.region_1depth_name && r.region_2depth_name == current.region_2depth_name ){
+
+                        if (r.region_1depth_name == current.region_1depth_name && r.region_2depth_name == current.region_2depth_name && r.code===current.code ){
                             chk = true;
+                            console.log(r.region_1depth_name , current.region_1depth_name)
+                            console.log(r.region_2depth_name , current.region_2depth_name)
                         }
                     })
 
                     // 찾았으면 true일 것, 없다면 cityName과 townName을 찾아 삭제
+                    console.log('chk', chk);
                     if (!chk){
                         const cityName = current.region_2depth_name.split(' ')[0];;
                         const townName = current.region_3depth_name;
-                        clearAllMarker(cityName, townName); // 마커 삭제
+                        clearMarkers(cityName, townName); // 마커 삭제
                     }
                 })
 
