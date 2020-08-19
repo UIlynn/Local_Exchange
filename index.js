@@ -67,7 +67,7 @@
          console.log(`>allClearMarkers()`)
  
          for (key in markers){
-             markers['성남시_운중동'].forEach(e=>{e.setMap(null)})
+             markers[key].forEach(e=>{e.setMap(null)})
          }
          
          // 빈 마커로 저장
