@@ -1,12 +1,13 @@
-// 주요 요소
-const btnSearch = document.querySelector('#btnSearch');
-const textSearch = document.querySelector('#textSearch');
-const mapContainer = document.querySelector('#mapContainer')
-const categorysBtn = document.querySelectorAll('#categorys button')
-const categorysDropdown = document.querySelectorAll('#categorys_sm .dropdown-item')
-const localSelectModalTitle = document.querySelector('#localSelectModalLabel')
-const localSelectModalBody = document.querySelector('#localSelectModalBody')
-let currentArea = []; // 현재 행정구역 정보
+ // 주요 요소
+ const btnSearch = document.querySelector('#btnSearch');
+ const textSearch = document.querySelector('#textSearch');
+ const mapContainer = document.querySelector('#mapContainer')
+ const categorysBtn = document.querySelectorAll('#categorys button')
+ const categorysDropdown = document.querySelectorAll('#categorys_sm .dropdown-item')
+ const localSelectModalTitle = document.querySelector('#localSelectModalLabel')
+ const localSelectModalBody = document.querySelector('#localSelectModalBody')
+
+ let currentArea = []; // 현재 행정구역 정보
 // let currentCityName; // 현재 도시
 // let currentTownName; // 현재 동 읍 면
 let currentOverlay =""; // 현재 오버레이
