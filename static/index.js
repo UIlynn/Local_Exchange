@@ -183,7 +183,7 @@ function closeOverlay() {
 // 지역 명에 가져온 json으로 마커 함수 실행하기
 function jsonToMarker(cityName, townName){
     // $.getJSON(`./data/성남시/운중동/store.json`, function(data){
-        $.getJSON(`./data/${cityName}/${townName}/store.json`, function(data){
+        $.getJSON(`data/${cityName}/${townName}/store.json`, function(data){
                     // console.dir(data[0]); // json 데이터 예시 확인용
                     
                     // 지도에 해당 지역 마커 표시
@@ -211,10 +211,10 @@ function jsonToMarker(cityName, townName){
 function getStoreJson(cityName,townName){
     // json 파일 가져오기
     cityName = `${cityName}`.split(' ')[0];
-    // console.log("가져올 json > ", `./data/${cityName}.json`)
+    // console.log("가져올 json > ", `data/${cityName}.json`)
     
     // 에러 처리를 위한 fetch api 사용해서 미리 오류 만들기
-    fetch(`./data/${cityName}/${townName}`).then(
+    fetch(`data/${cityName}/${townName}`).then(
         response => {
             // console.log(response)
             if (response.ok){ // 파일이 존재하지 않으면 skip
@@ -446,9 +446,9 @@ function init(){
 
 
     // 파일 참조 테스트
-    fetch('/data/가평군/가평읍/store.json').then(response => console.dir(response))
-    fetch('./data/가평군/가평읍/store.json').then(response => console.dir(response))
-    fetch('../data/가평군/가평읍/store.json').then(response => console.dir(response))
+    // fetch('/data/가평군/가평읍/store.json').then(response => console.dir(response.json()))
+    // fetch('data/가평군/가평읍/store.json').then(response => console.dir(response.json()))
+    // fetch('.data/가평군/가평읍/store.json').then(response => console.dir(response.json()))
 };
 
 init();
