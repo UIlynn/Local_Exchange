@@ -62,6 +62,16 @@ function phoneFomatter(num, type) {
     return formatNum;
 }
 
+// 마커 올 클리어 함수
+function allClearMarkers(){
+    console.log(`>allClearMarkers()`)
+
+    for (key in markers){
+        markers['성남시_운중동'].forEach(e=>{e.setMap(null)})
+    }
+}
+
+
 // 마커 삭제 함수
 function clearMarkers(cityName,townName){
     console.log(`>clearMarkers(${cityName},${townName})`)
@@ -307,6 +317,9 @@ function getLocation() {
 function selectCategory(event){
     // console.dir(event.target);
     // console.log('>>>selectCategory : ', event.target.innerText);
+
+    // 마커 모드 클리어
+    allClearMarkers()
 
     // 모두 checked 해제
     categorysBtn.forEach(btn=>{
