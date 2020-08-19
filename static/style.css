@@ -41,15 +41,6 @@
 .info:after {content: '';position: absolute;margin-left: -12px;left: 50%;bottom: 0;width: 22px;height: 12px;background: url('https://t1.daumcdn.net/localimg/localimages/07/mapapidoc/vertex_white.png')}
 .info .link {color: #5085BB;}
 
-/* 선택 메뉴 */
-.dropdown-item{
-    cursor: pointer;
-}
-
-.dropdown-item:hover{
-    background-color: #007bff;
-    color:white;
-}
 
 
 /* 헤더 */
@@ -93,21 +84,34 @@
     #categorys {display:block;}
 }
 
-#categorys, #categorys_sm{
+
+/* 선택화면 큰 화면 */
+#categorys{
     margin-top:10px;
 }
 
-#categorys{
-    
-}
-
-/* 선택했을 때 버튼 스타일 */
 #categorys .checked{
     color: #fff;
-    background-color: #007bff;
-    border-color: #007bff;
+    background-color: #000000;
+    border-color: #000000;
 }
 
-#categorys_sm{
 
+/* 선택 메뉴(작은화면) */
+#categorys_sm{
+    margin-top:10px;
+}
+
+#categorys_sm .dropdown-item{
+    cursor: pointer;
+}
+
+#categorys_sm .dropdown-item:hover{
+    background-color: #007bff;
+    color:white;
+}
+
+#categorys_sm .dropdown-item.checked {
+    background-color: #000000;
+    color: white;
 }

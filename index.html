@@ -58,12 +58,12 @@
     <!-- 카테고리 선택 큰 화면 -->
     <section id="categorys" class="container-fluid">
         <div class="row inner">
-            <button type="button" class="btn btn-outline-primary col-sm-2">식당</button>
-            <button type="button" class="btn btn-outline-primary col-sm-2">카페</button>
-            <button type="button" class="btn btn-outline-primary col-sm-2">마트</button>
-            <button type="button" class="btn btn-outline-primary col-sm-2">병원</button>
-            <button type="button" class="btn btn-outline-primary col-sm-2">의류</button>
-            <button type="button" class="btn btn-outline-primary col-sm-2">미용</button>
+            <button type="button" class="btn btn-outline-primary col-sm-2 restaurant">식당</button>
+            <button type="button" class="btn btn-outline-primary col-sm-2 cafe">카페</button>
+            <button type="button" class="btn btn-outline-primary col-sm-2 mart">마트</button>
+            <button type="button" class="btn btn-outline-primary col-sm-2 hospital">병원</button>
+            <button type="button" class="btn btn-outline-primary col-sm-2 clothing">의류</button>
+            <button type="button" class="btn btn-outline-primary col-sm-2 beauty">미용</button>
         </div>
     </section>
 
@@ -74,12 +74,12 @@
               카테고리 선택
             </button>
             <div class="dropdown-menu btn-block">
-              <a class="dropdown-item" href="#">식당</a>
-              <a class="dropdown-item" href="#">카페</a>
-              <a class="dropdown-item" href="#">마트</a>
-              <a class="dropdown-item" href="#">병원</a>
-              <a class="dropdown-item" href="#">의류</a>
-              <a class="dropdown-item" href="#">미용</a>
+              <a class="dropdown-item restaurant" href="#">식당</a>
+              <a class="dropdown-item cafe" href="#">카페</a>
+              <a class="dropdown-item mart" href="#">마트</a>
+              <a class="dropdown-item hospital" href="#">병원</a>
+              <a class="dropdown-item clothing" href="#">의류</a>
+              <a class="dropdown-item beauty" href="#">미용</a>
             </div>
           </div>
     </section>
@@ -122,8 +122,6 @@
         let currentCategoryName = "마트"; // 현재 카테고리 종류
         const markers = {} // 마커 관리 보관용
 
-        
-
         // 초기 맵 설정
         mapOption = {
             center: new kakao.maps.LatLng(37.566826, 126.9786567), // 지도의 중심좌표
@@ -139,10 +137,7 @@
         const geocoder = new kakao.maps.services.Geocoder();
 
 
-        // 여기서부터 함수 구현
-
-        
-
+        //////////// 여기서부터 함수 구현
 
         // 전화번호 포맷팅 함수
         function phoneFomatter(num, type) {
@@ -308,7 +303,6 @@
                         })
         }
 
-
         // 지역 명에 해당하는 json 불러오기
         function getStoreJson(cityName,townName){
             // json 파일 가져오기
@@ -318,15 +312,14 @@
             // 에러 처리를 위한 fetch api 사용해서 미리 오류 만들기
             fetch(`./data/${cityName}/${townName}`).then(
                 response => {
-                    console.log(response)
+                    // console.log(response)
                     if (response.ok){ // 파일이 존재하지 않으면 skip
-                        console.log(`${cityName}/${townName}.json 가져와서 찍기 실행`)
+                        // console.log(`${cityName}/${townName}.json 가져와서 찍기 실행`)
                         jsonToMarker(cityName, townName)
                     }
                 }
             ) 
         }
-
 
         // 지역 이름 얻기
         function getCityName(result, status){
@@ -348,13 +341,13 @@
 
                         if (r.region_1depth_name == current.region_1depth_name && r.region_2depth_name == current.region_2depth_name && r.code===current.code ){
                             chk = true;
-                            console.log(r.region_1depth_name , current.region_1depth_name)
-                            console.log(r.region_2depth_name , current.region_2depth_name)
+                            // console.log(r.region_1depth_name , current.region_1depth_name)
+                            // console.log(r.region_2depth_name , current.region_2depth_name)
                         }
                     })
 
                     // 찾았으면 true일 것, 없다면 cityName과 townName을 찾아 삭제
-                    console.log('chk', chk);
+                    // console.log('chk', chk);
                     if (!chk){
                         const cityName = current.region_2depth_name.split(' ')[0];;
                         const townName = current.region_3depth_name;
@@ -385,18 +378,6 @@
                 const newCityName = result[i].region_2depth_name;
                 const newTownName = result[i].region_3depth_name;
                 // console.log(newCityName, newTownName);
-
-                // 도시 변경이 있는지 여부에 따라 마커를 다시 생성
-                // if (newCityName==currentCityName){
-                //     console.log("도시 변경 없음")
-                // }else{
-                //     console.log(`도시 변경 ${currentCityName}->${newCityName}`)
-                //     console.log(`동 변경 ${currentTownName}->${newTownName}`)
-                //     currentCityName = newCityName;
-
-                //     // 가맹점 목록 가져오기
-                //     getStoreJson(newCityName, newTownName);
-                // }
             }
         }
 
@@ -428,23 +409,31 @@
             }
         }
 
-
-        
-
-
         // 카테고리 선택시 수행
         function selectCategory(event){
             // console.dir(event.target);
-            console.log('>>>selectCategory : ', event.target.innerText);
+            // console.log('>>>selectCategory : ', event.target.innerText);
 
             // 모두 checked 해제
             categorysBtn.forEach(btn=>{
                 btn.classList.remove('checked')
             })
 
-            event.target.classList.add('checked')
+            categorysDropdown.forEach(btn=>{
+                btn.classList.remove('checked')
+            })
 
-            // 지도 갱신
+            // 선택한 항목의 class중 맨뒤(업종) 클래스 확인
+            const g = event.target.classList[event.target.classList.length -1];
+            // console.log(g);
+
+            // 해당 장로 모두 checked
+            const check = document.querySelectorAll(`.${g}`);
+            check.forEach(e=>{
+                e.classList.add('checked')
+            })
+
+            // 선택카테고리와 마커 갱신
             currentCategoryName = event.target.innerText;
             drawMarkStore()
         };
@@ -540,12 +529,12 @@
                     searchArea()
                 }
             });
+
+            // 처음은 첫번째 카테고리를 선택하게 만듬
+            categorysBtn[0].click();
         };
 
         init();
-
-   
-
     </script>
 </body>
 </html>
