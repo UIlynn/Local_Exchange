@@ -60,7 +60,7 @@
         <div class="row inner">
             <button type="button" class="btn btn-outline-primary col-sm-2">식당</button>
             <button type="button" class="btn btn-outline-primary col-sm-2">카페</button>
-            <button type="button" class="btn btn-primary col-sm-2">마트</button>
+            <button type="button" class="btn btn-outline-primary col-sm-2">마트</button>
             <button type="button" class="btn btn-outline-primary col-sm-2">병원</button>
             <button type="button" class="btn btn-outline-primary col-sm-2">의류</button>
             <button type="button" class="btn btn-outline-primary col-sm-2">미용</button>
@@ -415,6 +415,13 @@
         function selectCategory(event){
             // console.dir(event.target);
             console.log('>>>selectCategory : ', event.target.innerText);
+
+            // 모두 checked 해제
+            categorysBtn.forEach(btn=>{
+                btn.classList.remove('checked')
+            })
+
+            event.target.classList.add('checked')
         };
 
         // 카테고리 버튼들에게 이벤트 추가

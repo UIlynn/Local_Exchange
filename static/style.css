@@ -98,7 +98,14 @@
 }
 
 #categorys{
+    
+}
 
+/* 선택했을 때 버튼 스타일 */
+#categorys .checked{
+    color: #fff;
+    background-color: #007bff;
+    border-color: #007bff;
 }
 
 #categorys_sm{
