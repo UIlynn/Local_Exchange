@@ -12,7 +12,7 @@
 // let currentTownName; // 현재 동 읍 면
 let currentOverlay =""; // 현재 오버레이
 let currentCategoryName = "마트"; // 현재 카테고리 종류
-const markers = {} // 마커 관리 보관용
+let markers = {} // 마커 관리 보관용
 const gpsBtn = document.querySelector('#gpsBtn') // 현위치 버튼
 const btnCategorys_sm = document.querySelector('#btnCategorys_sm') // 작은 화면 카테고리 선택 버튼
 
