@@ -443,6 +443,12 @@ function init(){
 
     // 현위치 버튼에 현재 위치 이동 이벤트 추가
     gpsBtn.addEventListener('click',getLocation);
+
+
+    // 파일 참조 테스트
+    fetch('/data/가평군/가평읍/store.json').then(response => console.dir(response))
+    fetch('./data/가평군/가평읍/store.json').then(response => console.dir(response))
+    fetch('../data/가평군/가평읍/store.json').then(response => console.dir(response))
 };
 
 init();
