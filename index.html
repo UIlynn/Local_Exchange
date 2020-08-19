@@ -422,6 +422,10 @@
             })
 
             event.target.classList.add('checked')
+
+            // 지도 갱신
+            currentCategoryName = event.target.innerText;
+            drawMarkStore()
         };
 
         // 카테고리 버튼들에게 이벤트 추가
