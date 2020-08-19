@@ -31,6 +31,7 @@
     <section id="top" class="container-fluid">
         <div class="row inner">
             <div class="col-sm-12 col-md-8 offset-md-2 input-group">
+                <button class="btn btn-outline-secondary" type="button" id="gpsBtn">현 위치로 이동</button>
                 <input id="textSearch" type="text" class="form-control" placeholder="검색 장소 입력" aria-label="Username"
                     aria-describedby="basic-addon1">
 
@@ -121,6 +122,7 @@
         let currentOverlay =""; // 현재 오버레이
         let currentCategoryName = "마트"; // 현재 카테고리 종류
         const markers = {} // 마커 관리 보관용
+        const gpsBtn = document.querySelector('#gpsBtn')
 
         // 초기 맵 설정
         mapOption = {
@@ -532,6 +534,9 @@
 
             // 처음은 첫번째 카테고리를 선택하게 만듬
             categorysBtn[0].click();
+
+            // 현위치 버튼에 현재 위치 이동 이벤트 추가
+            gpsBtn.addEventListener('click',getLocation);
         };
 
         init();
